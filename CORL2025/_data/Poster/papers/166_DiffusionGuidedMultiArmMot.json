@@ -1,0 +1,21 @@
+{
+  "title": "Diffusion-Guided Multi-Arm Motion Planning",
+  "zotero_key": "HTWGS457",
+  "authors": [
+    "Parimi, Viraj",
+    "Williams, Brian"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

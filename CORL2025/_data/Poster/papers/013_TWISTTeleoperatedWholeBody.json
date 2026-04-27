@@ -1,0 +1,25 @@
+{
+  "title": "TWIST: Teleoperated Whole-Body Imitation System",
+  "zotero_key": "YVLCGNAI",
+  "authors": [
+    "Ze, Yanjie",
+    "Chen, Zixuan",
+    "Peng, Xue Bin",
+    "Wu, Jiajun",
+    "Liu, C Karen"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Mobile Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning",
+      "Teleoperation-based Data Collection"
+    ]
+  }
+}

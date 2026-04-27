@@ -1,0 +1,12 @@
+{
+  "title": "Steering Your Diffusion Policy with Latent Space Reinforcement Learning",
+  "zotero_key": "LWKEID94",
+  "authors": ["Wagenmaker, Andrew", "Nakamoto, Mitsuhiko", "Zhang, Yunchu", "Park, Seohong", "Yagoub, Waleed", "Nagabandi, Anusha", "Gupta, Abhishek", "Levine, Sergey"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Diffusion Models"],
+    "methods": ["Diffusion Policy", "Reinforcement Learning"]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization",
+  "zotero_key": "SGASC43U",
+  "authors": [
+    "Ding, Yuxuan",
+    "Wang, Shuangge",
+    "Fitzgerald, Tesca"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning",
+      "Zero-shot/Few-shot Transfer"
+    ]
+  }
+}

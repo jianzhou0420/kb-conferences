@@ -1,0 +1,12 @@
+{
+  "title": "Stack It Up!: 3D Stable Structure Generation from 2D Hand-drawn Sketch",
+  "zotero_key": "FWW2QLB8",
+  "authors": ["Xu, Yiqing", "Li, Linfeng", "Yu, Cunjun", "Hsu, David"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["End-to-End Learning", "Language-conditioned Learning"]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models",
+  "zotero_key": "5LBBBCQG",
+  "authors": [
+    "Zhang, Zongzheng",
+    "Xu, Haobo",
+    "Yang, Zhuo",
+    "Yue, Chenghao",
+    "Lin, Zehao",
+    "Gao, Huan-ang",
+    "Wang, Ziwei",
+    "Zhao, Hao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model",
+      "VLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Poke and Strike: Learning Task-Informed Exploration Policies",
+  "zotero_key": "YL2HZ6Y4",
+  "authors": [
+    "Aoyama, Marina Y",
+    "Moura, Joao",
+    "Ferrandis, Juan Del Aguila",
+    "Vijayakumar, Sethu"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

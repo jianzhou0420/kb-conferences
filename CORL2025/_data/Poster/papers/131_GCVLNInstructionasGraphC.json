@@ -1,0 +1,25 @@
+{
+  "title": "GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation",
+  "zotero_key": "BNGK6X6N",
+  "authors": [
+    "Yin, Hang",
+    "Wei, Haoyu",
+    "Xu, Xiuwei",
+    "Guo, Wenxuan",
+    "Zhou, Jie",
+    "Lu, Jiwen"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Language-conditioned Learning"
+    ]
+  }
+}

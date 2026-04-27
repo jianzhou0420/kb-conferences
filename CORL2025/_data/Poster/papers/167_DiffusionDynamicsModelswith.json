@@ -1,0 +1,25 @@
+{
+  "title": "Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation",
+  "zotero_key": "FFRD8BWP",
+  "authors": [
+    "Tian, Tongxuan",
+    "Li, Haoyang",
+    "Ai, Bo",
+    "Yuan, Xiaodi",
+    "Huang, Zhiao",
+    "Su, Hao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "AirExo-2: Scaling up Generalizable Robotic Imitation Learning with Low-Cost Exoskeletons",
+  "zotero_key": "CG8RHK6X",
+  "authors": ["Fang, Hongjie", "Wang, Chenxi", "Wang, Yiming", "Chen, Jingjing", "Xia, Shangning", "Lv, Jun", "He, Zihao", "Yi, Xiyan", "Guo, Yunhan", "Zhan, Xinyu", "Yang, Lixin", "Wang, Weiming", "Lu, Cewu", "Fang, Hao-Shu"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Imitation Learning", "Teleoperation-based Data Collection", "Learning from Demonstration"]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Rapid Mismatch Estimation via Neural Network Informed Variational Inference",
+  "zotero_key": "L5G73CHH",
+  "authors": [
+    "Jaszczuk, Mateusz",
+    "Figueroa, Nadia"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

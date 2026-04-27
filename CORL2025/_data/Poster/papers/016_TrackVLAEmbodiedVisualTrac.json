@@ -1,0 +1,29 @@
+{
+  "title": "TrackVLA: Embodied Visual Tracking in the Wild",
+  "zotero_key": "DQ4PLURW",
+  "authors": [
+    "Wang, Shaoan",
+    "Zhang, Jiazhao",
+    "Li, Minghan",
+    "Liu, Jiahang",
+    "Li, Anqi",
+    "Wu, Kui",
+    "Zhong, Fangwei",
+    "Yu, Junzhi",
+    "Zhang, Zhizheng",
+    "Wang, He"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

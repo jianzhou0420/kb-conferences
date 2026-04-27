@@ -1,0 +1,21 @@
+{
+  "title": "Pointing3D: A Benchmark for 3D Object Referral via Pointing Gestures",
+  "zotero_key": "CPHKIP4D",
+  "authors": [
+    "Arslanoglu, Mert",
+    "Yilmaz, Kadir"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

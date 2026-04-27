@@ -1,0 +1,33 @@
+{
+  "title": "Long-VLA: Unleashing Long-Horizon Capability of VLA Model for Robot Manipulation",
+  "zotero_key": "63U5CXZB",
+  "authors": [
+    "Fan, Yiguo",
+    "Ding, Pengxiang",
+    "Bai, Shuanghao",
+    "Tong, Xinyang",
+    "Zhu, Yuyang",
+    "Lu, Hongchao",
+    "Dai, Fengqi",
+    "Zhao, Wei",
+    "Liu, Yang",
+    "Huang, Siteng",
+    "Fan, Zhaoxin",
+    "Chen, Badong",
+    "Wang, Donglin"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning",
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

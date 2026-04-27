@@ -1,0 +1,385 @@
+{
+  "conference": "CORL2025",
+  "track": "Oral",
+  "total_papers": 42,
+  "papers": [
+    {
+      "id": 1,
+      "title": "HuB: Learning Extreme Humanoid Balance",
+      "zotero_key": "UNWWHQDC",
+      "authors": ["Zhang, Tong", "Zheng, Boyuan", "Nai, Ruiqian", "Hu, Yingdong", "Wang, Yen-Jen", "Chen, Geng", "Lin, Fanqi", "Li, Jiongye", "Hong, Chuye", "Sreenath, Koushil", "Gao, Yang"],
+      "field": ["Locomotion"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Model-free RL"]
+    },
+    {
+      "id": 2,
+      "title": "Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation",
+      "zotero_key": "H7V2T87Y",
+      "authors": ["Zhi, Peiyuan", "Li, Peiyang", "Yin, Jianqin", "Jia, Baoxiong", "Huang, Siyuan"],
+      "field": ["Mobile Manipulation", "Locomotion"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Model-free RL"]
+    },
+    {
+      "id": 3,
+      "title": "Versatile Loco-Manipulation through Flexible Interlimb Coordination",
+      "zotero_key": "FNGS8GST",
+      "authors": ["Zhu, Xinghao", "Chen, Yuxin", "Sun, Lingfeng", "Niroui, Farzad", "Cleac'h, Simon Le", "Wang, Jiuguang", "Fang, Kuan"],
+      "field": ["Mobile Manipulation", "Locomotion"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Hierarchical Learning"]
+    },
+    {
+      "id": 4,
+      "title": "X-SIM: Cross-Embodiment Learning via Real-to-Sim-to-Real",
+      "zotero_key": "DRMAFI4F",
+      "authors": ["Dan, Prithwish", "Kedia, Kushal", "Chao, Angela", "Duan, Edward W", "Pace, Maximus A", "Ma, Wei-Chiu", "Choudhury, Sanjiban"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Sim-to-Real Transfer", "Imitation Learning"]
+    },
+    {
+      "id": 5,
+      "title": "Visual Imitation Enables Contextual Humanoid Control",
+      "zotero_key": "V7ZSCB8R",
+      "authors": ["Allshire, Arthur", "Choi, Hongsuk", "Zhang, Junyi", "McAllister, David", "Zhang, Anthony", "Kim, Chung Min", "Darrell, Trevor", "Abbeel, Pieter", "Malik, Jitendra", "Kanazawa, Angjoo"],
+      "field": ["Locomotion", "Human-Robot Interaction"],
+      "models_type": ["VLM model"],
+      "methods": ["Imitation Learning", "Learning from Demonstration"]
+    },
+    {
+      "id": 6,
+      "title": "Training Strategies for Efficient Embodied Reasoning",
+      "zotero_key": "IPBU7J8K",
+      "authors": ["Chen, William", "Belkhale, Suneel", "Mirchandani, Suvir", "Mees, Oier", "Driess, Danny", "Pertsch, Karl", "Levine, Sergey"],
+      "field": ["Long-horizon Planning", "Manipulation"],
+      "models_type": ["VLA model", "VLM model"],
+      "methods": ["End-to-End Learning", "Language-conditioned Learning"]
+    },
+    {
+      "id": 7,
+      "title": "The Sound of Simulation: Learning Multimodal Sim-to-Real Robot Policies with Generative Audio",
+      "zotero_key": "GCESI9AP",
+      "authors": ["Wang, Renhao", "Geng, Haoran", "Li, Tingle", "Wang, Feishi", "Anumanchipalli, Gopala", "Darrell, Trevor", "Li, Boyi", "Abbeel, Pieter", "Malik, Jitendra", "Efros, Alexei A"],
+      "field": ["Manipulation"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["Sim-to-Real Transfer", "End-to-End Learning"]
+    },
+    {
+      "id": 8,
+      "title": "Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation",
+      "zotero_key": "TJEUBVF5",
+      "authors": ["Higuera, Carolina", "Sharma, Akash", "Fan, Taosha", "Bodduluri, Chaithanya Krishna", "Boots, Byron", "Kaess, Michael", "Lambeta, Mike", "Wu, Tingfan", "Liu, Zixi", "Hogan, Francois Robert", "Mukadam, Mustafa"],
+      "field": ["Manipulation"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["Self-supervised Learning", "Contrastive Learning"]
+    },
+    {
+      "id": 9,
+      "title": "Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories",
+      "zotero_key": "TIB2W87W",
+      "authors": ["Jiang, Sunshine", "Fang, Xiaolin", "Roy, Nicholas", "Lozano-Perez, Tomas", "Kaelbling, Leslie", "Ancha, Siddharth"],
+      "field": ["Manipulation"],
+      "models_type": ["Diffusion Models"],
+      "methods": ["Diffusion Policy", "Imitation Learning"]
+    },
+    {
+      "id": 10,
+      "title": "Steering Your Diffusion Policy with Latent Space Reinforcement Learning",
+      "zotero_key": "LWKEID94",
+      "authors": ["Wagenmaker, Andrew", "Nakamoto, Mitsuhiko", "Zhang, Yunchu", "Park, Seohong", "Yagoub, Waleed", "Nagabandi, Anusha", "Gupta, Abhishek", "Levine, Sergey"],
+      "field": ["Manipulation"],
+      "models_type": ["Diffusion Models"],
+      "methods": ["Diffusion Policy", "Reinforcement Learning"]
+    },
+    {
+      "id": 11,
+      "title": "Stack It Up!: 3D Stable Structure Generation from 2D Hand-drawn Sketch",
+      "zotero_key": "FWW2QLB8",
+      "authors": ["Xu, Yiqing", "Li, Linfeng", "Yu, Cunjun", "Hsu, David"],
+      "field": ["Manipulation"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["End-to-End Learning", "Language-conditioned Learning"]
+    },
+    {
+      "id": 12,
+      "title": "ScrewSplat: An End-to-End Method for Articulated Object Recognition",
+      "zotero_key": "9R8RNMU2",
+      "authors": ["Kim, Seungyeon", "Ha, Junsu", "Kim, Young Hun", "Lee, Yonghyeon", "Park, Frank Chongwoo"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["End-to-End Learning", "Self-supervised Learning"]
+    },
+    {
+      "id": 13,
+      "title": "SAVOR: Skill Affordance Learning from Visuo-Haptic Perception for Robot-Assisted Bite Acquisition",
+      "zotero_key": "7D5SJ2QY",
+      "authors": ["Wu, Zhanxin", "Ai, Bo", "Silver, Tom", "Bhattacharjee, Tapomayukh"],
+      "field": ["Manipulation", "Human-Robot Interaction"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["Imitation Learning", "Learning from Demonstration"]
+    },
+    {
+      "id": 14,
+      "title": "Sampling-Based System Identification with Active Exploration for Legged Sim2Real Learning",
+      "zotero_key": "LKN7DSDN",
+      "authors": ["Sobanbabu, Nikhil", "He, Guanqi", "He, Tairan", "Yang, Yuxiang", "Shi, Guanya"],
+      "field": ["Locomotion"],
+      "models_type": ["small model"],
+      "methods": ["Sim-to-Real Transfer", "Reinforcement Learning"]
+    },
+    {
+      "id": 15,
+      "title": "SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies",
+      "zotero_key": "B8V8TE9G",
+      "authors": ["Arachchige, Nadun Ranawaka", "Chen, Zhenyang", "Jung, Wonsuhk", "Shin, Woo Chul", "Bansal, Rohan", "Barroso, Pierre", "He, Yu Hang", "Lin, Yingyan Celine", "Joffe, Benjamin", "Kousik, Shreyas", "Xu, Danfei"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Imitation Learning", "Behavior Cloning"]
+    },
+    {
+      "id": 16,
+      "title": "RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies",
+      "zotero_key": "LNGAJ2GS",
+      "authors": ["Atreya, Pranav", "Pertsch, Karl", "Lee, Tony", "Kim, Moo Jin", "Jain, Arhan", "Kuramshin, Artur", "Eppner, Clemens", "Neary, Cyrus", "Hu, Edward", "Ramos, Fabio", "Tremblay, Jonathan", "Arora, Kanav", "Ellis, Kirsty", "Macesanu, Luca", "Leonard, Matthew", "Cho, Meedeum", "Aslan, Ozgur", "Dass, Shivin", "Wang, Jie", "Yuan, Xingfang", "Yang, Xuning", "Gupta, Abhishek", "Jayaraman, Dinesh", "Berseth, Glen", "Daniilidis, Kostas", "Martin-Martin, Roberto", "Lee, Youngwoon", "Liang, Percy", "Finn, Chelsea", "Levine, Sergey"],
+      "field": ["Manipulation"],
+      "models_type": ["VLA model"],
+      "methods": ["End-to-End Learning", "Zero-shot/Few-shot Transfer"]
+    },
+    {
+      "id": 17,
+      "title": "ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations",
+      "zotero_key": "3RYAQXFB",
+      "authors": ["Zhang, Jiahui", "Luo, Yusen", "Anwar, Abrar", "Sontakke, Sumedh A", "Lim, Joseph J", "Thomason, Jesse", "Bıyık, Erdem", "Zhang, Jesse"],
+      "field": ["Manipulation"],
+      "models_type": ["VLM model", "Reward Models"],
+      "methods": ["Language-conditioned Learning", "Reinforcement Learning"]
+    },
+    {
+      "id": 18,
+      "title": "Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware",
+      "zotero_key": "3T7HNETY",
+      "authors": ["Yu, Justin", "Fu, Max Letian", "Huang, Huang", "El-Refai, Karim", "Ambrus, Rares Andrei", "Cheng, Richard", "Irshad, Muhammad Zubair", "Goldberg, Ken"],
+      "field": ["Manipulation"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["Sim-to-Real Transfer", "Teleoperation-based Data Collection"]
+    },
+    {
+      "id": 19,
+      "title": "Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning",
+      "zotero_key": "WPGPILT9",
+      "authors": ["Ganai, Milan", "Sinha, Rohan", "Agia, Christopher", "Morton, Daniel", "Lillo, Luigi Di", "Pavone, Marco"],
+      "field": ["Manipulation"],
+      "models_type": ["VLM model", "Multi-modal Foundation Models"],
+      "methods": ["End-to-End Learning", "Zero-shot/Few-shot Transfer"]
+    },
+    {
+      "id": 20,
+      "title": "Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance",
+      "zotero_key": "Q5R8SZGH",
+      "authors": ["Sunil, Neha", "Tippur, Megha", "Saumell, Arnau", "Adelson, Edward", "Rodriguez, Alberto"],
+      "field": ["Manipulation"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["Imitation Learning", "Learning from Demonstration"]
+    },
+    {
+      "id": 21,
+      "title": "Planning from Point Clouds over Continuous Actions for Multi-object Rearrangement",
+      "zotero_key": "XJUXXGMJ",
+      "authors": ["Saha, Kallol", "Li, Amber", "Eisner, Ben", "Likhachev, Maxim", "Held, David"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Task and Motion Planning (TAMP)", "Model-based RL"]
+    },
+    {
+      "id": 22,
+      "title": "π0.5: a Vision-Language-Action Model with Open-World Generalization",
+      "zotero_key": "ZH9NBG6T",
+      "authors": ["Black, Kevin", "Brown, Noah", "Darpinian, James", "Dhabalia, Karan", "Driess, Danny", "Esmail, Adnan", "Equi, Michael", "Finn, Chelsea", "Fusai, Niccolo", "Galliker, Manuel Y", "Ghosh, Dibya", "Groom, Lachy", "Hausman, Karol", "Ichter, Brian", "Jakubczak, Szymon", "Jones, Tim", "Ke, Liyiming", "LeBlanc, Devin", "Levine, Sergey", "Li-Bell, Adrian", "Mothukuri, Mohith", "Nair, Suraj", "Pertsch, Karl", "Ren, Allen Z", "Shi, Lucy Xiaoyang", "Smith, Laura", "Springenberg, Jost Tobias", "Stachowicz, Kyle", "Tanner, James", "Vuong, Quan", "Walke, Homer", "Walling, Anna", "Wang, Haohuan", "Yu, Lili", "Zhilinsky, Ury"],
+      "field": ["Manipulation"],
+      "models_type": ["VLA model"],
+      "methods": ["End-to-End Learning", "Zero-shot/Few-shot Transfer", "Language-conditioned Learning"]
+    },
+    {
+      "id": 23,
+      "title": "One View, Many Worlds: Single-Image to 3D Object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation",
+      "zotero_key": "5SHP4FYK",
+      "authors": ["Geng, Zheng", "Wang, Nan", "Xu, Shaocong", "Ye, Chongjie", "Li, Bohan", "Chen, Zhaoxi", "Peng, Sida", "Zhao, Hao"],
+      "field": ["Manipulation"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["Zero-shot/Few-shot Transfer", "Sim-to-Real Transfer"]
+    },
+    {
+      "id": 24,
+      "title": "Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments",
+      "zotero_key": "WXWMIM9H",
+      "authors": ["Wang, Zifan", "Ma, Teli", "Jia, Yufei", "Yang, Xun", "Zhou, Jiaming", "Ouyang, Wenlong", "Zhang, Qiang", "Liang, Junwei"],
+      "field": ["Locomotion", "Navigation"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Model-free RL"]
+    },
+    {
+      "id": 25,
+      "title": "Non-conflicting Energy Minimization in Reinforcement Learning based Robot Control",
+      "zotero_key": "7PKMP765",
+      "authors": ["Peri, Skand", "Perincherry, Akhil", "Pandit, Bikram", "Lee, Stefan"],
+      "field": ["Manipulation", "Locomotion"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Model-free RL"]
+    },
+    {
+      "id": 26,
+      "title": "LocoFormer: Generalist Locomotion via Long-context Adaptation",
+      "zotero_key": "KGPBSNWW",
+      "authors": ["Liu, Min", "Pathak, Deepak", "Agarwal, Ananye"],
+      "field": ["Locomotion"],
+      "models_type": ["Transformer-based Policy"],
+      "methods": ["Meta-Learning", "Transformer-based Policy"]
+    },
+    {
+      "id": 27,
+      "title": "Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation",
+      "zotero_key": "MQL7XDJT",
+      "authors": ["He, Chengyang", "Camps, Gadiel Sznaier", "Liu, Xu", "Schwager, Mac", "Sartoretti, Guillaume"],
+      "field": ["Multi-agent Embodied AI", "Manipulation"],
+      "models_type": ["Diffusion Models"],
+      "methods": ["Diffusion Policy", "Imitation Learning"]
+    },
+    {
+      "id": 28,
+      "title": "KineSoft: Learning Proprioceptive Manipulation Policies with Soft Robot Hands",
+      "zotero_key": "WUJTS3IK",
+      "authors": ["Yoo, Uksang", "Francis, Jonathan", "Oh, Jean", "Ichnowski, Jeffrey"],
+      "field": ["Dexterous Hand Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Imitation Learning"]
+    },
+    {
+      "id": 29,
+      "title": "ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation",
+      "zotero_key": "E6XVU6VH",
+      "authors": ["Liu, Yangcen", "Shin, Woo Chul", "Han, Yunhai", "Chen, Zhenyang"],
+      "field": ["Manipulation", "Human-Robot Interaction"],
+      "models_type": ["VLM model"],
+      "methods": ["Imitation Learning", "Learning from Demonstration"]
+    },
+    {
+      "id": 30,
+      "title": "Geometric Red-Teaming for Robotic Manipulation",
+      "zotero_key": "V8QDI84Q",
+      "authors": ["Goel, Divyam", "Wang, Yufei", "Wu, Tiancheng", "Qiao, Guixiu", "Piliptchak, Pavel", "Held, David", "Erickson, Zackory"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Sim-to-Real Transfer"]
+    },
+    {
+      "id": 31,
+      "title": "FetchBot: Learning Generalizable Object Fetching in Cluttered Scenes via Zero-Shot Sim2Real",
+      "zotero_key": "3W3E2CWT",
+      "authors": ["Liu, Weiheng", "Wan, Yuxuan", "Wang, Jilong", "Kuang, Yuxuan", "Cui, Wenbo", "Shi, Xuesong", "Li, Haoran", "Zhao, Dongbin", "Zhang, Zhizheng", "Wang, He"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Sim-to-Real Transfer", "Zero-shot/Few-shot Transfer", "Reinforcement Learning"]
+    },
+    {
+      "id": 32,
+      "title": "FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots",
+      "zotero_key": "2REBADT9",
+      "authors": ["Xu, Botian", "Weng, Haoyang", "Lu, Qingzhou", "Gao, Yang", "Xu, Huazhe"],
+      "field": ["Locomotion"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Model-free RL"]
+    },
+    {
+      "id": 33,
+      "title": "Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning",
+      "zotero_key": "PCBTP3ED",
+      "authors": ["Tian, Yunsheng", "Jacob, Joshua", "Huang, Yijiang", "Zhao, Jialiang", "Gu, Edward", "Ma, Pingchuan", "Zhang, Annan", "Javid, Farhad", "Romero, Branden", "Chitta, Sachin", "Sueda, Shinjiro", "Li, Hui", "Matusik, Wojciech"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Task and Motion Planning (TAMP)", "Hierarchical Learning"]
+    },
+    {
+      "id": 34,
+      "title": "Divide, Discover, Deploy: Factorized Skill Learning with Symmetry and Style Priors",
+      "zotero_key": "VCEPCB5U",
+      "authors": ["Cathomen, Rafael", "Mittal, Mayank", "Vlastelica, Marin", "Hutter, Marco"],
+      "field": ["Locomotion"],
+      "models_type": ["small model"],
+      "methods": ["Reinforcement Learning", "Hierarchical Learning"]
+    },
+    {
+      "id": 35,
+      "title": "DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation",
+      "zotero_key": "2RFNV4RS",
+      "authors": ["Xu, Mengda", "Zhang, Han", "Hou, Yifan", "Xu, Zhenjia", "Fan, Linxi", "Veloso, Manuela", "Song, Shuran"],
+      "field": ["Dexterous Hand Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Imitation Learning", "Teleoperation-based Data Collection", "Learning from Demonstration"]
+    },
+    {
+      "id": 36,
+      "title": "DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation",
+      "zotero_key": "AXUX8DM7",
+      "authors": ["Wistreich, Suzannah", "Shi, Baiyu", "Tian, Stephen", "Clarke, Samuel", "Nath, Michael", "Xu, Chengyi", "Wu, Jiajun"],
+      "field": ["Dexterous Hand Manipulation"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["Imitation Learning", "Learning from Demonstration"]
+    },
+    {
+      "id": 37,
+      "title": "DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration",
+      "zotero_key": "SJXBNQVS",
+      "authors": ["Guo, Lingxiao", "Xue, Zhengrong", "Xu, Zijing", "Xu, Huazhe"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Imitation Learning", "Behavior Cloning"]
+    },
+    {
+      "id": 38,
+      "title": "Data Retrieval with Importance Weights for Few-Shot Imitation Learning",
+      "zotero_key": "7AMAMJ8S",
+      "authors": ["Xie, Amber", "Chand, Rahul", "Sadigh, Dorsa", "Hejna, Joey"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Imitation Learning", "Zero-shot/Few-shot Transfer"]
+    },
+    {
+      "id": 39,
+      "title": "Cross-Sensor Touch Generation",
+      "zotero_key": "RH4ZCQRB",
+      "authors": ["Rodriguez, Samanta", "Dou, Yiming", "Oller, Miquel", "Owens, Andrew", "Fazeli, Nima"],
+      "field": ["Manipulation"],
+      "models_type": ["Multi-modal Foundation Models"],
+      "methods": ["Self-supervised Learning", "Contrastive Learning"]
+    },
+    {
+      "id": 40,
+      "title": "ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes",
+      "zotero_key": "PMPQTK88",
+      "authors": ["Chen, Zeyuan", "Yan, Qiyang", "Chen, Yuanpei", "Wu, Tianhao", "Zhang, Jiyao", "Ding, Zihan", "Li, Jinzhou", "Yang, Yaodong", "Dong, Hao"],
+      "field": ["Dexterous Hand Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Sim-to-Real Transfer", "Reinforcement Learning"]
+    },
+    {
+      "id": 41,
+      "title": "Belief-Conditioned One-Step Diffusion: Real-Time Trajectory Planning with Just-Enough Sensing",
+      "zotero_key": "BEXMIVPQ",
+      "authors": ["Puthumanaillam, Gokul", "Penumarti, Aditya", "Vora, Manav", "Padrao, Paulo", "Fuentes, Jose", "Bobadilla, Leonardo", "Shin, Jane", "Ornik, Melkior"],
+      "field": ["Navigation"],
+      "models_type": ["Diffusion Models"],
+      "methods": ["Diffusion Policy", "Model-based RL"]
+    },
+    {
+      "id": 42,
+      "title": "AirExo-2: Scaling up Generalizable Robotic Imitation Learning with Low-Cost Exoskeletons",
+      "zotero_key": "CG8RHK6X",
+      "authors": ["Fang, Hongjie", "Wang, Chenxi", "Wang, Yiming", "Chen, Jingjing", "Xia, Shangning", "Lv, Jun", "He, Zihao", "Yi, Xiyan", "Guo, Yunhan", "Zhan, Xinyu", "Yang, Lixin", "Wang, Weiming", "Lu, Cewu", "Fang, Hao-Shu"],
+      "field": ["Manipulation"],
+      "models_type": ["small model"],
+      "methods": ["Imitation Learning", "Teleoperation-based Data Collection", "Learning from Demonstration"]
+    }
+  ]
+}

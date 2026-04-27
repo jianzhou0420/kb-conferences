@@ -1,0 +1,12 @@
+{
+  "title": "Geometric Red-Teaming for Robotic Manipulation",
+  "zotero_key": "V8QDI84Q",
+  "authors": ["Goel, Divyam", "Wang, Yufei", "Wu, Tiancheng", "Qiao, Guixiu", "Piliptchak, Pavel", "Held, David", "Erickson, Zackory"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Sim-to-Real Transfer"]
+  }
+}

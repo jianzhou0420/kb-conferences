@@ -1,0 +1,27 @@
+{
+  "title": "DiWA: Diffusion Policy Adaptation with World Models",
+  "zotero_key": "PAB3F746",
+  "authors": [
+    "Chandra, Akshay L",
+    "Nematollahi, Iman",
+    "Huang, Chenguang",
+    "Welschehold, Tim",
+    "Burgard, Wolfram",
+    "Valada, Abhinav"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models",
+      "World Models"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Diffusion Policy"
+    ]
+  }
+}

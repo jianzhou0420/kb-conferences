@@ -1,0 +1,23 @@
+{
+  "title": "COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning",
+  "zotero_key": "EQWXU7GF",
+  "authors": [
+    "Kumar, Sateesh",
+    "Dass, Shivin",
+    "Pavlakos, Georgios",
+    "Mart\u0131n-Mart\u0131n, Roberto"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

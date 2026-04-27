@@ -1,0 +1,12 @@
+{
+  "title": "Sampling-Based System Identification with Active Exploration for Legged Sim2Real Learning",
+  "zotero_key": "LKN7DSDN",
+  "authors": ["Sobanbabu, Nikhil", "He, Guanqi", "He, Tairan", "Yang, Yuxiang", "Shi, Guanya"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Locomotion"],
+    "models_type": ["small model"],
+    "methods": ["Sim-to-Real Transfer", "Reinforcement Learning"]
+  }
+}

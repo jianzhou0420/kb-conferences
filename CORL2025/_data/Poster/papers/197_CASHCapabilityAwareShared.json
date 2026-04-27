@@ -1,0 +1,24 @@
+{
+  "title": "CASH: Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination",
+  "zotero_key": "FHB87LLR",
+  "authors": [
+    "Fu, Kevin",
+    "Jain, Shalin Anand",
+    "Howell, Pierce",
+    "Ravichandar, Harish"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Multi-agent Embodied AI",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

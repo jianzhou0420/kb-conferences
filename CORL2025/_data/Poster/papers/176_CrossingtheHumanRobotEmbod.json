@@ -1,0 +1,26 @@
+{
+  "title": "Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration",
+  "zotero_key": "CU7STA5E",
+  "authors": [
+    "Lum, Tyler Ga Wei",
+    "Lee, Olivia Y",
+    "Liu, C Karen",
+    "Bohg, Jeannette"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Human-Robot Interaction",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Imitation Learning",
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

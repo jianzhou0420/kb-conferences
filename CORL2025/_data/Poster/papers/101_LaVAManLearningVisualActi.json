@@ -1,0 +1,23 @@
+{
+  "title": "LaVA-Man: Learning Visual Action Representations for Robot Manipulation",
+  "zotero_key": "KZDJRZIY",
+  "authors": [
+    "Zhu, Chaoran",
+    "Wang, Hengyi",
+    "Pang, Yik Lung",
+    "Oh, Changjae"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

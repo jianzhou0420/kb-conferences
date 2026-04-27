@@ -1,0 +1,23 @@
+{
+  "title": "SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL",
+  "zotero_key": "TUXM6S2Y",
+  "authors": [
+    "Hu, Jiaheng",
+    "Stone, Peter",
+    "Mart\u0131n-Mart\u0131n, Roberto"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Mobile Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

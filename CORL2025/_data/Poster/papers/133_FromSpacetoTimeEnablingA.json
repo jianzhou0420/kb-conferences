@@ -1,0 +1,25 @@
+{
+  "title": "From Space to Time: Enabling Adaptive Safety with Learned Value Functions",
+  "zotero_key": "7UDPL572",
+  "authors": [
+    "Tonkens, Sander",
+    "Shinde, Nikhil Uday",
+    "Begzadic, Azra",
+    "Yip, Michael C",
+    "Cortes, Jorge",
+    "Herbert, Sylvia L"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

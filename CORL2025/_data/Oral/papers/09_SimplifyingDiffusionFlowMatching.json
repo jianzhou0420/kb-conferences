@@ -1,0 +1,12 @@
+{
+  "title": "Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories",
+  "zotero_key": "TIB2W87W",
+  "authors": ["Jiang, Sunshine", "Fang, Xiaolin", "Roy, Nicholas", "Lozano-Perez, Tomas", "Kaelbling, Leslie", "Ancha, Siddharth"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Diffusion Models"],
+    "methods": ["Diffusion Policy", "Imitation Learning"]
+  }
+}

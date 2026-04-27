@@ -1,0 +1,23 @@
+{
+  "title": "Cost-aware Discovery of Contextual Failures using Bayesian Active Learning",
+  "zotero_key": "G6KYJDEV",
+  "authors": [
+    "Parashar, Anjali",
+    "Zhang, Joseph",
+    "Li, Yingke",
+    "Fan, Chuchu"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

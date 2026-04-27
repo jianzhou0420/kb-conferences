@@ -1,0 +1,23 @@
+{
+  "title": "Distributed Upload and Active Labeling for Resource-Constrained Fleet Learning",
+  "zotero_key": "NZPC8DJI",
+  "authors": [
+    "Akcin, Oguzhan",
+    "Goel, Harsh",
+    "Zhao, Ruihan",
+    "Chinchali, Sandeep P"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

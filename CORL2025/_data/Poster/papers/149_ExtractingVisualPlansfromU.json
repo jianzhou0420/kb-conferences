@@ -1,0 +1,26 @@
+{
+  "title": "Extracting Visual Plans from Unlabeled Videos via Symbolic Guidance",
+  "zotero_key": "VDJL3TLW",
+  "authors": [
+    "Yang, Wenyan",
+    "Tikna, Ahmet",
+    "Zhao, Yi",
+    "Zhang, Yuying",
+    "Palopoli, Luigi",
+    "Roveri, Marco",
+    "Pajarinen, Joni"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning",
+  "zotero_key": "FGZ6U5JY",
+  "authors": [
+    "Huang, Binghao",
+    "Xu, Jie",
+    "Akinola, Iretiayo",
+    "Yang, Wei",
+    "Sundaralingam, Balakumar",
+    "O'Flaherty, Rowland",
+    "Fox, Dieter",
+    "Wang, Xiaolong",
+    "Mousavian, Arsalan",
+    "Chao, Yu-Wei",
+    "Li, Yunzhu"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

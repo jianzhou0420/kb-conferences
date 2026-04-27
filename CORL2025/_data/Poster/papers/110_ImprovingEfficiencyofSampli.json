@@ -1,0 +1,23 @@
+{
+  "title": "Improving Efficiency of Sampling-based Motion Planning via Message-Passing Monte Carlo",
+  "zotero_key": "Z4WCKUCE",
+  "authors": [
+    "Chahine, Makram",
+    "Rusch, T Konstantin",
+    "Patterson, Zach J",
+    "Rus, Daniela"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

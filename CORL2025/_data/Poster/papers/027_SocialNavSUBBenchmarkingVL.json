@@ -1,0 +1,29 @@
+{
+  "title": "SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation",
+  "zotero_key": "8D338HKD",
+  "authors": [
+    "Munje, Michael J",
+    "Tang, Chen",
+    "Liu, Shuijing",
+    "Hu, Zichao",
+    "Zhu, Yifeng",
+    "Cui, Jiaxun",
+    "Warnell, Garrett",
+    "Biswas, Joydeep",
+    "Stone, Peter"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

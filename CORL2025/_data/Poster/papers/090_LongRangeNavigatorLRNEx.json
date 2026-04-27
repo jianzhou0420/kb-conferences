@@ -1,0 +1,25 @@
+{
+  "title": "Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps",
+  "zotero_key": "32SLCKU2",
+  "authors": [
+    "Schmittle, Matt",
+    "Baijal, Rohan",
+    "Hatch, Nathan",
+    "Scalise, Rosario"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Long-horizon Planning",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

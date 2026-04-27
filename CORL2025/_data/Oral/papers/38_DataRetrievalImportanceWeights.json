@@ -1,0 +1,12 @@
+{
+  "title": "Data Retrieval with Importance Weights for Few-Shot Imitation Learning",
+  "zotero_key": "7AMAMJ8S",
+  "authors": ["Xie, Amber", "Chand, Rahul", "Sadigh, Dorsa", "Hejna, Joey"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Imitation Learning", "Zero-shot/Few-shot Transfer"]
+  }
+}

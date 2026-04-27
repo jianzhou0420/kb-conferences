@@ -1,0 +1,12 @@
+{
+  "title": "FetchBot: Learning Generalizable Object Fetching in Cluttered Scenes via Zero-Shot Sim2Real",
+  "zotero_key": "3W3E2CWT",
+  "authors": ["Liu, Weiheng", "Wan, Yuxuan", "Wang, Jilong", "Kuang, Yuxuan", "Cui, Wenbo", "Shi, Xuesong", "Li, Haoran", "Zhao, Dongbin", "Zhang, Zhizheng", "Wang, He"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Sim-to-Real Transfer", "Zero-shot/Few-shot Transfer", "Reinforcement Learning"]
+  }
+}

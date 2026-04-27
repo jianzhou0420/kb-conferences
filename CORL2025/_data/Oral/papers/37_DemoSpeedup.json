@@ -1,0 +1,12 @@
+{
+  "title": "DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration",
+  "zotero_key": "SJXBNQVS",
+  "authors": ["Guo, Lingxiao", "Xue, Zhengrong", "Xu, Zijing", "Xu, Huazhe"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Imitation Learning", "Behavior Cloning"]
+  }
+}

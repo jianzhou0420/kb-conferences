@@ -1,0 +1,34 @@
+{
+  "title": "PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical HRI",
+  "zotero_key": "Y3CDCFTS",
+  "authors": [
+    "Madan, Rishabh",
+    "Lin, Jiawei",
+    "Goel, Mahika",
+    "Li, Amber",
+    "Xie, Angchen",
+    "Liang, Xiaoyu",
+    "Lee, Marcus",
+    "Guo, Justin",
+    "Thakkar, Pranav N",
+    "Banerjee, Rohan",
+    "Barreiros, Jose",
+    "Tsui, Kate",
+    "Silver, Tom",
+    "Bhattacharjee, Tapomayukh"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Human-Robot Interaction"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

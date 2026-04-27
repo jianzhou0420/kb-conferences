@@ -1,0 +1,27 @@
+{
+  "title": "ManipBench: Benchmarking VLMs for Low-Level Robot Manipulation",
+  "zotero_key": "7KP49C4D",
+  "authors": [
+    "Zhao, Enyu",
+    "Raval, Vedant",
+    "Zhang, Hejia",
+    "Mao, Jiageng",
+    "Shangguan, Zeyu",
+    "Nikolaidis, Stefanos",
+    "Wang, Yue",
+    "Seita, Daniel"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

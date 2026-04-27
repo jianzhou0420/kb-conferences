@@ -1,0 +1,24 @@
+{
+  "title": "D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation",
+  "zotero_key": "GFPBLLWW",
+  "authors": [
+    "Yamada, Jun",
+    "Zhong, Shaohong",
+    "Collins, Jack",
+    "Posner, Ingmar"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

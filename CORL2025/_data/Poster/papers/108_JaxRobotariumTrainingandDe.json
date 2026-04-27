@@ -1,0 +1,24 @@
+{
+  "title": "JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes",
+  "zotero_key": "XCPPAJF5",
+  "authors": [
+    "Jain, Shalin Anand",
+    "Liu, Jiazhen",
+    "Kailas, Siva",
+    "Ravichandar, Harish"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Multi-agent Embodied AI",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

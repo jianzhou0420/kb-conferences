@@ -1,0 +1,22 @@
+{
+  "title": "Uncertainty-aware Latent Safety Filters for Avoiding Out-of-Distribution Failures",
+  "zotero_key": "QU9NGD93",
+  "authors": [
+    "Seo, Junwon",
+    "Nakamura, Kensuke",
+    "Bajcsy, Andrea"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

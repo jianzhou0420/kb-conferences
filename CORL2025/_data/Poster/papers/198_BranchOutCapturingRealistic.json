@@ -1,0 +1,24 @@
+{
+  "title": "BranchOut: Capturing Realistic Multimodality in Autonomous Driving Decisions",
+  "zotero_key": "XBKWRN4W",
+  "authors": [
+    "Kim, Hee Jae",
+    "Yin, Zekai",
+    "Lai, Lei",
+    "Lee, Jason",
+    "Ohn-Bar, Eshed"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Autonomous Driving"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "MirrorDuo: Reflection-Consistent Visuomotor Learning from Mirrored Demonstration Pairs",
+  "zotero_key": "AB8IQKWF",
+  "authors": [
+    "Zhuang, Zheyu",
+    "Wang, Ruiyu",
+    "Marchetti, Giovanni Luca",
+    "Pokorny, Florian T",
+    "Kragic, Danica"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning"
+    ]
+  }
+}

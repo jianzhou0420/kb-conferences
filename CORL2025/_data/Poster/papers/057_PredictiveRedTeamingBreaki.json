@@ -1,0 +1,25 @@
+{
+  "title": "Predictive Red Teaming: Breaking Policies Without Breaking Robots",
+  "zotero_key": "MIFRKP47",
+  "authors": [
+    "Majumdar, Anirudha",
+    "Sharma, Mohit",
+    "Kalashnikov, Dmitry",
+    "Singh, Sumeet",
+    "Sermanet, Pierre",
+    "Sindhwani, Vikas"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

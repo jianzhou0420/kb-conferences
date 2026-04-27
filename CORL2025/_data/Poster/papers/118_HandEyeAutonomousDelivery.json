@@ -1,0 +1,27 @@
+{
+  "title": "Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching",
+  "zotero_key": "T2SC82ZZ",
+  "authors": [
+    "Chen, Sirui",
+    "Ye, Yufei",
+    "Cao, Zi-ang",
+    "Lew, Jennifer",
+    "Xu, Pei",
+    "Liu, C Karen"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion",
+      "Navigation",
+      "Dexterous Hand Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

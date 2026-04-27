@@ -1,0 +1,21 @@
+{
+  "title": "Door(s): Junction State Estimation for Efficient Exploration in RL",
+  "zotero_key": "49LZP8NR",
+  "authors": [
+    "Fele, Benjamin",
+    "Babic, Jan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

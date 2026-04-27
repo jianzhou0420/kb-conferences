@@ -1,0 +1,12 @@
+{
+  "title": "Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments",
+  "zotero_key": "WXWMIM9H",
+  "authors": ["Wang, Zifan", "Ma, Teli", "Jia, Yufei", "Yang, Xun", "Zhou, Jiaming", "Ouyang, Wenlong", "Zhang, Qiang", "Liang, Junwei"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Locomotion", "Navigation"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Model-free RL"]
+  }
+}

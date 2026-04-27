@@ -1,0 +1,26 @@
+{
+  "title": "Constraint-Preserving Data Generation for Visuomotor Policy Learning",
+  "zotero_key": "DEIFVLFT",
+  "authors": [
+    "Lin, Kevin",
+    "Ragunath, Varun",
+    "McAlinden, Andrew",
+    "Prasad, Aaditya",
+    "Wu, Jimmy",
+    "Zhu, Yuke",
+    "Bohg, Jeannette"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

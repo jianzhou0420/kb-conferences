@@ -1,0 +1,22 @@
+{
+  "title": "Articulated Object Estimation in the Wild",
+  "zotero_key": "3CYQANV3",
+  "authors": [
+    "Werby, Abdelrhman",
+    "Burgard, Wolfram",
+    "Valada, Abhinav"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

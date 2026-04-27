@@ -1,0 +1,25 @@
+{
+  "title": "GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors",
+  "zotero_key": "G25V3ZLC",
+  "authors": [
+    "Ma, Teli",
+    "Zheng, Jia",
+    "Wang, Zifan",
+    "Gao, Ziyao",
+    "Zhou, Jiaming",
+    "Liang, Junwei"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning"
+    ]
+  }
+}

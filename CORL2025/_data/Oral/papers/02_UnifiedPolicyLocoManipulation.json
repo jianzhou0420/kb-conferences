@@ -1,0 +1,12 @@
+{
+  "title": "Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation",
+  "zotero_key": "H7V2T87Y",
+  "authors": ["Zhi, Peiyuan", "Li, Peiyang", "Yin, Jianqin", "Jia, Baoxiong", "Huang, Siyuan"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Mobile Manipulation", "Locomotion"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Model-free RL"]
+  }
+}

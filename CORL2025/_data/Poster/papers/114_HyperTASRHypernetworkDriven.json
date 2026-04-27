@@ -1,0 +1,24 @@
+{
+  "title": "HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation",
+  "zotero_key": "KSGD622J",
+  "authors": [
+    "Sun, Li",
+    "Wu, Jiefeng",
+    "Chen, Feng",
+    "Liu, Ruizhe",
+    "Yang, Yanchao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

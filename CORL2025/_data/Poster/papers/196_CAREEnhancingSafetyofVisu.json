@@ -1,0 +1,24 @@
+{
+  "title": "CARE: Enhancing Safety of Visual Navigation through Collision Avoidance via Repulsive Estimation",
+  "zotero_key": "46DLNYKE",
+  "authors": [
+    "Kim, Joonkyung",
+    "Sim, Joonyeol",
+    "Kim, Woojun",
+    "Sycara, Katia",
+    "Nam, Changjoo"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

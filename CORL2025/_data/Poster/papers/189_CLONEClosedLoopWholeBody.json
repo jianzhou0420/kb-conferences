@@ -1,0 +1,28 @@
+{
+  "title": "CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks",
+  "zotero_key": "DAJFHXR7",
+  "authors": [
+    "Li, Yixuan",
+    "Lin, Yutang",
+    "Cui, Jieming",
+    "Liu, Tengyu",
+    "Liang, Wei",
+    "Zhu, Yixin",
+    "Huang, Siyuan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Mobile Manipulation",
+      "Human-Robot Interaction",
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Teleoperation-based Data Collection"
+    ]
+  }
+}

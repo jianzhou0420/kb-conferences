@@ -1,0 +1,23 @@
+{
+  "title": "Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes",
+  "zotero_key": "EA7Q25IF",
+  "authors": [
+    "Jung, Sanghun",
+    "Gwak, Daehoon",
+    "Boots, Byron",
+    "Hays, James"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

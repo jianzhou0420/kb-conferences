@@ -1,0 +1,29 @@
+{
+  "title": "Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild",
+  "zotero_key": "IM7CVAQZ",
+  "authors": [
+    "Tan, Derek Ming Siang",
+    "Liu, Boyang",
+    "Raj, Alok",
+    "Ang, Qi Xuan",
+    "Dai, Weiheng",
+    "Duhan, Tanishq",
+    "Chiun, Jimmy",
+    "Cao, Yuhong",
+    "Shkurti, Florian",
+    "Sartoretti, Guillaume"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

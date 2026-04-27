@@ -1,0 +1,12 @@
+{
+  "title": "KineSoft: Learning Proprioceptive Manipulation Policies with Soft Robot Hands",
+  "zotero_key": "WUJTS3IK",
+  "authors": ["Yoo, Uksang", "Francis, Jonathan", "Oh, Jean", "Ichnowski, Jeffrey"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Dexterous Hand Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Imitation Learning"]
+  }
+}

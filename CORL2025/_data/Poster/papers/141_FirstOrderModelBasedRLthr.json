@@ -1,0 +1,24 @@
+{
+  "title": "First Order Model-Based RL through Decoupled Backpropagation",
+  "zotero_key": "DT7PWHT3",
+  "authors": [
+    "Amigo, Joseph",
+    "Khorrambakht, Rooholla",
+    "Chane-Sane, Elliot",
+    "Mansard, Nicolas",
+    "Righetti, Ludovic"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

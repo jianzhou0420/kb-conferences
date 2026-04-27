@@ -1,0 +1,27 @@
+{
+  "title": "CUPID: Curating Data your Robot Loves with Influence Functions",
+  "zotero_key": "UVSR6CB5",
+  "authors": [
+    "Agia, Christopher",
+    "Sinha, Rohan",
+    "Yang, Jingyun",
+    "Antonova, Rika",
+    "Pavone, Marco",
+    "Nishimura, Haruki",
+    "Itkina, Masha",
+    "Bohg, Jeannette"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

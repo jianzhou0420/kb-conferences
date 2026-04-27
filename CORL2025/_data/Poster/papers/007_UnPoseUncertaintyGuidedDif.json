@@ -1,0 +1,26 @@
+{
+  "title": "UnPose: Uncertainty-Guided Diffusion Priors for Zero-Shot Pose Estimation",
+  "zotero_key": "EPXE2W4H",
+  "authors": [
+    "Jiang, Zhaodong",
+    "Sinha, Ashish",
+    "Cao, Tongtong",
+    "Ren, Yuan",
+    "Liu, Bingbing",
+    "Xu, Binbin"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy",
+      "Zero-shot/Few-shot Transfer"
+    ]
+  }
+}

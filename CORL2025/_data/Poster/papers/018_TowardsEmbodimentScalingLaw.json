@@ -1,0 +1,30 @@
+{
+  "title": "Towards Embodiment Scaling Laws in Robot Locomotion",
+  "zotero_key": "ZQZK9GY8",
+  "authors": [
+    "Ai, Bo",
+    "Dai, Liu",
+    "Bohlinger, Nico",
+    "Li, Dichen",
+    "Mu, Tongzhou",
+    "Wu, Zhanxin",
+    "Fay, K",
+    "Christensen, Henrik I",
+    "Peters, Jan",
+    "Su, Hao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

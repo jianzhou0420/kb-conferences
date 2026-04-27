@@ -1,0 +1,22 @@
+{
+  "title": "SimShear: Sim-to-Real Shear-based Tactile Servoing",
+  "zotero_key": "J4R4E2RV",
+  "authors": [
+    "Freud, Kipp McAdam",
+    "Lin, Yijiong",
+    "Lepora, Nathan F"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition",
+  "zotero_key": "RDYYXWP7",
+  "authors": [
+    "Kang, Shuhao",
+    "Liao, Martin Y",
+    "Xia, Yan",
+    "Wysocki, Olaf",
+    "Jutzi, Boris",
+    "Cremers, Daniel"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

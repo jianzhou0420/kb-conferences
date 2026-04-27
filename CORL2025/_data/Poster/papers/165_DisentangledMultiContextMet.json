@@ -1,0 +1,23 @@
+{
+  "title": "Disentangled Multi-Context Meta-Learning: Unlocking Robust and Generalized Task Learning",
+  "zotero_key": "C686XGFS",
+  "authors": [
+    "Kim, Seonsoo",
+    "Kang, Jun-Gill",
+    "Kim, Taehong",
+    "Hong, Seongil"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Meta-Learning"
+    ]
+  }
+}

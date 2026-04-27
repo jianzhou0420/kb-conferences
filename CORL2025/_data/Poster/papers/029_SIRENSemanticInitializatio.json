@@ -1,0 +1,24 @@
+{
+  "title": "SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps",
+  "zotero_key": "9HBUV2LC",
+  "authors": [
+    "Shorinwa, Ola",
+    "Sun, Jiankai",
+    "Schwager, Mac",
+    "Majumdar, Anirudha"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Multi-agent Embodied AI",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,4891 @@
+{
+  "conference": "CORL2025",
+  "track": "Poster",
+  "total_papers": 216,
+  "papers": [
+    {
+      "id": 1,
+      "title": "ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning",
+      "zotero_key": "EZSQZD25",
+      "authors": [
+        "Rickenbach, Rahel",
+        "Lahoud, Alan A."
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "WoMAP: World Models For Embodied Open-Vocabulary Object Localization",
+      "zotero_key": "9B6I52LL",
+      "authors": [
+        "Yin, Tenny",
+        "Mei, Zhiting",
+        "Sun, Tao",
+        "Zha, Lihan",
+        "Yamane, Miyu",
+        "Zhou, Emily",
+        "Shorinwa, Ola",
+        "Majumdar, Anirudha"
+      ],
+      "field": [
+        "Navigation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "World Models"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Wheeled Lab: Modern Sim2Real for Low-cost, Open-source Wheeled Robotics",
+      "zotero_key": "WRML568X",
+      "authors": [
+        "Han, Tyler",
+        "Shah, Preet",
+        "Rajagopal, Sidharth",
+        "Jung, Sanghun",
+        "Talia, Sidharth",
+        "Guo, Gabriel",
+        "Xu, Bryan",
+        "Mehta, Bhaumik",
+        "Romig, Emma",
+        "Scalise, Rosario",
+        "Boots, Byron"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning",
+      "zotero_key": "FGZ6U5JY",
+      "authors": [
+        "Huang, Binghao",
+        "Xu, Jie",
+        "Akinola, Iretiayo",
+        "Yang, Wei",
+        "Sundaralingam, Balakumar",
+        "O'Flaherty, Rowland",
+        "Fox, Dieter",
+        "Wang, Xiaolong",
+        "Mousavian, Arsalan",
+        "Chao, Yu-Wei",
+        "Li, Yunzhu"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision",
+      "zotero_key": "B8CCXVCP",
+      "authors": [
+        "Xu, Yi",
+        "Hu, Yuxin",
+        "Zhang, Zaiwei",
+        "Meyer, Gregory P",
+        "Mustikovela, Siva Karthik",
+        "Srinivasa, Siddhartha",
+        "Wolff, Eric M",
+        "Huang, Xin"
+      ],
+      "field": [
+        "Autonomous Driving"
+      ],
+      "models_type": [
+        "VLM model",
+        "LLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion",
+      "zotero_key": "GQ4UCZFN",
+      "authors": [
+        "Rho, Seungeun",
+        "Garg, Kartik",
+        "Byrd, Morgan",
+        "Ha, Sehoon"
+      ],
+      "field": [
+        "Locomotion"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "UnPose: Uncertainty-Guided Diffusion Priors for Zero-Shot Pose Estimation",
+      "zotero_key": "EPXE2W4H",
+      "authors": [
+        "Jiang, Zhaodong",
+        "Sinha, Ashish",
+        "Cao, Tongtong",
+        "Ren, Yuan",
+        "Liu, Bingbing",
+        "Xu, Binbin"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy",
+        "Zero-shot/Few-shot Transfer"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations",
+      "zotero_key": "V3AALVUN",
+      "authors": [
+        "Kim, Hanjung",
+        "Kang, Jaehyun",
+        "Kang, Hyolim",
+        "Cho, Meedeum",
+        "Kim, Seon Joo",
+        "Lee, Youngwoon"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Uncertainty-Aware Scene Understanding via Efficient Sampling-Free Confidence Estimation",
+      "zotero_key": "SNWMF754",
+      "authors": [
+        "Miandashti, Hanieh Shojaei",
+        "Zou, Qianqian",
+        "Brenner, Claus"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Uncertainty-aware Latent Safety Filters for Avoiding Out-of-Distribution Failures",
+      "zotero_key": "QU9NGD93",
+      "authors": [
+        "Seo, Junwon",
+        "Nakamura, Kensuke",
+        "Bajcsy, Andrea"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes",
+      "zotero_key": "EA7Q25IF",
+      "authors": [
+        "Jung, Sanghun",
+        "Gwak, Daehoon",
+        "Boots, Byron",
+        "Hays, James"
+      ],
+      "field": [
+        "Navigation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types",
+      "zotero_key": "82GUAIKU",
+      "authors": [
+        "Lin, Yuhao",
+        "Wei, Yi-Lin",
+        "Liao, Haoran",
+        "Lin, Mu",
+        "Xing, Chengyi",
+        "Li, Hao",
+        "Zhang, Dandan",
+        "Cutkosky, Mark",
+        "Zheng, Wei-Shi"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Human-Robot Interaction",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Teleoperation-based Data Collection"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "TWIST: Teleoperated Whole-Body Imitation System",
+      "zotero_key": "YVLCGNAI",
+      "authors": [
+        "Ze, Yanjie",
+        "Chen, Zixuan",
+        "Peng, Xue Bin",
+        "Wu, Jiajun",
+        "Liu, C Karen"
+      ],
+      "field": [
+        "Mobile Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning",
+        "Teleoperation-based Data Collection"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization",
+      "zotero_key": "SGASC43U",
+      "authors": [
+        "Ding, Yuxuan",
+        "Wang, Shuangge",
+        "Fitzgerald, Tesca"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning",
+        "Zero-shot/Few-shot Transfer"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees",
+      "zotero_key": "K2KLKFAP",
+      "authors": [
+        "Hassidof, Yaniv",
+        "Jurgenson, Tom",
+        "Solovey, Kiril"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "TrackVLA: Embodied Visual Tracking in the Wild",
+      "zotero_key": "DQ4PLURW",
+      "authors": [
+        "Wang, Shaoan",
+        "Zhang, Jiazhao",
+        "Li, Minghan",
+        "Liu, Jiahang",
+        "Li, Anqi",
+        "Wu, Kui",
+        "Zhong, Fangwei",
+        "Yu, Junzhi",
+        "Zhang, Zhizheng",
+        "Wang, He"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling",
+      "zotero_key": "7FZKPV58",
+      "authors": [
+        "Yao, Jianpeng",
+        "Zhang, Xiaopan",
+        "Xia, Yu",
+        "Wang, Zejin",
+        "Roy-Chowdhury, Amit K",
+        "Li, Jiachen"
+      ],
+      "field": [
+        "Navigation",
+        "Dexterous Hand Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Towards Embodiment Scaling Laws in Robot Locomotion",
+      "zotero_key": "ZQZK9GY8",
+      "authors": [
+        "Ai, Bo",
+        "Dai, Liu",
+        "Bohlinger, Nico",
+        "Li, Dichen",
+        "Mu, Tongzhou",
+        "Wu, Zhanxin",
+        "Fay, K",
+        "Christensen, Henrik I",
+        "Peters, Jan",
+        "Su, Hao"
+      ],
+      "field": [
+        "Locomotion",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Toward Real-World Cooperative and Competitive Soccer with Quadrupedal Robot Teams",
+      "zotero_key": "I5B7UFRG",
+      "authors": [
+        "Su, Zhi",
+        "Gao, Yuman",
+        "Lukas, Emily",
+        "Li, Yunfei",
+        "Cai, Jiaze",
+        "Tulbah, Faris",
+        "Gao, Fei",
+        "Yu, Chao",
+        "Li, Zhongyu",
+        "Wu, Yi",
+        "Sreenath, Koushil"
+      ],
+      "field": [
+        "Locomotion",
+        "Multi-agent Embodied AI",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "TopoCut: Learning Multi-Step Cutting with Spectral Rewards and Discrete Diffusion Policies",
+      "zotero_key": "NTR4GBY7",
+      "authors": [
+        "Wang, Liquan",
+        "Bian, Jiangjie",
+        "Heidden, Eric",
+        "Garg, Animesh"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Tool-as-Interface: Learning Robot Policies from Observing Human Tool Use",
+      "zotero_key": "SN72MKVS",
+      "authors": [
+        "Chen, Haonan",
+        "Zhu, Cheng",
+        "Liu, Shuijing",
+        "Li, Yunzhu",
+        "Driggs-Campbell, Katherine"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation",
+      "zotero_key": "8CAZWTHJ",
+      "authors": [
+        "Shi, Haochen",
+        "Wang, Weizhuo",
+        "Song, Shuran",
+        "Liu, C Karen"
+      ],
+      "field": [
+        "Mobile Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "SPIN: distilling Skill-RRT for long-horizon prehensile and non-prehensile manipulation",
+      "zotero_key": "CJ4KU47B",
+      "authors": [
+        "Jung, Haewon",
+        "Lee, Donguk",
+        "Park, Haecheol",
+        "Kim, JunHyeop",
+        "Kim, Beomjoon"
+      ],
+      "field": [
+        "Long-horizon Planning",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions",
+      "zotero_key": "BEV55CZQ",
+      "authors": [
+        "Field, Harrison",
+        "Yang, Max",
+        "Lin, Yijiong",
+        "Psomopoulou, Efi",
+        "Barton, David",
+        "Lepora, Nathan F"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "LLM model",
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Subteaming and Adaptive Formation Control for Coordinated Multi-Robot Navigation",
+      "zotero_key": "BPX9FDHI",
+      "authors": [
+        "Deng, Zihao",
+        "Gao, Peng",
+        "Jose, Williard Joshua",
+        "Wigness, Maggie",
+        "Rogers, John",
+        "Reily, Brian",
+        "Reardon, Christopher",
+        "Zhang, Hao"
+      ],
+      "field": [
+        "Navigation",
+        "Multi-agent Embodied AI",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Steerable Scene Generation with Post Training and Inference-Time Search",
+      "zotero_key": "T2KX8453",
+      "authors": [
+        "Pfaff, Nicholas",
+        "Dai, Hongkai",
+        "Zakharov, Sergey",
+        "Iwase, Shun",
+        "Tedrake, Russ"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation",
+      "zotero_key": "8D338HKD",
+      "authors": [
+        "Munje, Michael J",
+        "Tang, Chen",
+        "Liu, Shuijing",
+        "Hu, Zichao",
+        "Zhu, Yifeng",
+        "Cui, Jiaxun",
+        "Warnell, Garrett",
+        "Biswas, Joydeep",
+        "Stone, Peter"
+      ],
+      "field": [
+        "Navigation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL",
+      "zotero_key": "TUXM6S2Y",
+      "authors": [
+        "Hu, Jiaheng",
+        "Stone, Peter",
+        "Mart\u0131n-Mart\u0131n, Roberto"
+      ],
+      "field": [
+        "Mobile Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps",
+      "zotero_key": "9HBUV2LC",
+      "authors": [
+        "Shorinwa, Ola",
+        "Sun, Jiankai",
+        "Schwager, Mac",
+        "Majumdar, Anirudha"
+      ],
+      "field": [
+        "Multi-agent Embodied AI",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "SimShear: Sim-to-Real Shear-based Tactile Servoing",
+      "zotero_key": "J4R4E2RV",
+      "authors": [
+        "Freud, Kipp McAdam",
+        "Lin, Yijiong",
+        "Lepora, Nathan F"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids",
+      "zotero_key": "ENBVS2MC",
+      "authors": [
+        "Lin, Toru",
+        "Sachdev, Kartik",
+        "Malik, Jitendra",
+        "Zhu, Yuke"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation",
+      "zotero_key": "844RGTSV",
+      "authors": [
+        "Xing, Youguang",
+        "Luo, Xu",
+        "Xie, Junlin",
+        "Gao, Lianli",
+        "Shen, Hengtao",
+        "Song, Jingkuan"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Sequence Modeling for Time-Optimal Quadrotor Trajectory Optimization",
+      "zotero_key": "W6GTJ88E",
+      "authors": [
+        "Mao, Katherine",
+        "Yu, Hongzhan",
+        "Zhang, Ruipeng",
+        "Spasojevic, Igor",
+        "Hsieh, M Ani",
+        "Gao, Sicun",
+        "Kumar, Vijay"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Self-supervised perception for tactile skin covered dexterous hands",
+      "zotero_key": "EWK66B5P",
+      "authors": [
+        "Sharma, Akash",
+        "Higuera, Carolina",
+        "Bodduluri, Chaithanya Krishna",
+        "Liu, Zixi",
+        "Fan, Taosha",
+        "Hellebrekers, Tess",
+        "Lambeta, Mike",
+        "Boots, Byron",
+        "Kaess, Michael",
+        "Wu, Tingfan",
+        "Hogan, Francois Robert",
+        "Mukadam, Mustafa"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "Self-supervised Learning"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Self-supervised Learning Of Visual Pose Estimation Without Pose Labels By Classifying LED States",
+      "zotero_key": "3HD5FW5L",
+      "authors": [
+        "Carlotti, Nicholas",
+        "Nava, Mirko",
+        "Giusti, Alessandro"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Self-supervised Learning"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation",
+      "zotero_key": "Z43LKVDH",
+      "authors": [
+        "Hu, Chih Yao",
+        "Lin, Yang-Sen",
+        "Lee, Yuna",
+        "Su, Chih-Hai",
+        "Lee, Jie-Ying",
+        "Tsai, Shr-Ruei",
+        "Lin, Chin-Yang",
+        "Chen, Kuan-Wen",
+        "Ke, Tsung-Wei",
+        "Liu, Yu-Lun"
+      ],
+      "field": [
+        "Navigation"
+      ],
+      "models_type": [
+        "VLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild",
+      "zotero_key": "IM7CVAQZ",
+      "authors": [
+        "Tan, Derek Ming Siang",
+        "Liu, Boyang",
+        "Raj, Alok",
+        "Ang, Qi Xuan",
+        "Dai, Weiheng",
+        "Duhan, Tanishq",
+        "Chiun, Jimmy",
+        "Cao, Yuhong",
+        "Shkurti, Florian",
+        "Sartoretti, Guillaume"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "SDS: Quadruped Skill Synthesis from Single Video Demonstration",
+      "zotero_key": "8E3VJKY2",
+      "authors": [
+        "Stamatopoulou, Maria",
+        "Li, Jeffrey",
+        "Kanoulas, Dimitrios"
+      ],
+      "field": [
+        "Locomotion"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Sample-Efficient Online Control Policy Learning with Real-Time Recursive Model Updates",
+      "zotero_key": "3TSS7HG3",
+      "authors": [
+        "Zhang, Zixin",
+        "Avtges, James",
+        "Murphey, Todd D"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation",
+      "zotero_key": "S99VWNNW",
+      "authors": [
+        "Deng, Haoyuan",
+        "Guo, Wenkai",
+        "Wang, Qianzhun",
+        "Wu, Zhenyu",
+        "Wang, Ziwei"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Robust Dexterous Grasping of General Objects",
+      "zotero_key": "5YNWGPAU",
+      "authors": [
+        "Zhang, Hui",
+        "Wu, Zijian",
+        "Huang, Linyi",
+        "Christen, Sammy",
+        "Song, Jie"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop RL",
+      "zotero_key": "R3YCVBH4",
+      "authors": [
+        "Boyle, Liam",
+        "Baumann, Nicolas",
+        "Sivasothilingam, Paviththiren",
+        "Magno, Michele",
+        "Benini, Luca"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "LLM model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids",
+      "zotero_key": "7K8R9PJF",
+      "authors": [
+        "Hu, Kaizhe",
+        "Shi, Haochen",
+        "He, Yao",
+        "Wang, Weizhuo",
+        "Liu, C Karen",
+        "Song, Shuran"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Robot Operating Home Appliances by Reading User Manuals",
+      "zotero_key": "2QJQMPLI",
+      "authors": [
+        "Zhang, Jian",
+        "Zhang, Hanbo",
+        "Xiao, Anxing",
+        "Hsu, David"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Robot Learning from Any Images",
+      "zotero_key": "QUD79VNY",
+      "authors": [
+        "Zhao, Siheng",
+        "Mao, Jiageng",
+        "Chow, Wei",
+        "Shangguan, Zeyu",
+        "Shi, Tianheng",
+        "Xue, Rong",
+        "Zheng, Yuxi",
+        "Weng, Yijia",
+        "You, Yang",
+        "Seita, Daniel",
+        "Guibas, Leonidas",
+        "Zakharov, Sergey",
+        "Guizilini, Vitor",
+        "Wang, Yue"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "RoboMonkey: Scaling Test-Time Sampling and Verification for VLA Models",
+      "zotero_key": "MBJ8GW49",
+      "authors": [
+        "Kwok, Jacky",
+        "Agia, Christopher",
+        "Sinha, Rohan",
+        "Foutter, Matt",
+        "Li, Shulu",
+        "Stoica, Ion",
+        "Mirhoseini, Azalia",
+        "Pavone, Marco"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation",
+      "zotero_key": "ENJC8KSZ",
+      "authors": [
+        "Zhang, Zongzheng",
+        "Yue, Chenghao",
+        "Xu, Haobo",
+        "Liao, Minwen",
+        "Qi, Xianglin",
+        "Gao, Huan-ang",
+        "Wang, Ziwei",
+        "Zhao, Hao"
+      ],
+      "field": [
+        "Long-horizon Planning",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "RICL: Adding In-Context Adaptability to Pre-Trained VLA Models",
+      "zotero_key": "9HH3NJUR",
+      "authors": [
+        "Sridhar, Kaustubh",
+        "Dutta, Souradeep",
+        "Jayaraman, Dinesh",
+        "Lee, Insup"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Residual Neural Terminal Constraint for MPC-based Collision Avoidance",
+      "zotero_key": "AQ6PNY9A",
+      "authors": [
+        "Derajic, Bojan",
+        "Bouzidi, Mohamed-Khalil",
+        "Bernhard, Sebastian",
+        "Honig, Wolfgang"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Reflective Planning: VLMs for Multi-Stage Long-Horizon Robotic Manipulation",
+      "zotero_key": "2W3AVG3W",
+      "authors": [
+        "Feng, Yunhai",
+        "Han, Jiaming",
+        "Yang, Zhuoran",
+        "Yue, Xiangyu",
+        "Levine, Sergey",
+        "Luo, Jianlan"
+      ],
+      "field": [
+        "Long-horizon Planning",
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "ReCoDe: RL-based Dynamic Constraint Design for Multi-Agent Coordination",
+      "zotero_key": "GHANWUAC",
+      "authors": [
+        "Amir, Michael",
+        "Yang, Guang",
+        "Gao, Zhan",
+        "Okumura, Keisuke",
+        "Woo, Heedo",
+        "Prorok, Amanda"
+      ],
+      "field": [
+        "Multi-agent Embodied AI"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving",
+      "zotero_key": "W2M95DSG",
+      "authors": [
+        "Liu, Xueyi",
+        "Zhong, Zuodong",
+        "Wang, Junli",
+        "Guo, Yuxin",
+        "Su, Zhiguo",
+        "Zhang, Qichao",
+        "Liu, Yun-Fu",
+        "Gao, Yinfeng",
+        "Zheng, Yupeng",
+        "Lin, Qiao",
+        "Chen, Huiyong",
+        "Zhao, Dongbin"
+      ],
+      "field": [
+        "Autonomous Driving"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Rapid Mismatch Estimation via Neural Network Informed Variational Inference",
+      "zotero_key": "L5G73CHH",
+      "authors": [
+        "Jaszczuk, Mateusz",
+        "Figueroa, Nadia"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots",
+      "zotero_key": "VII28RAM",
+      "authors": [
+        "Wu, Sheng",
+        "Teng, Fei",
+        "Shi, Hao",
+        "Jiang, Qi",
+        "Luo, Kai",
+        "Wang, Kaiwei",
+        "Yang, Kailun"
+      ],
+      "field": [
+        "Locomotion",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Pseudo-Simulation for Autonomous Driving",
+      "zotero_key": "U3SJW4PY",
+      "authors": [
+        "Cao, Wei",
+        "Hallgarten, Marcel",
+        "Li, Tianyu",
+        "Dauner, Daniel",
+        "Gu, Xunjiang",
+        "Wang, Caojun",
+        "Miron, Yakov",
+        "Aiello, Marco",
+        "Li, Hongyang",
+        "Gilitschenski, Igor",
+        "Ivanovic, Boris",
+        "Pavone, Marco",
+        "Geiger, Andreas",
+        "Chitta, Kashyap"
+      ],
+      "field": [
+        "Autonomous Driving"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical HRI",
+      "zotero_key": "Y3CDCFTS",
+      "authors": [
+        "Madan, Rishabh",
+        "Lin, Jiawei",
+        "Goel, Mahika",
+        "Li, Amber",
+        "Xie, Angchen",
+        "Liang, Xiaoyu",
+        "Lee, Marcus",
+        "Guo, Justin",
+        "Thakkar, Pranav N",
+        "Banerjee, Rohan",
+        "Barreiros, Jose",
+        "Tsui, Kate",
+        "Silver, Tom",
+        "Bhattacharjee, Tapomayukh"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Human-Robot Interaction"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Predictive Red Teaming: Breaking Policies Without Breaking Robots",
+      "zotero_key": "MIFRKP47",
+      "authors": [
+        "Majumdar, Anirudha",
+        "Sharma, Mohit",
+        "Kalashnikov, Dmitry",
+        "Singh, Sumeet",
+        "Sermanet, Pierre",
+        "Sindhwani, Vikas"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Poke and Strike: Learning Task-Informed Exploration Policies",
+      "zotero_key": "YL2HZ6Y4",
+      "authors": [
+        "Aoyama, Marina Y",
+        "Moura, Joao",
+        "Ferrandis, Juan Del Aguila",
+        "Vijayakumar, Sethu"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Pointing3D: A Benchmark for 3D Object Referral via Pointing Gestures",
+      "zotero_key": "CPHKIP4D",
+      "authors": [
+        "Arslanoglu, Mert",
+        "Yilmaz, Kadir"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation",
+      "zotero_key": "FF6DISI5",
+      "authors": [
+        "Haldar, Siddhant",
+        "Pinto, Lerrel"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation",
+      "zotero_key": "VM45CZR9",
+      "authors": [
+        "Liu, Liuhua",
+        "Lin, Jiehong",
+        "Liu, Zhenxin",
+        "Jia, Kui"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Phantom: Training Robots Without Robots Using Only Human Videos",
+      "zotero_key": "QSM4ENZ7",
+      "authors": [
+        "Lepert, Marion",
+        "Fang, Jiaying",
+        "Bohg, Jeannette"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "ParticleFormer: A 3D Point Cloud World Model for Multi-Object Robotic Manipulation",
+      "zotero_key": "Y2P7CQR3",
+      "authors": [
+        "Huang, Suning",
+        "Chen, Qianzhong",
+        "Zhang, Xiaohan",
+        "Sun, Jiankai"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "World Models"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition",
+      "zotero_key": "RDYYXWP7",
+      "authors": [
+        "Kang, Shuhao",
+        "Liao, Martin Y",
+        "Xia, Yan",
+        "Wysocki, Olaf",
+        "Jutzi, Boris",
+        "Cremers, Daniel"
+      ],
+      "field": [
+        "Navigation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies",
+      "zotero_key": "V8B3IV4U",
+      "authors": [
+        "Pan, Chuer",
+        "Liang, Litian",
+        "Bauer, Dominik",
+        "Cousineau, Eric",
+        "Burchfiel, Benjamin",
+        "Feng, Siyuan",
+        "Song, Shuran"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Off Policy Lyapunov Stability in Reinforcement Learning",
+      "zotero_key": "YRCFXRCJ",
+      "authors": [
+        "Gill, Sarvan",
+        "Constantiescu, Daniela"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "ObjectReact: Learning Object-Relative Control for Visual Navigation",
+      "zotero_key": "3TV6ZHVF",
+      "authors": [
+        "Garg, Sourav",
+        "Craggs, Dustin",
+        "Bhat, Vineeth",
+        "Mares, Lachlan",
+        "Podgorski, Stefan",
+        "Krishna, Madhava",
+        "Dayoub, Feras",
+        "Reid, Ian"
+      ],
+      "field": [
+        "Navigation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "O3Afford: One-Shot 3D Object-to-Object Affordance Grounding",
+      "zotero_key": "4UVGMEKQ",
+      "authors": [
+        "Tian, Tongxuan",
+        "Kang, Xuhui",
+        "Kuo, Yen-Ling"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Zero-shot/Few-shot Transfer"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "NeuralSVCD for Efficient Swept Volume Collision Detection",
+      "zotero_key": "FUCYCR2Y",
+      "authors": [
+        "Son, Dongwon",
+        "Jung, Hojin",
+        "Kim, Beomjoon"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Neural Robot Dynamics",
+      "zotero_key": "4EQTXSUW",
+      "authors": [
+        "Anonymous"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem",
+      "zotero_key": "IVIW5X4A",
+      "authors": [
+        "Cheng, Jiaqi",
+        "Fan, Mingfeng",
+        "Zhang, Xuefeng",
+        "Liang, Jingsong",
+        "Cao, Yuhong",
+        "Wu, Guohua",
+        "Sartoretti, Guillaume Adrien"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via RL Augmented Diffusion",
+      "zotero_key": "8CK9SY2R",
+      "authors": [
+        "Yang, Shunpeng",
+        "Fu, Zhen",
+        "Cao, Zhefeng",
+        "Guo, Junde",
+        "Wensing, Patrick",
+        "Zhang, Wei",
+        "Chen, Hua"
+      ],
+      "field": [
+        "Locomotion"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Multi-critic Learning for Whole-body End-effector Twist Tracking",
+      "zotero_key": "SQTKR58P",
+      "authors": [
+        "Vijayan, Aravind Elanjimattathil",
+        "Cramariuc, Andrei",
+        "Risiglione, Mattia",
+        "Gehring, Christian",
+        "Hutter, Marco"
+      ],
+      "field": [
+        "Mobile Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "MoTo: A Zero-shot Plug-in Interaction-aware Navigation for Mobile Manipulation",
+      "zotero_key": "ZN2KW89Q",
+      "authors": [
+        "Wu, Zhenyu",
+        "Ma, Angyuan",
+        "Xu, Xiuwei",
+        "Yin, Hang",
+        "Liang, Yinan",
+        "Wang, Ziwei",
+        "Lu, Jiwen",
+        "Yan, Haibin"
+      ],
+      "field": [
+        "Navigation",
+        "Mobile Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Zero-shot/Few-shot Transfer"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Motion Priors Reimagined: Adapting Flat-Terrain Skills for Complex Quadruped Mobility",
+      "zotero_key": "249TZNCA",
+      "authors": [
+        "Zhang, Zewei",
+        "Li, Chenhao",
+        "Miki, Takahiro",
+        "Hutter, Marco"
+      ],
+      "field": [
+        "Locomotion"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Motion-Blender Gaussian Splatting for Dynamic Scene Reconstruction",
+      "zotero_key": "MT237Z83",
+      "authors": [
+        "Zhang, Xinyu",
+        "Chang, Haonan",
+        "Liu, Yuhan",
+        "Boularias, Abdeslam"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Morphologically Symmetric RL for Ambidextrous Bimanual Manipulation",
+      "zotero_key": "92GPVGDG",
+      "authors": [
+        "Li, Zechu",
+        "Jin, Yufeng",
+        "Liu, Puze",
+        "Chalvatzaki, Georgia"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Mobi-pi: Mobilizing Your Robot Learning Policy",
+      "zotero_key": "QVI9YQJJ",
+      "authors": [
+        "Yang, Jingyun",
+        "Huang, Isabella",
+        "Vu, Brandon",
+        "Bajracharya, Max",
+        "Antonova, Rika",
+        "Bohg, Jeannette"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 79,
+      "title": "MirrorDuo: Reflection-Consistent Visuomotor Learning from Mirrored Demonstration Pairs",
+      "zotero_key": "AB8IQKWF",
+      "authors": [
+        "Zhuang, Zheyu",
+        "Wang, Ruiyu",
+        "Marchetti, Giovanni Luca",
+        "Pokorny, Florian T",
+        "Kragic, Danica"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 80,
+      "title": "MimicFunc: Imitating Tool Manipulation from a Single Human Video via Functional Correspondence",
+      "zotero_key": "PDR3VNDV",
+      "authors": [
+        "Tang, Chao",
+        "Xiao, Anxing",
+        "Deng, Yuhong",
+        "Hu, Tianrun",
+        "Dong, Wenlong",
+        "Zhang, Hanbo",
+        "Hsu, David",
+        "Zhang, Hong"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Meta-Optimization and Program Search using Language Models for TAMP",
+      "zotero_key": "E8JBQEHN",
+      "authors": [
+        "Shcherba, Denis",
+        "Cobo-Briesewitz, Eckart",
+        "Braun, Cornelius V",
+        "Toussaint, Marc"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "LLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Merging and Disentangling Views in Visual RL for Robotic Manipulation",
+      "zotero_key": "MDX74LZL",
+      "authors": [
+        "Almuzairee, Abdulaziz",
+        "Patil, Rohan",
+        "Bhatt, Dwait",
+        "Christensen, Henrik I"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 83,
+      "title": "MEREQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention",
+      "zotero_key": "YR7JUKGL",
+      "authors": [
+        "Chen, Yuxin",
+        "Tang, Chen",
+        "Wei, Jianglan",
+        "Li, Chenran",
+        "Tian, Ran",
+        "Zhang, Xiang",
+        "Zhan, Wei",
+        "Stone, Peter",
+        "Tomizuka, Masayoshi"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Mechanistic Interpretability for Steering VLA Models",
+      "zotero_key": "NPAKTAR9",
+      "authors": [
+        "Haon, Bear",
+        "Stocking, Kaylene",
+        "Chuang, Ian",
+        "Tomlin, Claire"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Mastering Multi-Drone Volleyball through Hierarchical Co-Self-Play RL",
+      "zotero_key": "BWD7ILSL",
+      "authors": [
+        "Zhang, Ruize",
+        "Xiang, Sirui",
+        "Xu, Zelai",
+        "Gao, Feng",
+        "Ji, Shilong",
+        "Tang, Wenhao",
+        "Ding, Wenbo",
+        "Yu, Chao",
+        "Wang, Yu"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Hierarchical Learning"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "ManipBench: Benchmarking VLMs for Low-Level Robot Manipulation",
+      "zotero_key": "7KP49C4D",
+      "authors": [
+        "Zhao, Enyu",
+        "Raval, Vedant",
+        "Zhang, Hejia",
+        "Mao, Jiageng",
+        "Shangguan, Zeyu",
+        "Nikolaidis, Stefanos",
+        "Wang, Yue",
+        "Seita, Daniel"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training",
+      "zotero_key": "UQ9IKKZ2",
+      "authors": [
+        "Yan, Ge",
+        "Zhu, Jiyue",
+        "Deng, Yuquan",
+        "Yang, Shiqi",
+        "Qiu, Ri-Zhao",
+        "Cheng, Xuxin",
+        "Memmel, Marius",
+        "Krishna, Ranjay",
+        "Goyal, Ankit",
+        "Wang, Xiaolong",
+        "Fox, Dieter"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation",
+      "zotero_key": "574MHCQJ",
+      "authors": [
+        "Ravan, Yajvan",
+        "Rashid, Adam",
+        "Yu, Alan",
+        "McClennen, Kai",
+        "Huh, Gio",
+        "Yang, Kevin",
+        "Yang, Zhutian",
+        "Yu, Qinxi",
+        "Wang, Xiaolong",
+        "Isola, Phillip",
+        "Yang, Ge"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Long-VLA: Unleashing Long-Horizon Capability of VLA Model for Robot Manipulation",
+      "zotero_key": "63U5CXZB",
+      "authors": [
+        "Fan, Yiguo",
+        "Ding, Pengxiang",
+        "Bai, Shuanghao",
+        "Tong, Xinyang",
+        "Zhu, Yuyang",
+        "Lu, Hongchao",
+        "Dai, Fengqi",
+        "Zhao, Wei",
+        "Liu, Yang",
+        "Huang, Siteng",
+        "Fan, Zhaoxin",
+        "Chen, Badong",
+        "Wang, Donglin"
+      ],
+      "field": [
+        "Long-horizon Planning",
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps",
+      "zotero_key": "32SLCKU2",
+      "authors": [
+        "Schmittle, Matt",
+        "Baijal, Rohan",
+        "Hatch, Nathan",
+        "Scalise, Rosario"
+      ],
+      "field": [
+        "Navigation",
+        "Long-horizon Planning",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation",
+      "zotero_key": "DGTW73BE",
+      "authors": [
+        "Wan, Weikang",
+        "Fu, Jiawei",
+        "Yuan, Xiaodi",
+        "Zhu, Yifeng",
+        "Su, Hao"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 92,
+      "title": "LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing",
+      "zotero_key": "2N3IXWTS",
+      "authors": [
+        "Lin, Changyi",
+        "Song, Yuxin Ray",
+        "Huo, Boda",
+        "Yu, Mingyang",
+        "Wang, Yikai",
+        "Liu, Shiqi",
+        "Yang, Yuxiang",
+        "Yu, Wenhao",
+        "Zhang, Tingnan",
+        "Tan, Jie",
+        "Luo, Yiyue",
+        "Zhao, Ding"
+      ],
+      "field": [
+        "Locomotion",
+        "Dexterous Hand Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "LLM-Guided Probabilistic Program Induction for POMDP Model Estimation",
+      "zotero_key": "S24DFYYH",
+      "authors": [
+        "Curtis, Aidan",
+        "Tang, Hao",
+        "Veloso, Thiago",
+        "Ellis, Kevin",
+        "Lozano-Perez, Tomas",
+        "Kaelbling, Leslie Pack"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "LLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Sim2Val: Leveraging Correlation Across Test Platforms for Variance-Reduced Metric Estimation",
+      "zotero_key": "56MG2P9I",
+      "authors": [
+        "Luo, Rachel",
+        "Yang, Heng",
+        "Watson, Michael",
+        "Sharma, Apoorva",
+        "Veer, Sushant",
+        "Schmerling, Edward",
+        "Pavone, Marco"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Learning Smooth State-Dependent Traversability from Dense Point Clouds",
+      "zotero_key": "TCY5C55P",
+      "authors": [
+        "Dong, Zihao",
+        "Papalia, Alan",
+        "Jung, Leonard",
+        "Spiro, Alenna",
+        "Osteen, Philip R",
+        "Robison, Christa S",
+        "Everett, Michael"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Learning Long-Horizon Robot Manipulation Skills via Privileged Action",
+      "zotero_key": "GNGNUXMJ",
+      "authors": [
+        "Mao, Xiaofeng",
+        "Xu, Yucheng",
+        "Sun, Zhaole",
+        "Miller, Elle",
+        "Layeghi, Daniel",
+        "Mistry, Michael"
+      ],
+      "field": [
+        "Long-horizon Planning",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Learning Impact-Rich Rotational Maneuvers via Centroidal Velocity Rewards",
+      "zotero_key": "EL3Z28UV",
+      "authors": [
+        "Kang, Dongyun",
+        "Kim, Gijeong",
+        "Choe, JongHun",
+        "Kim, Hajun",
+        "Park, Hae-Won"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Learning from 10 Demos: Generalizable Policy Learning with Oriented Affordance Frames",
+      "zotero_key": "4JV62JNK",
+      "authors": [
+        "Rana, Krishan",
+        "Abou-Chakra, Jad",
+        "Garg, Sourav",
+        "Lee, Robert",
+        "Reid, Ian"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Learning Deployable Locomotion Control via Differentiable Simulation",
+      "zotero_key": "CJKZPZ49",
+      "authors": [
+        "Schwarke, Clemens",
+        "Klemm, Victor",
+        "Bagajo, Joshua",
+        "Sleiman, Jean-Pierre",
+        "Georgiev, Ignat",
+        "Tordesillas, Jesus",
+        "Hutter, Marco"
+      ],
+      "field": [
+        "Locomotion"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Learn from What We HAVE: History-Aware Verifier for Online Reasoning",
+      "zotero_key": "6TVCLV3T",
+      "authors": [
+        "Li, Yishu",
+        "Mao, Xinyi",
+        "Yuan, Ying",
+        "Sim, Kyutae",
+        "Eisner, Ben",
+        "Held, David"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 101,
+      "title": "LaVA-Man: Learning Visual Action Representations for Robot Manipulation",
+      "zotero_key": "KZDJRZIY",
+      "authors": [
+        "Zhu, Chaoran",
+        "Wang, Hengyi",
+        "Pang, Yik Lung",
+        "Oh, Changjae"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Latent Adaptive Planner for Dynamic Manipulation",
+      "zotero_key": "VWHHZZUE",
+      "authors": [
+        "Noh, Donghun",
+        "Kong, Deqian",
+        "Zhao, Minglu",
+        "Lizarraga, Andrew",
+        "Xie, Jianwen",
+        "Wu, Ying Nian",
+        "Hong, Dennis"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 103,
+      "title": "LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation",
+      "zotero_key": "TR3B8JTG",
+      "authors": [
+        "Huang, Yuhang",
+        "Zhang, Jiazhao",
+        "Zou, Shilong",
+        "Liu, Xinwang",
+        "Hu, Ruizhen",
+        "Xu, Kai"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models",
+        "World Models"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "KoopMotion: Learning Almost Divergence-Free Koopman Flow Fields for Motion Planning",
+      "zotero_key": "XQ84A6L8",
+      "authors": [
+        "Li, Alice Kate",
+        "Silva, Thales C",
+        "Edwards, Victoria",
+        "Kumar, Vijay",
+        "Hsieh, M Ani"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "KineDex: Learning Tactile-Informed Visuomotor Policies for Dexterous Manipulation",
+      "zotero_key": "LWDL4XU6",
+      "authors": [
+        "Zhang, Di",
+        "Yuan, Chengbo",
+        "Wen, Chuan",
+        "Zhang, Hai",
+        "Zhao, Junqiao",
+        "Gao, Yang"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection",
+      "zotero_key": "J5Z4JXHX",
+      "authors": [
+        "Rosasco, Andrea",
+        "Ceola, Federico",
+        "Pasquale, Giulia",
+        "Natale, Lorenzo"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Joint Model-based Model-free Diffusion for Planning with Constraints",
+      "zotero_key": "FTKBU74G",
+      "authors": [
+        "Jung, Wonsuhk",
+        "Mishra, Utkarsh A",
+        "Arachchige, Nadun Ranawaka",
+        "Chen, Yongxin",
+        "Xu, Danfei",
+        "Kousik, Shreyas"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 108,
+      "title": "JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes",
+      "zotero_key": "XCPPAJF5",
+      "authors": [
+        "Jain, Shalin Anand",
+        "Liu, Jiazhen",
+        "Kailas, Siva",
+        "Ravichandar, Harish"
+      ],
+      "field": [
+        "Multi-agent Embodied AI",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "IRIS: An Immersive Robot Interaction System",
+      "zotero_key": "EVF57V56",
+      "authors": [
+        "Jiang, Xinkai",
+        "Yuan, Qihao",
+        "Dincer, Enes Ulas",
+        "Zhou, Hongyi",
+        "Li, Ge",
+        "Li, Xueyin",
+        "Jia, Xiaogang",
+        "Schnizer, Timo",
+        "Schreiber, Nicolas",
+        "Liao, Weiran",
+        "Haag, Julius",
+        "Li, Kailai",
+        "Neumann, Gerhard",
+        "Lioutikov, Rudolf"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Improving Efficiency of Sampling-based Motion Planning via Message-Passing Monte Carlo",
+      "zotero_key": "Z4WCKUCE",
+      "authors": [
+        "Chahine, Makram",
+        "Rusch, T Konstantin",
+        "Patterson, Zach J",
+        "Rus, Daniela"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models",
+      "zotero_key": "IAFD5S38",
+      "authors": [
+        "Jung, Minwoo",
+        "Fu, Lanke Frank Tarimo",
+        "Fallon, Maurice",
+        "Kim, Ayoung"
+      ],
+      "field": [
+        "Navigation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Imitation Learning Based on Disentangled Representation Learning of Behavioral Characteristics",
+      "zotero_key": "J2ZP7VFV",
+      "authors": [
+        "Oishi, Ryoga",
+        "Sakaino, Sho",
+        "Tsuji, Toshiaki"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Imagine, Verify, Execute: Memory-Guided Agentic Exploration with VLMs",
+      "zotero_key": "S8796S3W",
+      "authors": [
+        "Lee, Seungjae",
+        "Ekpo, Daniel",
+        "Liu, Haowen",
+        "Huang, Furong",
+        "Shrivastava, Abhinav",
+        "Huang, Jia-Bin"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 114,
+      "title": "HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation",
+      "zotero_key": "KSGD622J",
+      "authors": [
+        "Sun, Li",
+        "Wu, Jiefeng",
+        "Chen, Feng",
+        "Liu, Ruizhe",
+        "Yang, Yanchao"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Humanoid Policy ~ Human Policy",
+      "zotero_key": "YZG92MT2",
+      "authors": [
+        "Qiu, Ri-Zhao",
+        "Yang, Shiqi",
+        "Cheng, Xuxin",
+        "Chawla, Chaitanya",
+        "Li, Jialong",
+        "He, Tairan",
+        "Yan, Ge",
+        "Yoon, David",
+        "Hoque, Ryan",
+        "Paulsen, Lars",
+        "Yang, Ge",
+        "Zhang, Jian",
+        "Yi, Sha",
+        "Shi, Guanya",
+        "Wang, Xiaolong"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Human-like Navigation in a World Built for Humans",
+      "zotero_key": "W7V2LXJK",
+      "authors": [
+        "Chandaka, Bhargav",
+        "Wang, Gloria X",
+        "Chen, Haozhe",
+        "Che, Henry",
+        "Zhai, Albert J",
+        "Wang, Shenlong"
+      ],
+      "field": [
+        "Navigation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control",
+      "zotero_key": "AEIEGDB4",
+      "authors": [
+        "Li, Yitang",
+        "Zhang, Yuanhang",
+        "Xiao, Wenli",
+        "Pan, Chaoyi",
+        "Weng, Haoyang",
+        "He, Guanqi",
+        "He, Tairan",
+        "Shi, Guanya"
+      ],
+      "field": [
+        "Locomotion"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching",
+      "zotero_key": "T2SC82ZZ",
+      "authors": [
+        "Chen, Sirui",
+        "Ye, Yufei",
+        "Cao, Zi-ang",
+        "Lew, Jennifer",
+        "Xu, Pei",
+        "Liu, C Karen"
+      ],
+      "field": [
+        "Locomotion",
+        "Navigation",
+        "Dexterous Hand Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 119,
+      "title": "HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation",
+      "zotero_key": "ZI994FE9",
+      "authors": [
+        "Seneviratne, Gershom",
+        "An, Jianyu",
+        "Ellahy, Sahire",
+        "Weerakoon, Kasun",
+        "Elnoor, Mohamed Bashir",
+        "Kannan, Jonathan Deepak",
+        "Sunil, Amogha Thalihalla",
+        "Manocha, Dinesh"
+      ],
+      "field": [
+        "Navigation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 120,
+      "title": "GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data",
+      "zotero_key": "FKQX2F57",
+      "authors": [
+        "Deng, Shengliang",
+        "Yan, Mi",
+        "Wei, Songlin",
+        "Ma, Haixin",
+        "Yang, Yuxin",
+        "Chen, Jiayi",
+        "Zhang, Zhiqi",
+        "Yang, Taoyu",
+        "Zhang, Xuheng",
+        "Cui, Heming",
+        "Zhang, Zhizheng",
+        "Wang, He"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 121,
+      "title": "GraspQP: Differentiable Optimization of Force Closure for Dexterous Grasping",
+      "zotero_key": "SIFTKQUZ",
+      "authors": [
+        "Zurbrugg, Rene",
+        "Cramariuc, Andrei",
+        "Hutter, Marco"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 122,
+      "title": "GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data",
+      "zotero_key": "KYPG6FYH",
+      "authors": [
+        "Deshpande, Abhay",
+        "Deng, Yuquan",
+        "Ray, Arijit",
+        "Salvador, Jordi",
+        "Han, Winson",
+        "Duan, Jiafei",
+        "Zhu, Yuke",
+        "Krishna, Ranjay",
+        "Hendrix, Rose"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 123,
+      "title": "GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering",
+      "zotero_key": "D92NTLIG",
+      "authors": [
+        "Saxena, Saumya",
+        "Buchanan, Blake",
+        "Paxton, Chris",
+        "Liu, Peiqi",
+        "Chen, Bingqing",
+        "Vaskevicius, Narunas",
+        "Palmieri, Luigi",
+        "Francis, Jonathan",
+        "Kroemer, Oliver"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche",
+      "zotero_key": "CUMDQZH8",
+      "authors": [
+        "Hu, Haodi",
+        "Wu, Yue",
+        "Qian, Feifei",
+        "Seita, Daniel"
+      ],
+      "field": [
+        "Mobile Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 125,
+      "title": "GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors",
+      "zotero_key": "G25V3ZLC",
+      "authors": [
+        "Ma, Teli",
+        "Zheng, Jia",
+        "Wang, Zifan",
+        "Gao, Ziyao",
+        "Zhou, Jiaming",
+        "Liang, Junwei"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 126,
+      "title": "GENNAV: Polygon Mask Generation for Generalized Referring Navigable Regions",
+      "zotero_key": "P2BD4UIN",
+      "authors": [
+        "Katsumata, Kei",
+        "Iioka, Yui",
+        "Hosomi, Naoki",
+        "Misu, Teruhisa",
+        "Yamada, Kentaro",
+        "Sugiura, Komei"
+      ],
+      "field": [
+        "Navigation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Generative Visual Foresight Meets Task-Agnostic Pose Estimation",
+      "zotero_key": "9LZAEFRN",
+      "authors": [
+        "Zhang, Chuye",
+        "Zhang, Xiaoxiong",
+        "Pan, Wei",
+        "Zheng, Linfang",
+        "Zhang, Wei"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 128,
+      "title": "Generating Robot Constitutions & Benchmarks for Semantic Safety",
+      "zotero_key": "WK3GGB8R",
+      "authors": [
+        "Sermanet, Pierre",
+        "Majumdar, Anirudha",
+        "Irpan, Alex",
+        "Kalashnikov, Dmitry"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Generalist Robot Manipulation beyond Action Labeled Data",
+      "zotero_key": "3NSQ6J7X",
+      "authors": [
+        "Spiridonov, Alexander",
+        "Zaech, Jan-Nico",
+        "Nikolov, Nikolay",
+        "Gool, Luc Van",
+        "Paudel, Danda Pani"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 130,
+      "title": "Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation",
+      "zotero_key": "E8LQ6MAG",
+      "authors": [
+        "Bharadhwaj, Homanga",
+        "Dwibedi, Debidatta",
+        "Gupta, Abhinav",
+        "Tulsiani, Shubham",
+        "Doersch, Carl",
+        "Xiao, Ted",
+        "Shah, Dhruv",
+        "Xia, Fei",
+        "Sadigh, Dorsa",
+        "Kirmani, Sean"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 131,
+      "title": "GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation",
+      "zotero_key": "BNGK6X6N",
+      "authors": [
+        "Yin, Hang",
+        "Wei, Haoyu",
+        "Xu, Xiuwei",
+        "Guo, Wenxuan",
+        "Zhou, Jie",
+        "Lu, Jiwen"
+      ],
+      "field": [
+        "Navigation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Language-conditioned Learning"
+      ]
+    },
+    {
+      "id": 132,
+      "title": "From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised QD",
+      "zotero_key": "MD24J2MD",
+      "authors": [
+        "Grillotti, Luca",
+        "Coiffard, Lisa",
+        "Pang, Oscar",
+        "Faldor, Maxence",
+        "Cully, Antoine"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 133,
+      "title": "From Space to Time: Enabling Adaptive Safety with Learned Value Functions",
+      "zotero_key": "7UDPL572",
+      "authors": [
+        "Tonkens, Sander",
+        "Shinde, Nikhil Uday",
+        "Begzadic, Azra",
+        "Yip, Michael C",
+        "Cortes, Jorge",
+        "Herbert, Sylvia L"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 134,
+      "title": "From Real World to Logic and Back: Learning Generalizable Relational Concepts",
+      "zotero_key": "JQD7RWQ7",
+      "authors": [
+        "Shah, Naman",
+        "Nagpal, Jayesh",
+        "Srivastava, Siddharth"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Force-Modulated Visual Policy for Robot-Assisted Dressing with Arm Motions",
+      "zotero_key": "ZZIAI6Y4",
+      "authors": [
+        "Hao, Alexis Yihong",
+        "Wang, Yufei",
+        "Ravie, Navin Sriram",
+        "Hegde, Bharath",
+        "Held, David",
+        "Erickson, Zackory"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 136,
+      "title": "FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection",
+      "zotero_key": "7UTA4UKS",
+      "authors": [
+        "Yang, Anqi Joyce",
+        "Tu, James",
+        "Dvornik, Nikita",
+        "Li, Enxu",
+        "Urtasun, Raquel"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 137,
+      "title": "Focusing on What Matters: Object-Agent-centric Tokenization for VLA Models",
+      "zotero_key": "5DEYGBKE",
+      "authors": [
+        "Bendikas, Rokas",
+        "Dijkman, Daniel",
+        "Peschl, Markus",
+        "Haresh, Sanjay",
+        "Mazzaglia, Pietro"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 138,
+      "title": "FLOWER: Democratizing Generalist Robot Policies with Efficient VLA Flow Policies",
+      "zotero_key": "TH3U9N2D",
+      "authors": [
+        "Reuss, Moritz",
+        "Zhou, Hongyi",
+        "Otto, Fabian",
+        "Lioutikov, Rudolf"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model",
+        "Diffusion Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 139,
+      "title": "FlashBack: Consistency Model-Accelerated Shared Autonomy",
+      "zotero_key": "3TAJZZD7",
+      "authors": [
+        "Sun, Luzhe",
+        "Ji, Jingtian",
+        "Tan, Xiangshan",
+        "Walter, Matthew R"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 140,
+      "title": "FLARE: Robot Learning with Implicit World Modeling",
+      "zotero_key": "H6XVRKUS",
+      "authors": [
+        "Zheng, Ruijie",
+        "Wang, Jing",
+        "Reed, Scott",
+        "Bjorck, Johan",
+        "Fang, Yu",
+        "Hu, Fengyuan",
+        "Jang, Joel",
+        "Kundalia, Kaushil",
+        "Lin, Zongyu",
+        "Magne, Loic",
+        "Narayan, Avnish",
+        "Tan, You Liang",
+        "Wang, Guanzhi",
+        "Wang, Qi",
+        "Xiang, Jiannan",
+        "Xu, Yinzhen",
+        "Ye, Seonghyeon",
+        "Kautz, Jan",
+        "Huang, Furong",
+        "Zhu, Yuke",
+        "Fan, Linxi"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "World Models"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 141,
+      "title": "First Order Model-Based RL through Decoupled Backpropagation",
+      "zotero_key": "DT7PWHT3",
+      "authors": [
+        "Amigo, Joseph",
+        "Khorrambakht, Rooholla",
+        "Chane-Sane, Elliot",
+        "Mansard, Nicolas",
+        "Righetti, Ludovic"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 142,
+      "title": "FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference",
+      "zotero_key": "HZR7FWFF",
+      "authors": [
+        "Feng, Qian",
+        "Feng, Jianxiang",
+        "Chen, Zhaopeng",
+        "Triebel, Rudolph",
+        "Knoll, Alois"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 143,
+      "title": "Few-Shot Neuro-Symbolic Imitation Learning for Long-Horizon Planning and Acting",
+      "zotero_key": "7MM2ZE8Q",
+      "authors": [
+        "Lorang, Pierrick",
+        "Lu, Hong",
+        "Huemer, Johannes",
+        "Zips, Patrik",
+        "Scheutz, Matthias"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning",
+        "Zero-shot/Few-shot Transfer"
+      ]
+    },
+    {
+      "id": 144,
+      "title": "FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface",
+      "zotero_key": "Q6FPK65Y",
+      "authors": [
+        "Liu, Kehui",
+        "Guan, Jeff",
+        "Jia, Zhongjie",
+        "Wu, Ziniu",
+        "Liu, Xin",
+        "Wang, Tianyu",
+        "Liang, Shuai",
+        "Chen, Pengan",
+        "Zhang, Pingrui",
+        "Song, Haoming",
+        "Qu, Delin",
+        "Wang, Dong",
+        "Wang, Zhigang",
+        "Cao, Nieqing",
+        "Ding, Yan",
+        "Zhao, Bin",
+        "Li, Xuelong"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 145,
+      "title": "Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings",
+      "zotero_key": "GIAD94JD",
+      "authors": [
+        "Sochopoulos, Andreas",
+        "Malkin, Nikolay",
+        "Tsagkas, Nikolaos",
+        "Moura, Joao",
+        "Gienger, Michael",
+        "Vijayakumar, Sethu"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 146,
+      "title": "Fail2Progress: Learning from Real-World Robot Failures with Stein Variational Inference",
+      "zotero_key": "EGBKAKZU",
+      "authors": [
+        "Huang, Yixuan",
+        "Alvina, Novella",
+        "Shanthi, Mohanraj Devendran",
+        "Hermans, Tucker"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 147,
+      "title": "Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop",
+      "zotero_key": "L6DVM53V",
+      "authors": [
+        "Hari, Justin Kerr Kush",
+        "Weber, Ethan",
+        "Kim, Chung Min",
+        "Yi, Brent",
+        "Bonnen, Tyler",
+        "Goldberg, Ken",
+        "Kanazawa, Angjoo"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 148,
+      "title": "exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation",
+      "zotero_key": "L4CL94XQ",
+      "authors": [
+        "Xu, Yue",
+        "Wei, Litao",
+        "An, Pengyu",
+        "Zhang, Qingyu",
+        "Li, Yong-Lu"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 149,
+      "title": "Extracting Visual Plans from Unlabeled Videos via Symbolic Guidance",
+      "zotero_key": "VDJL3TLW",
+      "authors": [
+        "Yang, Wenyan",
+        "Tikna, Ahmet",
+        "Zhao, Yi",
+        "Zhang, Yuying",
+        "Palopoli, Luigi",
+        "Roveri, Marco",
+        "Pajarinen, Joni"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 150,
+      "title": "Estimating Value of Assistance for Online POMDP Robotic Agents",
+      "zotero_key": "DKRLMKJN",
+      "authors": [
+        "Goshen, Yuval",
+        "Keren, Sarah"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 151,
+      "title": "Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering",
+      "zotero_key": "H82QRSZ4",
+      "authors": [
+        "Ginting, M Fadhil",
+        "Kim, Dong-Ki",
+        "Meng, Xiangyun",
+        "Reinke, Andrzej",
+        "Krishna, Bandi Jai",
+        "Kayhani, Navid",
+        "Peltzer, Oriana",
+        "Fan, David D",
+        "Shaban, Amirreza",
+        "Kim, Sung-Kyun",
+        "Kochenderfer, Mykel J",
+        "Agha-mohammadi, Ali-akbar",
+        "Omidshafiei, Shayegan"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 152,
+      "title": "Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration",
+      "zotero_key": "XMNNKCU9",
+      "authors": [
+        "Wei, Lai",
+        "Ma, Jiahua",
+        "Hu, Yibo",
+        "Zhang, Ruimao"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 153,
+      "title": "EndoVLA: Dual-Phase Vision-Language-Action for Precise Autonomous Tracking in Endoscopy",
+      "zotero_key": "HYRV8N2G",
+      "authors": [
+        "Ng, Chi Kit",
+        "Bai, Long",
+        "Wang, Guankun",
+        "Wang, Yupeng",
+        "Gao, Huxin",
+        "Yuan, Kun",
+        "Jin, Chenhan",
+        "Zeng, Tieyong",
+        "Ren, Hongliang"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model",
+        "VLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 154,
+      "title": "Enabling Long(er) Horizon Imitation for Manipulation Tasks by Modeling Subgoal Transitions",
+      "zotero_key": "JPIVMVES",
+      "authors": [
+        "Jain, Shivam",
+        "Sachdeva, Sachit",
+        "Paul, Rohan"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 155,
+      "title": "Embrace Contacts: Humanoid Shadowing with Full Body Ground Contacts",
+      "zotero_key": "5T68YSZL",
+      "authors": [
+        "Zhuang, Ziwen",
+        "Zhao, Hang"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 156,
+      "title": "TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models",
+      "zotero_key": "5LBBBCQG",
+      "authors": [
+        "Zhang, Zongzheng",
+        "Xu, Haobo",
+        "Yang, Zhuo",
+        "Yue, Chenghao",
+        "Lin, Zehao",
+        "Gao, Huan-ang",
+        "Wang, Ziwei",
+        "Zhao, Hao"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model",
+        "VLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 157,
+      "title": "Efficient Evaluation of Multi-Task Robot Policies With Active Experiment Selection",
+      "zotero_key": "DESJFYB4",
+      "authors": [
+        "Anwar, Abrar",
+        "Gupta, Rohan",
+        "Merchant, Zain",
+        "Ghosh, Sayan",
+        "Neiswanger, Willie",
+        "Thomason, Jesse"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 158,
+      "title": "Dynamics-Compliant Trajectory Diffusion for Super-Nominal Payload Manipulation",
+      "zotero_key": "LUC4YZDY",
+      "authors": [
+        "Pasricha, Anuj",
+        "Koh, Joewie",
+        "Vakil, Jay",
+        "Roncone, Alessandro"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 159,
+      "title": "DREAMGEN: Unlocking Generalization in Robot Learning through Video World Models",
+      "zotero_key": "ZC5HU528",
+      "authors": [
+        "Jang, Joel",
+        "Ye, Seonghyeon",
+        "Lin, Zongyu",
+        "Xiang, Jiannan",
+        "Bjorck, Johan",
+        "Fang, Yu",
+        "Hu, Fengyuan",
+        "Huang, Spencer",
+        "Kundalia, Kaushil",
+        "Yen-Chen, Lin",
+        "Magne, Loic",
+        "Mandlekar, Ajay",
+        "Narayan, Avnish",
+        "Tan, You Liang",
+        "Wang, Guanzhi",
+        "Wang, Jing",
+        "Wang, Qi",
+        "Xu, Yinzhen",
+        "Zeng, Xiaohui",
+        "Zheng, Kaiyuan",
+        "Zheng, Ruijie",
+        "Liu, Ming-Yu",
+        "Zettlemoyer, Luke",
+        "Fox, Dieter",
+        "Kautz, Jan",
+        "Reed, Scott",
+        "Zhu, Yuke",
+        "Fan, Linxi"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "World Models"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 160,
+      "title": "Door(s): Junction State Estimation for Efficient Exploration in RL",
+      "zotero_key": "49LZP8NR",
+      "authors": [
+        "Fele, Benjamin",
+        "Babic, Jan"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 161,
+      "title": "Do LLM Modules Generalize? A Study on Motion Generation for Autonomous Driving",
+      "zotero_key": "XBZKN8BC",
+      "authors": [
+        "Wang, Mingyi",
+        "Wang, Jingke",
+        "Ye, Tengju",
+        "Chen, Junbo",
+        "Yu, Kaicheng"
+      ],
+      "field": [
+        "Autonomous Driving"
+      ],
+      "models_type": [
+        "LLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 162,
+      "title": "DiWA: Diffusion Policy Adaptation with World Models",
+      "zotero_key": "PAB3F746",
+      "authors": [
+        "Chandra, Akshay L",
+        "Nematollahi, Iman",
+        "Huang, Chenguang",
+        "Welschehold, Tim",
+        "Burgard, Wolfram",
+        "Valada, Abhinav"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models",
+        "World Models"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Distributed Upload and Active Labeling for Resource-Constrained Fleet Learning",
+      "zotero_key": "NZPC8DJI",
+      "authors": [
+        "Akcin, Oguzhan",
+        "Goel, Harsh",
+        "Zhao, Ruihan",
+        "Chinchali, Sandeep P"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 164,
+      "title": "Distilling On-device Language Models for Robot Planning with Minimal Human Intervention",
+      "zotero_key": "M793DAS3",
+      "authors": [
+        "Ravichandran, Zachary",
+        "Hounie, Ignacio",
+        "Cladera, Fernando",
+        "Ribeiro, Alejandro",
+        "Pappas, George J",
+        "Kumar, Vijay"
+      ],
+      "field": [
+        "Long-horizon Planning",
+        "Manipulation"
+      ],
+      "models_type": [
+        "LLM model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 165,
+      "title": "Disentangled Multi-Context Meta-Learning: Unlocking Robust and Generalized Task Learning",
+      "zotero_key": "C686XGFS",
+      "authors": [
+        "Kim, Seonsoo",
+        "Kang, Jun-Gill",
+        "Kim, Taehong",
+        "Hong, Seongil"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Meta-Learning"
+      ]
+    },
+    {
+      "id": 166,
+      "title": "Diffusion-Guided Multi-Arm Motion Planning",
+      "zotero_key": "HTWGS457",
+      "authors": [
+        "Parimi, Viraj",
+        "Williams, Brian"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 167,
+      "title": "Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation",
+      "zotero_key": "FFRD8BWP",
+      "authors": [
+        "Tian, Tongxuan",
+        "Li, Haoyang",
+        "Ai, Bo",
+        "Yuan, Xiaodi",
+        "Huang, Zhiao",
+        "Su, Hao"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 168,
+      "title": "DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control",
+      "zotero_key": "GCKHRH42",
+      "authors": [
+        "Wen, Junjie",
+        "Zhu, Yichen",
+        "Li, Jinming",
+        "Tang, Zhibin",
+        "Shen, Chaomin",
+        "Feng, Feifei"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model",
+        "VLM model",
+        "LLM model",
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 169,
+      "title": "DEXPLORE: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration",
+      "zotero_key": "7UY7U4LK",
+      "authors": [
+        "Xu, Sirui",
+        "Chao, Yu-Wei",
+        "Bian, Liuyu",
+        "Mousavian, Arsalan",
+        "Wang, Yu-Xiong",
+        "Gui, Liang-Yan",
+        "Yang, Wei"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 170,
+      "title": "Deep Equilibrium Model Predictive Control",
+      "zotero_key": "RX9ZQ8DA",
+      "authors": [
+        "Gurumurthy, Swaminathan",
+        "Nguyen, Khai",
+        "Bishop, Arun",
+        "Kolter, Zico",
+        "Manchester, Zachary"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 171,
+      "title": "Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments",
+      "zotero_key": "XMEBX95S",
+      "authors": [
+        "Yang, Jiahui",
+        "Liu, Jason Jingzhou",
+        "Li, Yulong",
+        "Khaky, Youssef",
+        "Shaw, Kenneth",
+        "Pathak, Deepak"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 172,
+      "title": "Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent RL",
+      "zotero_key": "IEEDM87I",
+      "authors": [
+        "Zeng, Jack",
+        "Gimenez, Andreu Matoses",
+        "Vinitsky, Eugene",
+        "Alonso-Mora, Javier",
+        "Sun, Sihao"
+      ],
+      "field": [
+        "Multi-agent Embodied AI",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 173,
+      "title": "D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation",
+      "zotero_key": "GFPBLLWW",
+      "authors": [
+        "Yamada, Jun",
+        "Zhong, Shaohong",
+        "Collins, Jack",
+        "Posner, Ingmar"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 174,
+      "title": "D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation",
+      "zotero_key": "GDYVRP6S",
+      "authors": [
+        "Liu, I-Chun Arthur",
+        "Chen, Jason",
+        "Sukhatme, Gaurav S",
+        "Seita, Daniel"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 175,
+      "title": "CUPID: Curating Data your Robot Loves with Influence Functions",
+      "zotero_key": "UVSR6CB5",
+      "authors": [
+        "Agia, Christopher",
+        "Sinha, Rohan",
+        "Yang, Jingyun",
+        "Antonova, Rika",
+        "Pavone, Marco",
+        "Nishimura, Haruki",
+        "Itkina, Masha",
+        "Bohg, Jeannette"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 176,
+      "title": "Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration",
+      "zotero_key": "CU7STA5E",
+      "authors": [
+        "Lum, Tyler Ga Wei",
+        "Lee, Olivia Y",
+        "Liu, C Karen",
+        "Bohg, Jeannette"
+      ],
+      "field": [
+        "Human-Robot Interaction",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Imitation Learning",
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 177,
+      "title": "Cost-aware Discovery of Contextual Failures using Bayesian Active Learning",
+      "zotero_key": "G6KYJDEV",
+      "authors": [
+        "Parashar, Anjali",
+        "Zhang, Joseph",
+        "Li, Yingke",
+        "Fan, Chuchu"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 178,
+      "title": "CoRI: Communication of Robot Intent for Physical Human-Robot Interaction",
+      "zotero_key": "6KIPHSKF",
+      "authors": [
+        "Wang, Junxiang"
+      ],
+      "field": [
+        "Human-Robot Interaction",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 179,
+      "title": "ControlVLA: Few-shot Object-centric Adaptation for Pre-trained VLA Models",
+      "zotero_key": "U23N74L2",
+      "authors": [
+        "Li, Puhao",
+        "Wu, Yingying",
+        "Xi, Ziheng",
+        "Li, Wanlin",
+        "Huang, Yuzhe",
+        "Zhang, Zhiyuan",
+        "Chen, Yinghan",
+        "Wang, Jianan",
+        "Zhu, Song-Chun",
+        "Liu, Tengyu",
+        "Huang, Siyuan"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "Zero-shot/Few-shot Transfer"
+      ]
+    },
+    {
+      "id": 180,
+      "title": "Contrastive Forward Prediction RL for Adaptive Fault-Tolerant Legged Robots",
+      "zotero_key": "PNLMW2BH",
+      "authors": [
+        "Fu, Yangqing",
+        "Zhang, Yang",
+        "Yang, Qiyue",
+        "Yan, Liyun",
+        "Cao, Zhanxiang",
+        "Gao, Yue"
+      ],
+      "field": [
+        "Locomotion",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Self-supervised Learning"
+      ]
+    },
+    {
+      "id": 181,
+      "title": "Constraint-Preserving Data Generation for Visuomotor Policy Learning",
+      "zotero_key": "DEIFVLFT",
+      "authors": [
+        "Lin, Kevin",
+        "Ragunath, Varun",
+        "McAlinden, Andrew",
+        "Prasad, Aaditya",
+        "Wu, Jimmy",
+        "Zhu, Yuke",
+        "Bohg, Jeannette"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 182,
+      "title": "Constraint-Aware Diffusion Guidance for Robotics: Real-Time Obstacle Avoidance for Autonomous Racing",
+      "zotero_key": "Y4CP63XZ",
+      "authors": [
+        "Ma, Hao",
+        "Bodmer, Sabrina",
+        "Carron, Andrea",
+        "Zeilinger, Melanie",
+        "Muehlebach, Michael"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 183,
+      "title": "Constrained Style Learning from Imperfect Demonstrations under Task Optimality",
+      "zotero_key": "PM699JX4",
+      "authors": [
+        "Wen, Kehan",
+        "Li, Chenhao",
+        "He, Junzhe",
+        "Hutter, Marco"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Imitation Learning"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion",
+      "zotero_key": "36UJUM4J",
+      "authors": [
+        "Hu, Zichao",
+        "Tang, Chen",
+        "Munje, Michael J",
+        "Zhu, Yifeng",
+        "Liu, Alex",
+        "Liu, Shuijing",
+        "Warnell, Garrett",
+        "Stone, Peter",
+        "Biswas, Joydeep"
+      ],
+      "field": [
+        "Navigation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy",
+        "Language-conditioned Learning"
+      ]
+    },
+    {
+      "id": 185,
+      "title": "COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping",
+      "zotero_key": "LUQ5TW4Z",
+      "authors": [
+        "Yamada, Jun",
+        "Mitchell, Alexander L",
+        "Collins, Jack",
+        "Posner, Ingmar"
+      ],
+      "field": [
+        "Dexterous Hand Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 186,
+      "title": "COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning",
+      "zotero_key": "EQWXU7GF",
+      "authors": [
+        "Kumar, Sateesh",
+        "Dass, Shivin",
+        "Pavlakos, Georgios",
+        "Mart\u0131n-Mart\u0131n, Roberto"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 187,
+      "title": "CogniPlan: Uncertainty-Guided Path Planning with Conditional Generative Layout Prediction",
+      "zotero_key": "YR6394XR",
+      "authors": [
+        "Wang, Yizhuo",
+        "He, Haodong",
+        "Liang, Jingsong",
+        "Cao, Yuhong",
+        "Chakraborty, Ritabrata",
+        "Sartoretti, Guillaume"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 188,
+      "title": "Co-Design of Soft Gripper with Neural Physics",
+      "zotero_key": "KLXTPTHR",
+      "authors": [
+        "Yi, Sha",
+        "Bai, Xueqian",
+        "Singh, Adabhav",
+        "Ye, Jianglong",
+        "Tolley, Michael T",
+        "Wang, Xiaolong"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 189,
+      "title": "CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks",
+      "zotero_key": "DAJFHXR7",
+      "authors": [
+        "Li, Yixuan",
+        "Lin, Yutang",
+        "Cui, Jieming",
+        "Liu, Tengyu",
+        "Liang, Wei",
+        "Zhu, Yixin",
+        "Huang, Siyuan"
+      ],
+      "field": [
+        "Mobile Manipulation",
+        "Human-Robot Interaction",
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Teleoperation-based Data Collection"
+      ]
+    },
+    {
+      "id": 190,
+      "title": "CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation",
+      "zotero_key": "FR4693DT",
+      "authors": [
+        "Lee, Sung-Wook",
+        "Kang, Xuhui",
+        "Yang, Brandon",
+        "Kuo, Yen-Ling"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Self-supervised Learning"
+      ]
+    },
+    {
+      "id": 191,
+      "title": "CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset for Multimodal robot Perception",
+      "zotero_key": "5JPW5EXM",
+      "authors": [
+        "Thakkar, Pranav N",
+        "Sinha, Shubhangi",
+        "Baijal, Karan",
+        "Lackey, Leah",
+        "Dodson, Ben",
+        "Kong, Heisen",
+        "Kwon, Jueun",
+        "Li, Amber",
+        "Hu, Yifei",
+        "Rekoutis, Alexios",
+        "Silver, Tom",
+        "Bhattacharjee, Tapomayukh"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 192,
+      "title": "CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks",
+      "zotero_key": "9GN8VIUU",
+      "authors": [
+        "Hao, Ce",
+        "Xiao, Anxing",
+        "Xue, Zhiwei",
+        "Soh, Harold"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy",
+        "Hierarchical Learning"
+      ]
+    },
+    {
+      "id": 193,
+      "title": "CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion",
+      "zotero_key": "43AJIJLB",
+      "authors": [
+        "Ma, Jiahua",
+        "Qin, Yiran",
+        "Li, Yixiong",
+        "Liao, Xuanqi",
+        "Guo, Yulan",
+        "Zhang, Ruimao"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "Diffusion Models"
+      ],
+      "methods": [
+        "Diffusion Policy"
+      ]
+    },
+    {
+      "id": 194,
+      "title": "CASPER: Inferring Diverse Intents for Assistive Teleoperation with VLMs",
+      "zotero_key": "7JE38HRS",
+      "authors": [
+        "Liu, Huihan",
+        "Shah, Rutav",
+        "Liu, Shuijing",
+        "Pittenger, Jack",
+        "Seo, Mingyo",
+        "Cui, Yuchen",
+        "Bisk, Yonatan",
+        "Mart\u0131n-Mart\u0131n, Roberto",
+        "Zhu, Yuke"
+      ],
+      "field": [
+        "Human-Robot Interaction"
+      ],
+      "models_type": [
+        "VLM model"
+      ],
+      "methods": [
+        "Teleoperation-based Data Collection"
+      ]
+    },
+    {
+      "id": 195,
+      "title": "CaRL: Learning Scalable Planning Policies with Simple Rewards",
+      "zotero_key": "367X4K6D",
+      "authors": [
+        "Jaeger, Bernhard",
+        "Dauner, Daniel",
+        "Bei\u00dfwenger, Jens",
+        "Gerstenecker, Simon",
+        "Chitta, Kashyap",
+        "Geiger, Andreas"
+      ],
+      "field": [
+        "Long-horizon Planning"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 196,
+      "title": "CARE: Enhancing Safety of Visual Navigation through Collision Avoidance via Repulsive Estimation",
+      "zotero_key": "46DLNYKE",
+      "authors": [
+        "Kim, Joonkyung",
+        "Sim, Joonyeol",
+        "Kim, Woojun",
+        "Sycara, Katia",
+        "Nam, Changjoo"
+      ],
+      "field": [
+        "Navigation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 197,
+      "title": "CASH: Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination",
+      "zotero_key": "FHB87LLR",
+      "authors": [
+        "Fu, Kevin",
+        "Jain, Shalin Anand",
+        "Howell, Pierce",
+        "Ravichandar, Harish"
+      ],
+      "field": [
+        "Multi-agent Embodied AI",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 198,
+      "title": "BranchOut: Capturing Realistic Multimodality in Autonomous Driving Decisions",
+      "zotero_key": "XBKWRN4W",
+      "authors": [
+        "Kim, Hee Jae",
+        "Yin, Zekai",
+        "Lai, Lei",
+        "Lee, Jason",
+        "Ohn-Bar, Eshed"
+      ],
+      "field": [
+        "Autonomous Driving"
+      ],
+      "models_type": [
+        "Multi-modal Foundation Models"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 199,
+      "title": "Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations",
+      "zotero_key": "2MS42UJN",
+      "authors": [
+        "Ma, Chengtian",
+        "Wei, Yunyue",
+        "Zuo, Chenhui",
+        "Zhang, Chen",
+        "Sui, Yanan"
+      ],
+      "field": [
+        "Locomotion",
+        "Mobile Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 200,
+      "title": "Beyond Constant Parameters: Hyper Prediction Models and HyperMPC",
+      "zotero_key": "Y3VZTEDH",
+      "authors": [
+        "We, Jan",
+        "Krupka, Maciej",
+        "Walas, Krzysztof"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 201,
+      "title": "BEVCALIB: LiDAR-Camera Calibration via Geometry-Guided BEV Representations",
+      "zotero_key": "E8I8XLI2",
+      "authors": [
+        "Yuan, Weiduo",
+        "Li, Jerry",
+        "Yue, Justin",
+        "Shah, Divyank",
+        "Karydis, Konstantinos",
+        "Qiu, Hang"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 202,
+      "title": "BEHAVIOR ROBOT SUITE: Streamlining Real-World Whole-Body Manipulation for Household Activities",
+      "zotero_key": "CH5BDA49",
+      "authors": [
+        "Jiang, Yunfan",
+        "Zhang, Ruohan",
+        "Wong, Josiah",
+        "Wang, Chen",
+        "Ze, Yanjie",
+        "Yin, Hang",
+        "Gokmen, Cem",
+        "Song, Shuran",
+        "Wu, Jiajun",
+        "Fei-Fei, Li"
+      ],
+      "field": [
+        "Mobile Manipulation",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 203,
+      "title": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World",
+      "zotero_key": "DZ98M66Z",
+      "authors": [
+        "Zhou, Zhiyuan",
+        "Atreya, Pranav",
+        "Tan, You Liang",
+        "Pertsch, Karl",
+        "Levine, Sergey"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "id": 204,
+      "title": "ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning",
+      "zotero_key": "I4D5BRZG",
+      "authors": [
+        "Zhang, Yunchu",
+        "Mittal, Shubham",
+        "Zhang, Zhengyu",
+        "Ke, Liyiming",
+        "Srinivasa, Siddhartha",
+        "Gupta, Abhishek"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 205,
+      "title": "AT-Drone: Benchmarking Adaptive Teaming in Multi-Drone Pursuit",
+      "zotero_key": "RVG87H63",
+      "authors": [
+        "Li, Yang",
+        "Chen, Junfan",
+        "Xue, Feng",
+        "Qiu, Jiabin",
+        "Li, Wenbin",
+        "Zhang, Qingrui",
+        "Wen, Ying",
+        "Pan, Wei"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 206,
+      "title": "Articulated Object Estimation in the Wild",
+      "zotero_key": "3CYQANV3",
+      "authors": [
+        "Werby, Abdelrhman",
+        "Burgard, Wolfram",
+        "Valada, Abhinav"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 207,
+      "title": "Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling",
+      "zotero_key": "D49RQYYU",
+      "authors": [
+        "Qiu, Xiaowen",
+        "Yang, Jincheng",
+        "Wang, Yian",
+        "Chen, Zhehuan",
+        "Wang, Yufei",
+        "Wang, Tsun-Hsuan",
+        "Xian, Zhou"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 208,
+      "title": "ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly",
+      "zotero_key": "L8VQTP8L",
+      "authors": [
+        "Sun, Jiankai",
+        "Curtis, Aidan",
+        "You, Yang",
+        "Xu, Yan",
+        "Koehle, Michael",
+        "Chen, Qianzhong",
+        "Huang, Suning",
+        "Guibas, Leonidas",
+        "Chitta, Sachin",
+        "Schwager, Mac",
+        "Li, Hui"
+      ],
+      "field": [
+        "Long-horizon Planning",
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Hierarchical Learning"
+      ]
+    },
+    {
+      "id": 209,
+      "title": "AnyPlace: Learning Generalizable Object Placement for Robot Manipulation",
+      "zotero_key": "CEW2JZ9V",
+      "authors": [
+        "Zhao, Yuchi",
+        "Bogdanovic, Miroslav",
+        "Luo, Chengyuan",
+        "Tohme, Steven",
+        "Darvish, Kourosh",
+        "Aspuru-Guzik, Alan",
+        "Shkurti, Florian",
+        "Garg, Animesh"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 210,
+      "title": "AimBot: A Simple Auxiliary Visual Cue to Enhance Spatial Awareness of Visuomotor Policies",
+      "zotero_key": "NVPVYKVN",
+      "authors": [
+        "Dai, Yinpei",
+        "Lee, Jayjun",
+        "Zhang, Yichi",
+        "Ma, Ziqiao",
+        "Yang, Jianing",
+        "Zadeh, Amir",
+        "Li, Chuan",
+        "Fazeli, Nima",
+        "Chai, Joyce"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 211,
+      "title": "Agreement Volatility: A Second-Order Metric for Uncertainty Quantification in Surgical Robot Learning",
+      "zotero_key": "MVTCXGFN",
+      "authors": [
+        "Thompson, Jordan",
+        "Jordan, Britton",
+        "Brown, Daniel S",
+        "Kuntz, Alan"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 212,
+      "title": "AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation",
+      "zotero_key": "RPZMHTUP",
+      "authors": [
+        "Zhang, Yizheng",
+        "Yu, Zhenjun",
+        "Lai, Jiaxin",
+        "Lu, Cewu",
+        "Han, Lei"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "Reinforcement Learning",
+        "Sim-to-Real Transfer"
+      ]
+    },
+    {
+      "id": 213,
+      "title": "Adapting by Analogy: OOD Generalization of Visuomotor Policies via Functional Correspondence",
+      "zotero_key": "MRWL4SJN",
+      "authors": [
+        "Gupta, Pranay",
+        "Admoni, Henny",
+        "Bajcsy, Andrea"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 214,
+      "title": "ActLoc: Learning to Localize on the Move via Active Viewpoint Selection",
+      "zotero_key": "ZQ66S2U2",
+      "authors": [
+        "Li, Jiajie",
+        "Sun, Boyang",
+        "Giammarino, Luca Di",
+        "Blum, Hermann",
+        "Pollefeys, Marc"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 215,
+      "title": "Action-Free Reasoning for Policy Generalization",
+      "zotero_key": "LYAF4YHB",
+      "authors": [
+        "Clark, Jaden",
+        "Mirchandani, Suvir",
+        "Sadigh, Dorsa",
+        "Belkhale, Suneel"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "small model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    },
+    {
+      "id": 216,
+      "title": "3DS-VLA: A 3D Spatial-Aware Vision Language Action Model for Robust Multi-Task Manipulation",
+      "zotero_key": "7Z64HDEV",
+      "authors": [
+        "Li, Xiaoqi",
+        "Heng, Liang",
+        "Liu, Jiaming",
+        "Shen, Yan",
+        "Gu, Chenyang",
+        "Liu, Zhuoyang",
+        "Chen, Hao",
+        "Han, Nuowei",
+        "Zhang, Renrui",
+        "Tang, Hao",
+        "Zhang, Shanghang",
+        "Dong, Hao"
+      ],
+      "field": [
+        "Manipulation"
+      ],
+      "models_type": [
+        "VLA model"
+      ],
+      "methods": [
+        "End-to-End Learning"
+      ]
+    }
+  ]
+}

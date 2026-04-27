@@ -1,0 +1,29 @@
+{
+  "title": "Mastering Multi-Drone Volleyball through Hierarchical Co-Self-Play RL",
+  "zotero_key": "BWD7ILSL",
+  "authors": [
+    "Zhang, Ruize",
+    "Xiang, Sirui",
+    "Xu, Zelai",
+    "Gao, Feng",
+    "Ji, Shilong",
+    "Tang, Wenhao",
+    "Ding, Wenbo",
+    "Yu, Chao",
+    "Wang, Yu"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Hierarchical Learning"
+    ]
+  }
+}

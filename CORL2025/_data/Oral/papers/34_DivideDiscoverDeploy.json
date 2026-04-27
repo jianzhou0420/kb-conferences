@@ -1,0 +1,12 @@
+{
+  "title": "Divide, Discover, Deploy: Factorized Skill Learning with Symmetry and Style Priors",
+  "zotero_key": "VCEPCB5U",
+  "authors": ["Cathomen, Rafael", "Mittal, Mayank", "Vlastelica, Marin", "Hutter, Marco"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Locomotion"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Hierarchical Learning"]
+  }
+}

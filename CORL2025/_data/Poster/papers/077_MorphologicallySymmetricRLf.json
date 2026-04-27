@@ -1,0 +1,23 @@
+{
+  "title": "Morphologically Symmetric RL for Ambidextrous Bimanual Manipulation",
+  "zotero_key": "92GPVGDG",
+  "authors": [
+    "Li, Zechu",
+    "Jin, Yufeng",
+    "Liu, Puze",
+    "Chalvatzaki, Georgia"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

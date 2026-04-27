@@ -1,0 +1,31 @@
+{
+  "title": "Self-supervised perception for tactile skin covered dexterous hands",
+  "zotero_key": "EWK66B5P",
+  "authors": [
+    "Sharma, Akash",
+    "Higuera, Carolina",
+    "Bodduluri, Chaithanya Krishna",
+    "Liu, Zixi",
+    "Fan, Taosha",
+    "Hellebrekers, Tess",
+    "Lambeta, Mike",
+    "Boots, Byron",
+    "Kaess, Michael",
+    "Wu, Tingfan",
+    "Hogan, Francois Robert",
+    "Mukadam, Mustafa"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "Self-supervised Learning"
+    ]
+  }
+}

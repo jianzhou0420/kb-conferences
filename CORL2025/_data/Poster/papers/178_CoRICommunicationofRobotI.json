@@ -1,0 +1,21 @@
+{
+  "title": "CoRI: Communication of Robot Intent for Physical Human-Robot Interaction",
+  "zotero_key": "6KIPHSKF",
+  "authors": [
+    "Wang, Junxiang"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Human-Robot Interaction",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

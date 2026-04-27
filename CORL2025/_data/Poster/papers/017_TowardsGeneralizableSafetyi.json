@@ -1,0 +1,26 @@
+{
+  "title": "Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling",
+  "zotero_key": "7FZKPV58",
+  "authors": [
+    "Yao, Jianpeng",
+    "Zhang, Xiaopan",
+    "Xia, Yu",
+    "Wang, Zejin",
+    "Roy-Chowdhury, Amit K",
+    "Li, Jiachen"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Dexterous Hand Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

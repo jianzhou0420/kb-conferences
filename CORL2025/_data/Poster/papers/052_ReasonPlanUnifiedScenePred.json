@@ -1,0 +1,31 @@
+{
+  "title": "ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving",
+  "zotero_key": "W2M95DSG",
+  "authors": [
+    "Liu, Xueyi",
+    "Zhong, Zuodong",
+    "Wang, Junli",
+    "Guo, Yuxin",
+    "Su, Zhiguo",
+    "Zhang, Qichao",
+    "Liu, Yun-Fu",
+    "Gao, Yinfeng",
+    "Zheng, Yupeng",
+    "Lin, Qiao",
+    "Chen, Huiyong",
+    "Zhao, Dongbin"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Autonomous Driving"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Mobi-pi: Mobilizing Your Robot Learning Policy",
+  "zotero_key": "QVI9YQJJ",
+  "authors": [
+    "Yang, Jingyun",
+    "Huang, Isabella",
+    "Vu, Brandon",
+    "Bajracharya, Max",
+    "Antonova, Rika",
+    "Bohg, Jeannette"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

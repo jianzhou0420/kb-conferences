@@ -1,0 +1,27 @@
+{
+  "title": "DEXPLORE: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration",
+  "zotero_key": "7UY7U4LK",
+  "authors": [
+    "Xu, Sirui",
+    "Chao, Yu-Wei",
+    "Bian, Liuyu",
+    "Mousavian, Arsalan",
+    "Wang, Yu-Xiong",
+    "Gui, Liang-Yan",
+    "Yang, Wei"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

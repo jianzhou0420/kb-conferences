@@ -1,0 +1,12 @@
+{
+  "title": "LocoFormer: Generalist Locomotion via Long-context Adaptation",
+  "zotero_key": "KGPBSNWW",
+  "authors": ["Liu, Min", "Pathak, Deepak", "Agarwal, Ananye"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Locomotion"],
+    "models_type": ["Transformer-based Policy"],
+    "methods": ["Meta-Learning", "Transformer-based Policy"]
+  }
+}

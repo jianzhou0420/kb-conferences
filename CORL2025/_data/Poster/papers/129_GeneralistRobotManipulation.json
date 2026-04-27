@@ -1,0 +1,24 @@
+{
+  "title": "Generalist Robot Manipulation beyond Action Labeled Data",
+  "zotero_key": "3NSQ6J7X",
+  "authors": [
+    "Spiridonov, Alexander",
+    "Zaech, Jan-Nico",
+    "Nikolov, Nikolay",
+    "Gool, Luc Van",
+    "Paudel, Danda Pani"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

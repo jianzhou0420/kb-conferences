@@ -1,0 +1,23 @@
+{
+  "title": "ParticleFormer: A 3D Point Cloud World Model for Multi-Object Robotic Manipulation",
+  "zotero_key": "Y2P7CQR3",
+  "authors": [
+    "Huang, Suning",
+    "Chen, Qianzhong",
+    "Zhang, Xiaohan",
+    "Sun, Jiankai"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "World Models"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Learning Impact-Rich Rotational Maneuvers via Centroidal Velocity Rewards",
+  "zotero_key": "EL3Z28UV",
+  "authors": [
+    "Kang, Dongyun",
+    "Kim, Gijeong",
+    "Choe, JongHun",
+    "Kim, Hajun",
+    "Park, Hae-Won"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

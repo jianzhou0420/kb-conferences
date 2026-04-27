@@ -1,0 +1,25 @@
+{
+  "title": "Force-Modulated Visual Policy for Robot-Assisted Dressing with Arm Motions",
+  "zotero_key": "ZZIAI6Y4",
+  "authors": [
+    "Hao, Alexis Yihong",
+    "Wang, Yufei",
+    "Ravie, Navin Sriram",
+    "Hegde, Bharath",
+    "Held, David",
+    "Erickson, Zackory"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Sequence Modeling for Time-Optimal Quadrotor Trajectory Optimization",
+  "zotero_key": "W6GTJ88E",
+  "authors": [
+    "Mao, Katherine",
+    "Yu, Hongzhan",
+    "Zhang, Ruipeng",
+    "Spasojevic, Igor",
+    "Hsieh, M Ani",
+    "Gao, Sicun",
+    "Kumar, Vijay"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "KineDex: Learning Tactile-Informed Visuomotor Policies for Dexterous Manipulation",
+  "zotero_key": "LWDL4XU6",
+  "authors": [
+    "Zhang, Di",
+    "Yuan, Chengbo",
+    "Wen, Chuan",
+    "Zhang, Hai",
+    "Zhao, Junqiao",
+    "Gao, Yang"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Enabling Long(er) Horizon Imitation for Manipulation Tasks by Modeling Subgoal Transitions",
+  "zotero_key": "JPIVMVES",
+  "authors": [
+    "Jain, Shivam",
+    "Sachdeva, Sachit",
+    "Paul, Rohan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning"
+    ]
+  }
+}

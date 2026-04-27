@@ -1,0 +1,12 @@
+{
+  "title": "ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation",
+  "zotero_key": "E6XVU6VH",
+  "authors": ["Liu, Yangcen", "Shin, Woo Chul", "Han, Yunhai", "Chen, Zhenyang"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation", "Human-Robot Interaction"],
+    "models_type": ["VLM model"],
+    "methods": ["Imitation Learning", "Learning from Demonstration"]
+  }
+}

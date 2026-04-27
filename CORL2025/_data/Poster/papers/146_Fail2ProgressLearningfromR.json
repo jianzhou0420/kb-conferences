@@ -1,0 +1,24 @@
+{
+  "title": "Fail2Progress: Learning from Real-World Robot Failures with Stein Variational Inference",
+  "zotero_key": "EGBKAKZU",
+  "authors": [
+    "Huang, Yixuan",
+    "Alvina, Novella",
+    "Shanthi, Mohanraj Devendran",
+    "Hermans, Tucker"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Imitation Learning"
+    ]
+  }
+}

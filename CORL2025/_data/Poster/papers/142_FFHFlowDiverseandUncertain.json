@@ -1,0 +1,25 @@
+{
+  "title": "FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference",
+  "zotero_key": "HZR7FWFF",
+  "authors": [
+    "Feng, Qian",
+    "Feng, Jianxiang",
+    "Chen, Zhaopeng",
+    "Triebel, Rudolph",
+    "Knoll, Alois"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

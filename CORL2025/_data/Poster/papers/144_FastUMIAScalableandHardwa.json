@@ -1,0 +1,36 @@
+{
+  "title": "FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface",
+  "zotero_key": "Q6FPK65Y",
+  "authors": [
+    "Liu, Kehui",
+    "Guan, Jeff",
+    "Jia, Zhongjie",
+    "Wu, Ziniu",
+    "Liu, Xin",
+    "Wang, Tianyu",
+    "Liang, Shuai",
+    "Chen, Pengan",
+    "Zhang, Pingrui",
+    "Song, Haoming",
+    "Qu, Delin",
+    "Wang, Dong",
+    "Wang, Zhigang",
+    "Cao, Nieqing",
+    "Ding, Yan",
+    "Zhao, Bin",
+    "Li, Xuelong"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

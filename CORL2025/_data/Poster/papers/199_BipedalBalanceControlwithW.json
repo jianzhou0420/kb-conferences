@@ -1,0 +1,25 @@
+{
+  "title": "Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations",
+  "zotero_key": "2MS42UJN",
+  "authors": [
+    "Ma, Chengtian",
+    "Wei, Yunyue",
+    "Zuo, Chenhui",
+    "Zhang, Chen",
+    "Sui, Yanan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion",
+      "Mobile Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation",
+  "zotero_key": "L4CL94XQ",
+  "authors": [
+    "Xu, Yue",
+    "Wei, Litao",
+    "An, Pengyu",
+    "Zhang, Qingyu",
+    "Li, Yong-Lu"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

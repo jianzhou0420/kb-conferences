@@ -1,0 +1,30 @@
+{
+  "title": "ControlVLA: Few-shot Object-centric Adaptation for Pre-trained VLA Models",
+  "zotero_key": "U23N74L2",
+  "authors": [
+    "Li, Puhao",
+    "Wu, Yingying",
+    "Xi, Ziheng",
+    "Li, Wanlin",
+    "Huang, Yuzhe",
+    "Zhang, Zhiyuan",
+    "Chen, Yinghan",
+    "Wang, Jianan",
+    "Zhu, Song-Chun",
+    "Liu, Tengyu",
+    "Huang, Siyuan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model"
+    ],
+    "methods": [
+      "Zero-shot/Few-shot Transfer"
+    ]
+  }
+}

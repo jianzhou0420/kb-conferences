@@ -1,0 +1,12 @@
+{
+  "title": "Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware",
+  "zotero_key": "3T7HNETY",
+  "authors": ["Yu, Justin", "Fu, Max Letian", "Huang, Huang", "El-Refai, Karim", "Ambrus, Rares Andrei", "Cheng, Richard", "Irshad, Muhammad Zubair", "Goldberg, Ken"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["Sim-to-Real Transfer", "Teleoperation-based Data Collection"]
+  }
+}

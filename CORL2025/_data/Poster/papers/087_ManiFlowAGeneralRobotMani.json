@@ -1,0 +1,30 @@
+{
+  "title": "ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training",
+  "zotero_key": "UQ9IKKZ2",
+  "authors": [
+    "Yan, Ge",
+    "Zhu, Jiyue",
+    "Deng, Yuquan",
+    "Yang, Shiqi",
+    "Qiu, Ri-Zhao",
+    "Cheng, Xuxin",
+    "Memmel, Marius",
+    "Krishna, Ranjay",
+    "Goyal, Ankit",
+    "Wang, Xiaolong",
+    "Fox, Dieter"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

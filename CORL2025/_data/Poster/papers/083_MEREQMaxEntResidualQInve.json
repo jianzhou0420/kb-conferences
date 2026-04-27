@@ -1,0 +1,28 @@
+{
+  "title": "MEREQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention",
+  "zotero_key": "YR7JUKGL",
+  "authors": [
+    "Chen, Yuxin",
+    "Tang, Chen",
+    "Wei, Jianglan",
+    "Li, Chenran",
+    "Tian, Ran",
+    "Zhang, Xiang",
+    "Zhan, Wei",
+    "Stone, Peter",
+    "Tomizuka, Masayoshi"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

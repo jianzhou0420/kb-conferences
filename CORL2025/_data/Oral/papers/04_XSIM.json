@@ -1,0 +1,12 @@
+{
+  "title": "X-SIM: Cross-Embodiment Learning via Real-to-Sim-to-Real",
+  "zotero_key": "DRMAFI4F",
+  "authors": ["Dan, Prithwish", "Kedia, Kushal", "Chao, Angela", "Duan, Edward W", "Pace, Maximus A", "Ma, Wei-Chiu", "Choudhury, Sanjiban"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Sim-to-Real Transfer", "Imitation Learning"]
+  }
+}

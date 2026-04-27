@@ -1,0 +1,25 @@
+{
+  "title": "GENNAV: Polygon Mask Generation for Generalized Referring Navigable Regions",
+  "zotero_key": "P2BD4UIN",
+  "authors": [
+    "Katsumata, Kei",
+    "Iioka, Yui",
+    "Hosomi, Naoki",
+    "Misu, Teruhisa",
+    "Yamada, Kentaro",
+    "Sugiura, Komei"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

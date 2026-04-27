@@ -1,0 +1,23 @@
+{
+  "title": "Robot Operating Home Appliances by Reading User Manuals",
+  "zotero_key": "2QJQMPLI",
+  "authors": [
+    "Zhang, Jian",
+    "Zhang, Hanbo",
+    "Xiao, Anxing",
+    "Hsu, David"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

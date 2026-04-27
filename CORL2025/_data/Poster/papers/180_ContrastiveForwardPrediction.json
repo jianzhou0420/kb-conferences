@@ -1,0 +1,27 @@
+{
+  "title": "Contrastive Forward Prediction RL for Adaptive Fault-Tolerant Legged Robots",
+  "zotero_key": "PNLMW2BH",
+  "authors": [
+    "Fu, Yangqing",
+    "Zhang, Yang",
+    "Yang, Qiyue",
+    "Yan, Liyun",
+    "Cao, Zhanxiang",
+    "Gao, Yue"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Self-supervised Learning"
+    ]
+  }
+}

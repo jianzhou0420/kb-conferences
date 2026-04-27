@@ -1,0 +1,23 @@
+{
+  "title": "Merging and Disentangling Views in Visual RL for Robotic Manipulation",
+  "zotero_key": "MDX74LZL",
+  "authors": [
+    "Almuzairee, Abdulaziz",
+    "Patil, Rohan",
+    "Bhatt, Dwait",
+    "Christensen, Henrik I"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

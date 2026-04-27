@@ -1,0 +1,33 @@
+{
+  "title": "Pseudo-Simulation for Autonomous Driving",
+  "zotero_key": "U3SJW4PY",
+  "authors": [
+    "Cao, Wei",
+    "Hallgarten, Marcel",
+    "Li, Tianyu",
+    "Dauner, Daniel",
+    "Gu, Xunjiang",
+    "Wang, Caojun",
+    "Miron, Yakov",
+    "Aiello, Marco",
+    "Li, Hongyang",
+    "Gilitschenski, Igor",
+    "Ivanovic, Boris",
+    "Pavone, Marco",
+    "Geiger, Andreas",
+    "Chitta, Kashyap"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Autonomous Driving"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

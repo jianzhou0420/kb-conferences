@@ -1,0 +1,12 @@
+{
+  "title": "One View, Many Worlds: Single-Image to 3D Object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation",
+  "zotero_key": "5SHP4FYK",
+  "authors": ["Geng, Zheng", "Wang, Nan", "Xu, Shaocong", "Ye, Chongjie", "Li, Bohan", "Chen, Zhaoxi", "Peng, Sida", "Zhao, Hao"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["Zero-shot/Few-shot Transfer", "Sim-to-Real Transfer"]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World",
+  "zotero_key": "DZ98M66Z",
+  "authors": [
+    "Zhou, Zhiyuan",
+    "Atreya, Pranav",
+    "Tan, You Liang",
+    "Pertsch, Karl",
+    "Levine, Sergey"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

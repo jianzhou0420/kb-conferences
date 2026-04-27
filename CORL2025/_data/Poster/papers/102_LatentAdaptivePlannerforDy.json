@@ -1,0 +1,26 @@
+{
+  "title": "Latent Adaptive Planner for Dynamic Manipulation",
+  "zotero_key": "VWHHZZUE",
+  "authors": [
+    "Noh, Donghun",
+    "Kong, Deqian",
+    "Zhao, Minglu",
+    "Lizarraga, Andrew",
+    "Xie, Jianwen",
+    "Wu, Ying Nian",
+    "Hong, Dennis"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

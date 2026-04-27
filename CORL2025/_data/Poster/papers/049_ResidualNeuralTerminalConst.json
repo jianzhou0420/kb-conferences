@@ -1,0 +1,23 @@
+{
+  "title": "Residual Neural Terminal Constraint for MPC-based Collision Avoidance",
+  "zotero_key": "AQ6PNY9A",
+  "authors": [
+    "Derajic, Bojan",
+    "Bouzidi, Mohamed-Khalil",
+    "Bernhard, Sebastian",
+    "Honig, Wolfgang"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

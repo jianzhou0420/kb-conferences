@@ -1,0 +1,25 @@
+{
+  "title": "Co-Design of Soft Gripper with Neural Physics",
+  "zotero_key": "KLXTPTHR",
+  "authors": [
+    "Yi, Sha",
+    "Bai, Xueqian",
+    "Singh, Adabhav",
+    "Ye, Jianglong",
+    "Tolley, Michael T",
+    "Wang, Xiaolong"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

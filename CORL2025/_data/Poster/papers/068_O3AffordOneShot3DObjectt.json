@@ -1,0 +1,22 @@
+{
+  "title": "O3Afford: One-Shot 3D Object-to-Object Affordance Grounding",
+  "zotero_key": "4UVGMEKQ",
+  "authors": [
+    "Tian, Tongxuan",
+    "Kang, Xuhui",
+    "Kuo, Yen-Ling"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Zero-shot/Few-shot Transfer"
+    ]
+  }
+}

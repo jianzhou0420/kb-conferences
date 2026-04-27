@@ -1,0 +1,27 @@
+{
+  "title": "Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions",
+  "zotero_key": "BEV55CZQ",
+  "authors": [
+    "Field, Harrison",
+    "Yang, Max",
+    "Lin, Yijiong",
+    "Psomopoulou, Efi",
+    "Barton, David",
+    "Lepora, Nathan F"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "LLM model",
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

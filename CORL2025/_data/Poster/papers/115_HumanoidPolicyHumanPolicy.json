@@ -1,0 +1,34 @@
+{
+  "title": "Humanoid Policy ~ Human Policy",
+  "zotero_key": "YZG92MT2",
+  "authors": [
+    "Qiu, Ri-Zhao",
+    "Yang, Shiqi",
+    "Cheng, Xuxin",
+    "Chawla, Chaitanya",
+    "Li, Jialong",
+    "He, Tairan",
+    "Yan, Ge",
+    "Yoon, David",
+    "Hoque, Ryan",
+    "Paulsen, Lars",
+    "Yang, Ge",
+    "Zhang, Jian",
+    "Yi, Sha",
+    "Shi, Guanya",
+    "Wang, Xiaolong"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

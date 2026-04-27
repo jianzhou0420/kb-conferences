@@ -1,0 +1,26 @@
+{
+  "title": "Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem",
+  "zotero_key": "IVIW5X4A",
+  "authors": [
+    "Cheng, Jiaqi",
+    "Fan, Mingfeng",
+    "Zhang, Xuefeng",
+    "Liang, Jingsong",
+    "Cao, Yuhong",
+    "Wu, Guohua",
+    "Sartoretti, Guillaume Adrien"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

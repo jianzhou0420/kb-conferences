@@ -1,0 +1,21 @@
+{
+  "title": "Estimating Value of Assistance for Online POMDP Robotic Agents",
+  "zotero_key": "DKRLMKJN",
+  "authors": [
+    "Goshen, Yuval",
+    "Keren, Sarah"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

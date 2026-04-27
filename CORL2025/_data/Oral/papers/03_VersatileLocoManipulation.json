@@ -1,0 +1,12 @@
+{
+  "title": "Versatile Loco-Manipulation through Flexible Interlimb Coordination",
+  "zotero_key": "FNGS8GST",
+  "authors": ["Zhu, Xinghao", "Chen, Yuxin", "Sun, Lingfeng", "Niroui, Farzad", "Cleac'h, Simon Le", "Wang, Jiuguang", "Fang, Kuan"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Mobile Manipulation", "Locomotion"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Hierarchical Learning"]
+  }
+}

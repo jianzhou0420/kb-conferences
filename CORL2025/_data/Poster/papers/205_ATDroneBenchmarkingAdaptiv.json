@@ -1,0 +1,27 @@
+{
+  "title": "AT-Drone: Benchmarking Adaptive Teaming in Multi-Drone Pursuit",
+  "zotero_key": "RVG87H63",
+  "authors": [
+    "Li, Yang",
+    "Chen, Junfan",
+    "Xue, Feng",
+    "Qiu, Jiabin",
+    "Li, Wenbin",
+    "Zhang, Qingrui",
+    "Wen, Ying",
+    "Pan, Wei"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "AimBot: A Simple Auxiliary Visual Cue to Enhance Spatial Awareness of Visuomotor Policies",
+  "zotero_key": "NVPVYKVN",
+  "authors": [
+    "Dai, Yinpei",
+    "Lee, Jayjun",
+    "Zhang, Yichi",
+    "Ma, Ziqiao",
+    "Yang, Jianing",
+    "Zadeh, Amir",
+    "Li, Chuan",
+    "Fazeli, Nima",
+    "Chai, Joyce"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

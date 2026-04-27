@@ -1,0 +1,31 @@
+{
+  "title": "ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly",
+  "zotero_key": "L8VQTP8L",
+  "authors": [
+    "Sun, Jiankai",
+    "Curtis, Aidan",
+    "You, Yang",
+    "Xu, Yan",
+    "Koehle, Michael",
+    "Chen, Qianzhong",
+    "Huang, Suning",
+    "Guibas, Leonidas",
+    "Chitta, Sachin",
+    "Schwager, Mac",
+    "Li, Hui"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Hierarchical Learning"
+    ]
+  }
+}

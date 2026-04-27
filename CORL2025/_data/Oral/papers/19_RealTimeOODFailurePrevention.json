@@ -1,0 +1,12 @@
+{
+  "title": "Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning",
+  "zotero_key": "WPGPILT9",
+  "authors": ["Ganai, Milan", "Sinha, Rohan", "Agia, Christopher", "Morton, Daniel", "Lillo, Luigi Di", "Pavone, Marco"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["VLM model", "Multi-modal Foundation Models"],
+    "methods": ["End-to-End Learning", "Zero-shot/Few-shot Transfer"]
+  }
+}

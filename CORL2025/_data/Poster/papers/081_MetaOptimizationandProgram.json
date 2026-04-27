@@ -1,0 +1,23 @@
+{
+  "title": "Meta-Optimization and Program Search using Language Models for TAMP",
+  "zotero_key": "E8JBQEHN",
+  "authors": [
+    "Shcherba, Denis",
+    "Cobo-Briesewitz, Eckart",
+    "Braun, Cornelius V",
+    "Toussaint, Marc"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "LLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

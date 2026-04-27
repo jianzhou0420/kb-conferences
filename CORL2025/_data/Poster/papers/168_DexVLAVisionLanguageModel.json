@@ -1,0 +1,28 @@
+{
+  "title": "DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control",
+  "zotero_key": "GCKHRH42",
+  "authors": [
+    "Wen, Junjie",
+    "Zhu, Yichen",
+    "Li, Jinming",
+    "Tang, Zhibin",
+    "Shen, Chaomin",
+    "Feng, Feifei"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model",
+      "VLM model",
+      "LLM model",
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

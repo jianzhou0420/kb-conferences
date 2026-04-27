@@ -1,0 +1,26 @@
+{
+  "title": "Reflective Planning: VLMs for Multi-Stage Long-Horizon Robotic Manipulation",
+  "zotero_key": "2W3AVG3W",
+  "authors": [
+    "Feng, Yunhai",
+    "Han, Jiaming",
+    "Yang, Zhuoran",
+    "Yue, Xiangyu",
+    "Levine, Sergey",
+    "Luo, Jianlan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning",
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "3DS-VLA: A 3D Spatial-Aware Vision Language Action Model for Robust Multi-Task Manipulation",
+  "zotero_key": "7Z64HDEV",
+  "authors": [
+    "Li, Xiaoqi",
+    "Heng, Liang",
+    "Liu, Jiaming",
+    "Shen, Yan",
+    "Gu, Chenyang",
+    "Liu, Zhuoyang",
+    "Chen, Hao",
+    "Han, Nuowei",
+    "Zhang, Renrui",
+    "Tang, Hao",
+    "Zhang, Shanghang",
+    "Dong, Hao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

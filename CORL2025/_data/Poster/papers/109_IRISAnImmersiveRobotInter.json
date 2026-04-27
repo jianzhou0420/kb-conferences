@@ -1,0 +1,33 @@
+{
+  "title": "IRIS: An Immersive Robot Interaction System",
+  "zotero_key": "EVF57V56",
+  "authors": [
+    "Jiang, Xinkai",
+    "Yuan, Qihao",
+    "Dincer, Enes Ulas",
+    "Zhou, Hongyi",
+    "Li, Ge",
+    "Li, Xueyin",
+    "Jia, Xiaogang",
+    "Schnizer, Timo",
+    "Schreiber, Nicolas",
+    "Liao, Weiran",
+    "Haag, Julius",
+    "Li, Kailai",
+    "Neumann, Gerhard",
+    "Lioutikov, Rudolf"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "SDS: Quadruped Skill Synthesis from Single Video Demonstration",
+  "zotero_key": "8E3VJKY2",
+  "authors": [
+    "Stamatopoulou, Maria",
+    "Li, Jeffrey",
+    "Kanoulas, Dimitrios"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning"
+    ]
+  }
+}

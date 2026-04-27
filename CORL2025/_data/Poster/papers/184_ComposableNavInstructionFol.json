@@ -1,0 +1,29 @@
+{
+  "title": "ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion",
+  "zotero_key": "36UJUM4J",
+  "authors": [
+    "Hu, Zichao",
+    "Tang, Chen",
+    "Munje, Michael J",
+    "Zhu, Yifeng",
+    "Liu, Alex",
+    "Liu, Shuijing",
+    "Warnell, Garrett",
+    "Stone, Peter",
+    "Biswas, Joydeep"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy",
+      "Language-conditioned Learning"
+    ]
+  }
+}

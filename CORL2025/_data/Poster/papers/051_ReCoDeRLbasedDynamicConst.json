@@ -1,0 +1,25 @@
+{
+  "title": "ReCoDe: RL-based Dynamic Constraint Design for Multi-Agent Coordination",
+  "zotero_key": "GHANWUAC",
+  "authors": [
+    "Amir, Michael",
+    "Yang, Guang",
+    "Gao, Zhan",
+    "Okumura, Keisuke",
+    "Woo, Heedo",
+    "Prorok, Amanda"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Multi-agent Embodied AI"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

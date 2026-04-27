@@ -1,0 +1,26 @@
+{
+  "title": "Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop",
+  "zotero_key": "L6DVM53V",
+  "authors": [
+    "Hari, Justin Kerr Kush",
+    "Weber, Ethan",
+    "Kim, Chung Min",
+    "Yi, Brent",
+    "Bonnen, Tyler",
+    "Goldberg, Ken",
+    "Kanazawa, Angjoo"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

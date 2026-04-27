@@ -1,0 +1,23 @@
+{
+  "title": "Motion-Blender Gaussian Splatting for Dynamic Scene Reconstruction",
+  "zotero_key": "MT237Z83",
+  "authors": [
+    "Zhang, Xinyu",
+    "Chang, Haonan",
+    "Liu, Yuhan",
+    "Boularias, Abdeslam"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

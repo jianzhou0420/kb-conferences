@@ -1,0 +1,23 @@
+{
+  "title": "KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection",
+  "zotero_key": "J5Z4JXHX",
+  "authors": [
+    "Rosasco, Andrea",
+    "Ceola, Federico",
+    "Pasquale, Giulia",
+    "Natale, Lorenzo"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

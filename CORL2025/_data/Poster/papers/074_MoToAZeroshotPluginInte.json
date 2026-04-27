@@ -1,0 +1,29 @@
+{
+  "title": "MoTo: A Zero-shot Plug-in Interaction-aware Navigation for Mobile Manipulation",
+  "zotero_key": "ZN2KW89Q",
+  "authors": [
+    "Wu, Zhenyu",
+    "Ma, Angyuan",
+    "Xu, Xiuwei",
+    "Yin, Hang",
+    "Liang, Yinan",
+    "Wang, Ziwei",
+    "Lu, Jiwen",
+    "Yan, Haibin"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Mobile Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Zero-shot/Few-shot Transfer"
+    ]
+  }
+}

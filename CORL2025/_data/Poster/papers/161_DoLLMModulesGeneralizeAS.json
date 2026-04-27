@@ -1,0 +1,24 @@
+{
+  "title": "Do LLM Modules Generalize? A Study on Motion Generation for Autonomous Driving",
+  "zotero_key": "XBZKN8BC",
+  "authors": [
+    "Wang, Mingyi",
+    "Wang, Jingke",
+    "Ye, Tengju",
+    "Chen, Junbo",
+    "Yu, Kaicheng"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Autonomous Driving"
+    ],
+    "models_type": [
+      "LLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

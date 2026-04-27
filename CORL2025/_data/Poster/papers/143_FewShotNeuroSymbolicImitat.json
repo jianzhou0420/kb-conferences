@@ -1,0 +1,25 @@
+{
+  "title": "Few-Shot Neuro-Symbolic Imitation Learning for Long-Horizon Planning and Acting",
+  "zotero_key": "7MM2ZE8Q",
+  "authors": [
+    "Lorang, Pierrick",
+    "Lu, Hong",
+    "Huemer, Johannes",
+    "Zips, Patrik",
+    "Scheutz, Matthias"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning",
+      "Zero-shot/Few-shot Transfer"
+    ]
+  }
+}

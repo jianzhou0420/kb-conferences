@@ -1,0 +1,30 @@
+{
+  "title": "BEHAVIOR ROBOT SUITE: Streamlining Real-World Whole-Body Manipulation for Household Activities",
+  "zotero_key": "CH5BDA49",
+  "authors": [
+    "Jiang, Yunfan",
+    "Zhang, Ruohan",
+    "Wong, Josiah",
+    "Wang, Chen",
+    "Ze, Yanjie",
+    "Yin, Hang",
+    "Gokmen, Cem",
+    "Song, Shuran",
+    "Wu, Jiajun",
+    "Fei-Fei, Li"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Mobile Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

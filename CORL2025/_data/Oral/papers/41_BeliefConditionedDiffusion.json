@@ -1,0 +1,12 @@
+{
+  "title": "Belief-Conditioned One-Step Diffusion: Real-Time Trajectory Planning with Just-Enough Sensing",
+  "zotero_key": "BEXMIVPQ",
+  "authors": ["Puthumanaillam, Gokul", "Penumarti, Aditya", "Vora, Manav", "Padrao, Paulo", "Fuentes, Jose", "Bobadilla, Leonardo", "Shin, Jane", "Ornik, Melkior"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Navigation"],
+    "models_type": ["Diffusion Models"],
+    "methods": ["Diffusion Policy", "Model-based RL"]
+  }
+}

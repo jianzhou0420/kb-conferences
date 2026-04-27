@@ -1,0 +1,32 @@
+{
+  "title": "Toward Real-World Cooperative and Competitive Soccer with Quadrupedal Robot Teams",
+  "zotero_key": "I5B7UFRG",
+  "authors": [
+    "Su, Zhi",
+    "Gao, Yuman",
+    "Lukas, Emily",
+    "Li, Yunfei",
+    "Cai, Jiaze",
+    "Tulbah, Faris",
+    "Gao, Fei",
+    "Yu, Chao",
+    "Li, Zhongyu",
+    "Wu, Yi",
+    "Sreenath, Koushil"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion",
+      "Multi-agent Embodied AI",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

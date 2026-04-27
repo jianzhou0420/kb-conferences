@@ -1,0 +1,24 @@
+{
+  "title": "ActLoc: Learning to Localize on the Move via Active Viewpoint Selection",
+  "zotero_key": "ZQ66S2U2",
+  "authors": [
+    "Li, Jiajie",
+    "Sun, Boyang",
+    "Giammarino, Luca Di",
+    "Blum, Hermann",
+    "Pollefeys, Marc"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

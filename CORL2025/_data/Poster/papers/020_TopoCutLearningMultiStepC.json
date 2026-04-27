@@ -1,0 +1,24 @@
+{
+  "title": "TopoCut: Learning Multi-Step Cutting with Spectral Rewards and Discrete Diffusion Policies",
+  "zotero_key": "NTR4GBY7",
+  "authors": [
+    "Wang, Liquan",
+    "Bian, Jiangjie",
+    "Heidden, Eric",
+    "Garg, Animesh"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Diffusion Policy"
+    ]
+  }
+}

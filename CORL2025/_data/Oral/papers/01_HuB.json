@@ -1,0 +1,12 @@
+{
+  "title": "HuB: Learning Extreme Humanoid Balance",
+  "zotero_key": "UNWWHQDC",
+  "authors": ["Zhang, Tong", "Zheng, Boyuan", "Nai, Ruiqian", "Hu, Yingdong", "Wang, Yen-Jen", "Chen, Geng", "Lin, Fanqi", "Li, Jiongye", "Hong, Chuye", "Sreenath, Koushil", "Gao, Yang"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Locomotion"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Model-free RL"]
+  }
+}

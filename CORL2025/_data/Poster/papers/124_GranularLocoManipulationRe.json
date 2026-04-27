@@ -1,0 +1,24 @@
+{
+  "title": "Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche",
+  "zotero_key": "CUMDQZH8",
+  "authors": [
+    "Hu, Haodi",
+    "Wu, Yue",
+    "Qian, Feifei",
+    "Seita, Daniel"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Mobile Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Constrained Style Learning from Imperfect Demonstrations under Task Optimality",
+  "zotero_key": "PM699JX4",
+  "authors": [
+    "Wen, Kehan",
+    "Li, Chenhao",
+    "He, Junzhe",
+    "Hutter, Marco"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning"
+    ]
+  }
+}

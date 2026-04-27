@@ -1,0 +1,30 @@
+{
+  "title": "TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types",
+  "zotero_key": "82GUAIKU",
+  "authors": [
+    "Lin, Yuhao",
+    "Wei, Yi-Lin",
+    "Liao, Haoran",
+    "Lin, Mu",
+    "Xing, Chengyi",
+    "Li, Hao",
+    "Zhang, Dandan",
+    "Cutkosky, Mark",
+    "Zheng, Wei-Shi"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Human-Robot Interaction",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Teleoperation-based Data Collection"
+    ]
+  }
+}

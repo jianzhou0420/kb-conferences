@@ -1,0 +1,30 @@
+{
+  "title": "Wheeled Lab: Modern Sim2Real for Low-cost, Open-source Wheeled Robotics",
+  "zotero_key": "WRML568X",
+  "authors": [
+    "Han, Tyler",
+    "Shah, Preet",
+    "Rajagopal, Sidharth",
+    "Jung, Sanghun",
+    "Talia, Sidharth",
+    "Guo, Gabriel",
+    "Xu, Bryan",
+    "Mehta, Bhaumik",
+    "Romig, Emma",
+    "Scalise, Rosario",
+    "Boots, Byron"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

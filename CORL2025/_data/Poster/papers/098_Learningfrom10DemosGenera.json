@@ -1,0 +1,24 @@
+{
+  "title": "Learning from 10 Demos: Generalizable Policy Learning with Oriented Affordance Frames",
+  "zotero_key": "4JV62JNK",
+  "authors": [
+    "Rana, Krishan",
+    "Abou-Chakra, Jad",
+    "Garg, Sourav",
+    "Lee, Robert",
+    "Reid, Ian"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Imitation Learning"
+    ]
+  }
+}

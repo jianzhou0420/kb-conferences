@@ -1,0 +1,31 @@
+{
+  "title": "CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset for Multimodal robot Perception",
+  "zotero_key": "5JPW5EXM",
+  "authors": [
+    "Thakkar, Pranav N",
+    "Sinha, Shubhangi",
+    "Baijal, Karan",
+    "Lackey, Leah",
+    "Dodson, Ben",
+    "Kong, Heisen",
+    "Kwon, Jueun",
+    "Li, Amber",
+    "Hu, Yifei",
+    "Rekoutis, Alexios",
+    "Silver, Tom",
+    "Bhattacharjee, Tapomayukh"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

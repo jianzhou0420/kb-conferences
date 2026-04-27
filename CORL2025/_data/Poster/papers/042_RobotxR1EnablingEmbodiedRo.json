@@ -1,0 +1,24 @@
+{
+  "title": "RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop RL",
+  "zotero_key": "R3YCVBH4",
+  "authors": [
+    "Boyle, Liam",
+    "Baumann, Nicolas",
+    "Sivasothilingam, Paviththiren",
+    "Magno, Michele",
+    "Benini, Luca"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "LLM model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

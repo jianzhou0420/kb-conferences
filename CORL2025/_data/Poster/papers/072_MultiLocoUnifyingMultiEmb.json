@@ -1,0 +1,27 @@
+{
+  "title": "Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via RL Augmented Diffusion",
+  "zotero_key": "8CK9SY2R",
+  "authors": [
+    "Yang, Shunpeng",
+    "Fu, Zhen",
+    "Cao, Zhefeng",
+    "Guo, Junde",
+    "Wensing, Patrick",
+    "Zhang, Wei",
+    "Chen, Hua"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Diffusion Policy"
+    ]
+  }
+}

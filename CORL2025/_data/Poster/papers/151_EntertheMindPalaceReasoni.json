@@ -1,0 +1,32 @@
+{
+  "title": "Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering",
+  "zotero_key": "H82QRSZ4",
+  "authors": [
+    "Ginting, M Fadhil",
+    "Kim, Dong-Ki",
+    "Meng, Xiangyun",
+    "Reinke, Andrzej",
+    "Krishna, Bandi Jai",
+    "Kayhani, Navid",
+    "Peltzer, Oriana",
+    "Fan, David D",
+    "Shaban, Amirreza",
+    "Kim, Sung-Kyun",
+    "Kochenderfer, Mykel J",
+    "Agha-mohammadi, Ali-akbar",
+    "Omidshafiei, Shayegan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

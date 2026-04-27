@@ -1,0 +1,25 @@
+{
+  "title": "Learn from What We HAVE: History-Aware Verifier for Online Reasoning",
+  "zotero_key": "6TVCLV3T",
+  "authors": [
+    "Li, Yishu",
+    "Mao, Xinyi",
+    "Yuan, Ying",
+    "Sim, Kyutae",
+    "Eisner, Ben",
+    "Held, David"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

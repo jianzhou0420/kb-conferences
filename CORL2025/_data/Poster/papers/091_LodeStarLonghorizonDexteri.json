@@ -1,0 +1,24 @@
+{
+  "title": "LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation",
+  "zotero_key": "DGTW73BE",
+  "authors": [
+    "Wan, Weikang",
+    "Fu, Jiawei",
+    "Yuan, Xiaodi",
+    "Zhu, Yifeng",
+    "Su, Hao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

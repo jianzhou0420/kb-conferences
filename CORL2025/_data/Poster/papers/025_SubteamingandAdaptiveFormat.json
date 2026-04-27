@@ -1,0 +1,29 @@
+{
+  "title": "Subteaming and Adaptive Formation Control for Coordinated Multi-Robot Navigation",
+  "zotero_key": "BPX9FDHI",
+  "authors": [
+    "Deng, Zihao",
+    "Gao, Peng",
+    "Jose, Williard Joshua",
+    "Wigness, Maggie",
+    "Rogers, John",
+    "Reily, Brian",
+    "Reardon, Christopher",
+    "Zhang, Hao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Multi-agent Embodied AI",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

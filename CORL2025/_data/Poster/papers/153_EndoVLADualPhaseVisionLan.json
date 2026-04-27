@@ -1,0 +1,29 @@
+{
+  "title": "EndoVLA: Dual-Phase Vision-Language-Action for Precise Autonomous Tracking in Endoscopy",
+  "zotero_key": "HYRV8N2G",
+  "authors": [
+    "Ng, Chi Kit",
+    "Bai, Long",
+    "Wang, Guankun",
+    "Wang, Yupeng",
+    "Gao, Huxin",
+    "Yuan, Kun",
+    "Jin, Chenhan",
+    "Zeng, Tieyong",
+    "Ren, Hongliang"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model",
+      "VLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "DREAMGEN: Unlocking Generalization in Robot Learning through Video World Models",
+  "zotero_key": "ZC5HU528",
+  "authors": [
+    "Jang, Joel",
+    "Ye, Seonghyeon",
+    "Lin, Zongyu",
+    "Xiang, Jiannan",
+    "Bjorck, Johan",
+    "Fang, Yu",
+    "Hu, Fengyuan",
+    "Huang, Spencer",
+    "Kundalia, Kaushil",
+    "Yen-Chen, Lin",
+    "Magne, Loic",
+    "Mandlekar, Ajay",
+    "Narayan, Avnish",
+    "Tan, You Liang",
+    "Wang, Guanzhi",
+    "Wang, Jing",
+    "Wang, Qi",
+    "Xu, Yinzhen",
+    "Zeng, Xiaohui",
+    "Zheng, Kaiyuan",
+    "Zheng, Ruijie",
+    "Liu, Ming-Yu",
+    "Zettlemoyer, Luke",
+    "Fox, Dieter",
+    "Kautz, Jan",
+    "Reed, Scott",
+    "Zhu, Yuke",
+    "Fan, Linxi"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "World Models"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

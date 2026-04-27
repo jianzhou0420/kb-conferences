@@ -1,0 +1,28 @@
+{
+  "title": "WoMAP: World Models For Embodied Open-Vocabulary Object Localization",
+  "zotero_key": "9B6I52LL",
+  "authors": [
+    "Yin, Tenny",
+    "Mei, Zhiting",
+    "Sun, Tao",
+    "Zha, Lihan",
+    "Yamane, Miyu",
+    "Zhou, Emily",
+    "Shorinwa, Ola",
+    "Majumdar, Anirudha"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "World Models"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

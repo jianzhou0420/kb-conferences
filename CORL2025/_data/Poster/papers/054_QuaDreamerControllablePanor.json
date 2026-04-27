@@ -1,0 +1,27 @@
+{
+  "title": "QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots",
+  "zotero_key": "VII28RAM",
+  "authors": [
+    "Wu, Sheng",
+    "Teng, Fei",
+    "Shi, Hao",
+    "Jiang, Qi",
+    "Luo, Kai",
+    "Wang, Kaiwei",
+    "Yang, Kailun"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

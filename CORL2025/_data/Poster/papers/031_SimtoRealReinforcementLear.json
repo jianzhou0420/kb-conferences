@@ -1,0 +1,25 @@
+{
+  "title": "Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids",
+  "zotero_key": "ENBVS2MC",
+  "authors": [
+    "Lin, Toru",
+    "Sachdev, Kartik",
+    "Malik, Jitendra",
+    "Zhu, Yuke"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

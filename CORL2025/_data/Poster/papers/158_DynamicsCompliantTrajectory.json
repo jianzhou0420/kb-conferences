@@ -1,0 +1,23 @@
+{
+  "title": "Dynamics-Compliant Trajectory Diffusion for Super-Nominal Payload Manipulation",
+  "zotero_key": "LUC4YZDY",
+  "authors": [
+    "Pasricha, Anuj",
+    "Koh, Joewie",
+    "Vakil, Jay",
+    "Roncone, Alessandro"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

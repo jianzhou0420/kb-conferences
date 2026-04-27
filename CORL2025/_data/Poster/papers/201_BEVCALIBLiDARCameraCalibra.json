@@ -1,0 +1,25 @@
+{
+  "title": "BEVCALIB: LiDAR-Camera Calibration via Geometry-Guided BEV Representations",
+  "zotero_key": "E8I8XLI2",
+  "authors": [
+    "Yuan, Weiduo",
+    "Li, Jerry",
+    "Yue, Justin",
+    "Shah, Divyank",
+    "Karydis, Konstantinos",
+    "Qiu, Hang"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

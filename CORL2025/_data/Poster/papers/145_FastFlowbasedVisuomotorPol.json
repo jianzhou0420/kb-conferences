@@ -1,0 +1,25 @@
+{
+  "title": "Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings",
+  "zotero_key": "GIAD94JD",
+  "authors": [
+    "Sochopoulos, Andreas",
+    "Malkin, Nikolay",
+    "Tsagkas, Nikolaos",
+    "Moura, Joao",
+    "Gienger, Michael",
+    "Vijayakumar, Sethu"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

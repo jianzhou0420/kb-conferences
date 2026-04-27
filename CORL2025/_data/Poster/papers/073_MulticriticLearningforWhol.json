@@ -1,0 +1,24 @@
+{
+  "title": "Multi-critic Learning for Whole-body End-effector Twist Tracking",
+  "zotero_key": "SQTKR58P",
+  "authors": [
+    "Vijayan, Aravind Elanjimattathil",
+    "Cramariuc, Andrei",
+    "Risiglione, Mattia",
+    "Gehring, Christian",
+    "Hutter, Marco"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Mobile Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

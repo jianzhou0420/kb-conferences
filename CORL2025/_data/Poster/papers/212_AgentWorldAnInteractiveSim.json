@@ -1,0 +1,25 @@
+{
+  "title": "AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation",
+  "zotero_key": "RPZMHTUP",
+  "authors": [
+    "Zhang, Yizheng",
+    "Yu, Zhenjun",
+    "Lai, Jiaxin",
+    "Lu, Cewu",
+    "Han, Lei"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

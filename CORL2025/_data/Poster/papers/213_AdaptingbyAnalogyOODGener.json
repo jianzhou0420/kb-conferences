@@ -1,0 +1,22 @@
+{
+  "title": "Adapting by Analogy: OOD Generalization of Visuomotor Policies via Functional Correspondence",
+  "zotero_key": "MRWL4SJN",
+  "authors": [
+    "Gupta, Pranay",
+    "Admoni, Henny",
+    "Bajcsy, Andrea"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

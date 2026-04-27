@@ -1,0 +1,25 @@
+{
+  "title": "CogniPlan: Uncertainty-Guided Path Planning with Conditional Generative Layout Prediction",
+  "zotero_key": "YR6394XR",
+  "authors": [
+    "Wang, Yizhuo",
+    "He, Haodong",
+    "Liang, Jingsong",
+    "Cao, Yuhong",
+    "Chakraborty, Ritabrata",
+    "Sartoretti, Guillaume"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

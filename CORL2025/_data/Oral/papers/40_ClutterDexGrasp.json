@@ -1,0 +1,12 @@
+{
+  "title": "ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes",
+  "zotero_key": "PMPQTK88",
+  "authors": ["Chen, Zeyuan", "Yan, Qiyang", "Chen, Yuanpei", "Wu, Tianhao", "Zhang, Jiyao", "Ding, Zihan", "Li, Jinzhou", "Yang, Yaodong", "Dong, Hao"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Dexterous Hand Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Sim-to-Real Transfer", "Reinforcement Learning"]
+  }
+}

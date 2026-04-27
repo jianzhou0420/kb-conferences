@@ -1,0 +1,40 @@
+{
+  "title": "FLARE: Robot Learning with Implicit World Modeling",
+  "zotero_key": "H6XVRKUS",
+  "authors": [
+    "Zheng, Ruijie",
+    "Wang, Jing",
+    "Reed, Scott",
+    "Bjorck, Johan",
+    "Fang, Yu",
+    "Hu, Fengyuan",
+    "Jang, Joel",
+    "Kundalia, Kaushil",
+    "Lin, Zongyu",
+    "Magne, Loic",
+    "Narayan, Avnish",
+    "Tan, You Liang",
+    "Wang, Guanzhi",
+    "Wang, Qi",
+    "Xiang, Jiannan",
+    "Xu, Yinzhen",
+    "Ye, Seonghyeon",
+    "Kautz, Jan",
+    "Huang, Furong",
+    "Zhu, Yuke",
+    "Fan, Linxi"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "World Models"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

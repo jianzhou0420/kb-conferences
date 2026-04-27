@@ -1,0 +1,28 @@
+{
+  "title": "RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation",
+  "zotero_key": "ENJC8KSZ",
+  "authors": [
+    "Zhang, Zongzheng",
+    "Yue, Chenghao",
+    "Xu, Haobo",
+    "Liao, Minwen",
+    "Qi, Xianglin",
+    "Gao, Huan-ang",
+    "Wang, Ziwei",
+    "Zhao, Hao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

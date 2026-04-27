@@ -1,0 +1,24 @@
+{
+  "title": "ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation",
+  "zotero_key": "8CAZWTHJ",
+  "authors": [
+    "Shi, Haochen",
+    "Wang, Weizhuo",
+    "Song, Shuran",
+    "Liu, C Karen"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Mobile Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

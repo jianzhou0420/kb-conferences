@@ -1,0 +1,22 @@
+{
+  "title": "NeuralSVCD for Efficient Swept Volume Collision Detection",
+  "zotero_key": "FUCYCR2Y",
+  "authors": [
+    "Son, Dongwon",
+    "Jung, Hojin",
+    "Kim, Beomjoon"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

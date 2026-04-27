@@ -1,0 +1,12 @@
+{
+  "title": "ScrewSplat: An End-to-End Method for Articulated Object Recognition",
+  "zotero_key": "9R8RNMU2",
+  "authors": ["Kim, Seungyeon", "Ha, Junsu", "Kim, Young Hun", "Lee, Yonghyeon", "Park, Frank Chongwoo"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["End-to-End Learning", "Self-supervised Learning"]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation",
+  "zotero_key": "MQL7XDJT",
+  "authors": ["He, Chengyang", "Camps, Gadiel Sznaier", "Liu, Xu", "Schwager, Mac", "Sartoretti, Guillaume"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Multi-agent Embodied AI", "Manipulation"],
+    "models_type": ["Diffusion Models"],
+    "methods": ["Diffusion Policy", "Imitation Learning"]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Visual Imitation Enables Contextual Humanoid Control",
+  "zotero_key": "V7ZSCB8R",
+  "authors": ["Allshire, Arthur", "Choi, Hongsuk", "Zhang, Junyi", "McAllister, David", "Zhang, Anthony", "Kim, Chung Min", "Darrell, Trevor", "Abbeel, Pieter", "Malik, Jitendra", "Kanazawa, Angjoo"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Locomotion", "Human-Robot Interaction"],
+    "models_type": ["VLM model"],
+    "methods": ["Imitation Learning", "Learning from Demonstration"]
+  }
+}

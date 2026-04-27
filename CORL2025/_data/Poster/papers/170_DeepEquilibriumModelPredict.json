@@ -1,0 +1,24 @@
+{
+  "title": "Deep Equilibrium Model Predictive Control",
+  "zotero_key": "RX9ZQ8DA",
+  "authors": [
+    "Gurumurthy, Swaminathan",
+    "Nguyen, Khai",
+    "Bishop, Arun",
+    "Kolter, Zico",
+    "Manchester, Zachary"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

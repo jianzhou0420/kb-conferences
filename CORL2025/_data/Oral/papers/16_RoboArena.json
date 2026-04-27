@@ -1,0 +1,12 @@
+{
+  "title": "RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies",
+  "zotero_key": "LNGAJ2GS",
+  "authors": ["Atreya, Pranav", "Pertsch, Karl", "Lee, Tony", "Kim, Moo Jin", "Jain, Arhan", "Kuramshin, Artur", "Eppner, Clemens", "Neary, Cyrus", "Hu, Edward", "Ramos, Fabio", "Tremblay, Jonathan", "Arora, Kanav", "Ellis, Kirsty", "Macesanu, Luca", "Leonard, Matthew", "Cho, Meedeum", "Aslan, Ozgur", "Dass, Shivin", "Wang, Jie", "Yuan, Xingfang", "Yang, Xuning", "Gupta, Abhishek", "Jayaraman, Dinesh", "Berseth, Glen", "Daniilidis, Kostas", "Martin-Martin, Roberto", "Lee, Youngwoon", "Liang, Percy", "Finn, Chelsea", "Levine, Sergey"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["VLA model"],
+    "methods": ["End-to-End Learning", "Zero-shot/Few-shot Transfer"]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "LLM-Guided Probabilistic Program Induction for POMDP Model Estimation",
+  "zotero_key": "S24DFYYH",
+  "authors": [
+    "Curtis, Aidan",
+    "Tang, Hao",
+    "Veloso, Thiago",
+    "Ellis, Kevin",
+    "Lozano-Perez, Tomas",
+    "Kaelbling, Leslie Pack"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "LLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

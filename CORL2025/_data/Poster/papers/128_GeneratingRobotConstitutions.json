@@ -1,0 +1,23 @@
+{
+  "title": "Generating Robot Constitutions & Benchmarks for Semantic Safety",
+  "zotero_key": "WK3GGB8R",
+  "authors": [
+    "Sermanet, Pierre",
+    "Majumdar, Anirudha",
+    "Irpan, Alex",
+    "Kalashnikov, Dmitry"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

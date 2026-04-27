@@ -1,0 +1,12 @@
+{
+  "title": "Non-conflicting Energy Minimization in Reinforcement Learning based Robot Control",
+  "zotero_key": "7PKMP765",
+  "authors": ["Peri, Skand", "Perincherry, Akhil", "Pandit, Bikram", "Lee, Stefan"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation", "Locomotion"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Model-free RL"]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Learning Deployable Locomotion Control via Differentiable Simulation",
+  "zotero_key": "CJKZPZ49",
+  "authors": [
+    "Schwarke, Clemens",
+    "Klemm, Victor",
+    "Bagajo, Joshua",
+    "Sleiman, Jean-Pierre",
+    "Georgiev, Ignat",
+    "Tordesillas, Jesus",
+    "Hutter, Marco"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Sim-to-Real Transfer"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data",
+  "zotero_key": "FKQX2F57",
+  "authors": [
+    "Deng, Shengliang",
+    "Yan, Mi",
+    "Wei, Songlin",
+    "Ma, Haixin",
+    "Yang, Yuxin",
+    "Chen, Jiayi",
+    "Zhang, Zhiqi",
+    "Yang, Taoyu",
+    "Zhang, Xuheng",
+    "Cui, Heming",
+    "Zhang, Zhizheng",
+    "Wang, He"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

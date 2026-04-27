@@ -1,0 +1,25 @@
+{
+  "title": "Joint Model-based Model-free Diffusion for Planning with Constraints",
+  "zotero_key": "FTKBU74G",
+  "authors": [
+    "Jung, Wonsuhk",
+    "Mishra, Utkarsh A",
+    "Arachchige, Nadun Ranawaka",
+    "Chen, Yongxin",
+    "Xu, Danfei",
+    "Kousik, Shreyas"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

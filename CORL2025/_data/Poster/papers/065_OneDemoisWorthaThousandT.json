@@ -1,0 +1,26 @@
+{
+  "title": "One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies",
+  "zotero_key": "V8B3IV4U",
+  "authors": [
+    "Pan, Chuer",
+    "Liang, Litian",
+    "Bauer, Dominik",
+    "Cousineau, Eric",
+    "Burchfiel, Benjamin",
+    "Feng, Siyuan",
+    "Song, Shuran"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

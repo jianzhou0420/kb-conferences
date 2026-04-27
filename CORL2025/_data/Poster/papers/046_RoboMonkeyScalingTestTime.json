@@ -1,0 +1,27 @@
+{
+  "title": "RoboMonkey: Scaling Test-Time Sampling and Verification for VLA Models",
+  "zotero_key": "MBJ8GW49",
+  "authors": [
+    "Kwok, Jacky",
+    "Agia, Christopher",
+    "Sinha, Rohan",
+    "Foutter, Matt",
+    "Li, Shulu",
+    "Stoica, Ion",
+    "Mirhoseini, Azalia",
+    "Pavone, Marco"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

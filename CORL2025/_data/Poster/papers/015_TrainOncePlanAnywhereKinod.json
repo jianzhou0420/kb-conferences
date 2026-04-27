@@ -1,0 +1,22 @@
+{
+  "title": "Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees",
+  "zotero_key": "K2KLKFAP",
+  "authors": [
+    "Hassidof, Yaniv",
+    "Jurgenson, Tom",
+    "Solovey, Kiril"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

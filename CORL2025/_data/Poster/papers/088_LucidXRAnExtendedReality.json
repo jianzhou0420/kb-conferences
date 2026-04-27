@@ -1,0 +1,30 @@
+{
+  "title": "Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation",
+  "zotero_key": "574MHCQJ",
+  "authors": [
+    "Ravan, Yajvan",
+    "Rashid, Adam",
+    "Yu, Alan",
+    "McClennen, Kai",
+    "Huh, Gio",
+    "Yang, Kevin",
+    "Yang, Zhutian",
+    "Yu, Qinxi",
+    "Wang, Xiaolong",
+    "Isola, Phillip",
+    "Yang, Ge"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

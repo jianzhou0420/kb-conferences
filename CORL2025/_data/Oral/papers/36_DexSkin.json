@@ -1,0 +1,12 @@
+{
+  "title": "DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation",
+  "zotero_key": "AXUX8DM7",
+  "authors": ["Wistreich, Suzannah", "Shi, Baiyu", "Tian, Stephen", "Clarke, Samuel", "Nath, Michael", "Xu, Chengyi", "Wu, Jiajun"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Dexterous Hand Manipulation"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["Imitation Learning", "Learning from Demonstration"]
+  }
+}

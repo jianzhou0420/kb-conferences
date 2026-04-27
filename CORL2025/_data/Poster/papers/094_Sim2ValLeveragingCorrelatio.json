@@ -1,0 +1,26 @@
+{
+  "title": "Sim2Val: Leveraging Correlation Across Test Platforms for Variance-Reduced Metric Estimation",
+  "zotero_key": "56MG2P9I",
+  "authors": [
+    "Luo, Rachel",
+    "Yang, Heng",
+    "Watson, Michael",
+    "Sharma, Apoorva",
+    "Veer, Sushant",
+    "Schmerling, Edward",
+    "Pavone, Marco"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

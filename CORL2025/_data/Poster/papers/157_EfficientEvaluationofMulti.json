@@ -1,0 +1,25 @@
+{
+  "title": "Efficient Evaluation of Multi-Task Robot Policies With Active Experiment Selection",
+  "zotero_key": "DESJFYB4",
+  "authors": [
+    "Anwar, Abrar",
+    "Gupta, Rohan",
+    "Merchant, Zain",
+    "Ghosh, Sayan",
+    "Neiswanger, Willie",
+    "Thomason, Jesse"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

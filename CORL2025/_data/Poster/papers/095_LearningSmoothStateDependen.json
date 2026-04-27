@@ -1,0 +1,26 @@
+{
+  "title": "Learning Smooth State-Dependent Traversability from Dense Point Clouds",
+  "zotero_key": "TCY5C55P",
+  "authors": [
+    "Dong, Zihao",
+    "Papalia, Alan",
+    "Jung, Leonard",
+    "Spiro, Alenna",
+    "Osteen, Philip R",
+    "Robison, Christa S",
+    "Everett, Michael"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

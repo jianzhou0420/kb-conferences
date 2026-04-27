@@ -1,0 +1,12 @@
+{
+  "title": "DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation",
+  "zotero_key": "2RFNV4RS",
+  "authors": ["Xu, Mengda", "Zhang, Han", "Hou, Yifan", "Xu, Zhenjia", "Fan, Linxi", "Veloso, Manuela", "Song, Shuran"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Dexterous Hand Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Imitation Learning", "Teleoperation-based Data Collection", "Learning from Demonstration"]
+  }
+}

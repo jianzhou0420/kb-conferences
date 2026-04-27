@@ -1,0 +1,12 @@
+{
+  "title": "FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots",
+  "zotero_key": "2REBADT9",
+  "authors": ["Xu, Botian", "Weng, Haoyang", "Lu, Qingzhou", "Gao, Yang", "Xu, Huazhe"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Locomotion"],
+    "models_type": ["small model"],
+    "methods": ["Reinforcement Learning", "Model-free RL"]
+  }
+}

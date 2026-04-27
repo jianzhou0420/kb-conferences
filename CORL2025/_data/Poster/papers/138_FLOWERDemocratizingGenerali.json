@@ -1,0 +1,24 @@
+{
+  "title": "FLOWER: Democratizing Generalist Robot Policies with Efficient VLA Flow Policies",
+  "zotero_key": "TH3U9N2D",
+  "authors": [
+    "Reuss, Moritz",
+    "Zhou, Hongyi",
+    "Otto, Fabian",
+    "Lioutikov, Rudolf"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model",
+      "Diffusion Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering",
+  "zotero_key": "D92NTLIG",
+  "authors": [
+    "Saxena, Saumya",
+    "Buchanan, Blake",
+    "Paxton, Chris",
+    "Liu, Peiqi",
+    "Chen, Bingqing",
+    "Vaskevicius, Narunas",
+    "Palmieri, Luigi",
+    "Francis, Jonathan",
+    "Kroemer, Oliver"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

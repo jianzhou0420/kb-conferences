@@ -1,0 +1,23 @@
+{
+  "title": "PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation",
+  "zotero_key": "VM45CZR9",
+  "authors": [
+    "Liu, Liuhua",
+    "Lin, Jiehong",
+    "Liu, Zhenxin",
+    "Jia, Kui"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

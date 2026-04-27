@@ -1,0 +1,24 @@
+{
+  "title": "Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration",
+  "zotero_key": "XMNNKCU9",
+  "authors": [
+    "Wei, Lai",
+    "Ma, Jiahua",
+    "Hu, Yibo",
+    "Zhang, Ruimao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

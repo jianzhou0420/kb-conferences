@@ -1,0 +1,29 @@
+{
+  "title": "Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation",
+  "zotero_key": "E8LQ6MAG",
+  "authors": [
+    "Bharadhwaj, Homanga",
+    "Dwibedi, Debidatta",
+    "Gupta, Abhinav",
+    "Tulsiani, Shubham",
+    "Doersch, Carl",
+    "Xiao, Ted",
+    "Shah, Dhruv",
+    "Xia, Fei",
+    "Sadigh, Dorsa",
+    "Kirmani, Sean"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

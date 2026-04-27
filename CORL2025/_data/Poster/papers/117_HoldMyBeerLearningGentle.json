@@ -1,0 +1,27 @@
+{
+  "title": "Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control",
+  "zotero_key": "AEIEGDB4",
+  "authors": [
+    "Li, Yitang",
+    "Zhang, Yuanhang",
+    "Xiao, Wenli",
+    "Pan, Chaoyi",
+    "Weng, Haoyang",
+    "He, Guanqi",
+    "He, Tairan",
+    "Shi, Guanya"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "KoopMotion: Learning Almost Divergence-Free Koopman Flow Fields for Motion Planning",
+  "zotero_key": "XQ84A6L8",
+  "authors": [
+    "Li, Alice Kate",
+    "Silva, Thales C",
+    "Edwards, Victoria",
+    "Kumar, Vijay",
+    "Hsieh, M Ani"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

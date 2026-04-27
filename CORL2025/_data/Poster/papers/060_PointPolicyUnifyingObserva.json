@@ -1,0 +1,21 @@
+{
+  "title": "Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation",
+  "zotero_key": "FF6DISI5",
+  "authors": [
+    "Haldar, Siddhant",
+    "Pinto, Lerrel"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

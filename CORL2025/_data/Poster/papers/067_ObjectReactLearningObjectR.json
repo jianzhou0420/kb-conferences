@@ -1,0 +1,28 @@
+{
+  "title": "ObjectReact: Learning Object-Relative Control for Visual Navigation",
+  "zotero_key": "3TV6ZHVF",
+  "authors": [
+    "Garg, Sourav",
+    "Craggs, Dustin",
+    "Bhat, Vineeth",
+    "Mares, Lachlan",
+    "Podgorski, Stefan",
+    "Krishna, Madhava",
+    "Dayoub, Feras",
+    "Reid, Ian"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

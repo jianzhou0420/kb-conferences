@@ -1,0 +1,25 @@
+{
+  "title": "Imagine, Verify, Execute: Memory-Guided Agentic Exploration with VLMs",
+  "zotero_key": "S8796S3W",
+  "authors": [
+    "Lee, Seungjae",
+    "Ekpo, Daniel",
+    "Liu, Haowen",
+    "Huang, Furong",
+    "Shrivastava, Abhinav",
+    "Huang, Jia-Bin"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

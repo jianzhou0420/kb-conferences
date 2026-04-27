@@ -1,0 +1,28 @@
+{
+  "title": "VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision",
+  "zotero_key": "B8CCXVCP",
+  "authors": [
+    "Xu, Yi",
+    "Hu, Yuxin",
+    "Zhang, Zaiwei",
+    "Meyer, Gregory P",
+    "Mustikovela, Siva Karthik",
+    "Srinivasa, Siddhartha",
+    "Wolff, Eric M",
+    "Huang, Xin"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Autonomous Driving"
+    ],
+    "models_type": [
+      "VLM model",
+      "LLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

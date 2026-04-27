@@ -1,0 +1,24 @@
+{
+  "title": "ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models",
+  "zotero_key": "IAFD5S38",
+  "authors": [
+    "Jung, Minwoo",
+    "Fu, Lanke Frank Tarimo",
+    "Fallon, Maurice",
+    "Kim, Ayoung"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation",
+  "zotero_key": "844RGTSV",
+  "authors": [
+    "Xing, Youguang",
+    "Luo, Xu",
+    "Xie, Junlin",
+    "Gao, Lianli",
+    "Shen, Hengtao",
+    "Song, Jingkuan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

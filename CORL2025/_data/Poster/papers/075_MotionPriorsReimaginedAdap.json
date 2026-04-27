@@ -1,0 +1,23 @@
+{
+  "title": "Motion Priors Reimagined: Adapting Flat-Terrain Skills for Complex Quadruped Mobility",
+  "zotero_key": "249TZNCA",
+  "authors": [
+    "Zhang, Zewei",
+    "Li, Chenhao",
+    "Miki, Takahiro",
+    "Hutter, Marco"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

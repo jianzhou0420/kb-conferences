@@ -1,0 +1,23 @@
+{
+  "title": "Agreement Volatility: A Second-Order Metric for Uncertainty Quantification in Surgical Robot Learning",
+  "zotero_key": "MVTCXGFN",
+  "authors": [
+    "Thompson, Jordan",
+    "Jordan, Britton",
+    "Brown, Daniel S",
+    "Kuntz, Alan"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

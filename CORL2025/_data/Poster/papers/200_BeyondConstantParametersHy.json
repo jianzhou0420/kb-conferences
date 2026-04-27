@@ -1,0 +1,22 @@
+{
+  "title": "Beyond Constant Parameters: Hyper Prediction Models and HyperMPC",
+  "zotero_key": "Y3VZTEDH",
+  "authors": [
+    "We, Jan",
+    "Krupka, Maciej",
+    "Walas, Krzysztof"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

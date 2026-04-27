@@ -1,0 +1,24 @@
+{
+  "title": "SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation",
+  "zotero_key": "S99VWNNW",
+  "authors": [
+    "Deng, Haoyuan",
+    "Guo, Wenkai",
+    "Wang, Qianzhun",
+    "Wu, Zhenyu",
+    "Wang, Ziwei"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Cross-Sensor Touch Generation",
+  "zotero_key": "RH4ZCQRB",
+  "authors": ["Rodriguez, Samanta", "Dou, Yiming", "Oller, Miquel", "Owens, Andrew", "Fazeli, Nima"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["Self-supervised Learning", "Contrastive Learning"]
+  }
+}

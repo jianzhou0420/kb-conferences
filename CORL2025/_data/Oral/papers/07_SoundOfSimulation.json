@@ -1,0 +1,12 @@
+{
+  "title": "The Sound of Simulation: Learning Multimodal Sim-to-Real Robot Policies with Generative Audio",
+  "zotero_key": "GCESI9AP",
+  "authors": ["Wang, Renhao", "Geng, Haoran", "Li, Tingle", "Wang, Feishi", "Anumanchipalli, Gopala", "Darrell, Trevor", "Li, Boyi", "Abbeel, Pieter", "Malik, Jitendra", "Efros, Alexei A"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["Sim-to-Real Transfer", "End-to-End Learning"]
+  }
+}

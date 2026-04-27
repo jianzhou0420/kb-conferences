@@ -1,0 +1,12 @@
+{
+  "title": "ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations",
+  "zotero_key": "3RYAQXFB",
+  "authors": ["Zhang, Jiahui", "Luo, Yusen", "Anwar, Abrar", "Sontakke, Sumedh A", "Lim, Joseph J", "Thomason, Jesse", "Bıyık, Erdem", "Zhang, Jesse"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["VLM model", "Reward Models"],
+    "methods": ["Language-conditioned Learning", "Reinforcement Learning"]
+  }
+}

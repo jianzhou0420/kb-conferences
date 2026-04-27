@@ -1,0 +1,25 @@
+{
+  "title": "Human-like Navigation in a World Built for Humans",
+  "zotero_key": "W7V2LXJK",
+  "authors": [
+    "Chandaka, Bhargav",
+    "Wang, Gloria X",
+    "Chen, Haozhe",
+    "Che, Henry",
+    "Zhai, Albert J",
+    "Wang, Shenlong"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

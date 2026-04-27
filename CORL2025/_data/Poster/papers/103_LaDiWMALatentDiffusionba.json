@@ -1,0 +1,27 @@
+{
+  "title": "LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation",
+  "zotero_key": "TR3B8JTG",
+  "authors": [
+    "Huang, Yuhang",
+    "Zhang, Jiazhao",
+    "Zou, Shilong",
+    "Liu, Xinwang",
+    "Hu, Ruizhen",
+    "Xu, Kai"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models",
+      "World Models"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Diffusion Policy"
+    ]
+  }
+}

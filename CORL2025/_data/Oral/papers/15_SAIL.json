@@ -1,0 +1,12 @@
+{
+  "title": "SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies",
+  "zotero_key": "B8V8TE9G",
+  "authors": ["Arachchige, Nadun Ranawaka", "Chen, Zhenyang", "Jung, Wonsuhk", "Shin, Woo Chul", "Bansal, Rohan", "Barroso, Pierre", "He, Yu Hang", "Lin, Yingyan Celine", "Joffe, Benjamin", "Kousik, Shreyas", "Xu, Danfei"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Imitation Learning", "Behavior Cloning"]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Uncertainty-Aware Scene Understanding via Efficient Sampling-Free Confidence Estimation",
+  "zotero_key": "SNWMF754",
+  "authors": [
+    "Miandashti, Hanieh Shojaei",
+    "Zou, Qianqian",
+    "Brenner, Claus"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

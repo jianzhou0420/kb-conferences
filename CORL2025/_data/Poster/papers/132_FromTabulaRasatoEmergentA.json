@@ -1,0 +1,24 @@
+{
+  "title": "From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised QD",
+  "zotero_key": "MD24J2MD",
+  "authors": [
+    "Grillotti, Luca",
+    "Coiffard, Lisa",
+    "Pang, Oscar",
+    "Faldor, Maxence",
+    "Cully, Antoine"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

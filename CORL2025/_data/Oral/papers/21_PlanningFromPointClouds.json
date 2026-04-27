@@ -1,0 +1,12 @@
+{
+  "title": "Planning from Point Clouds over Continuous Actions for Multi-object Rearrangement",
+  "zotero_key": "XJUXXGMJ",
+  "authors": ["Saha, Kallol", "Li, Amber", "Eisner, Ben", "Likhachev, Maxim", "Held, David"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Task and Motion Planning (TAMP)", "Model-based RL"]
+  }
+}

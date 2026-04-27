@@ -1,0 +1,24 @@
+{
+  "title": "Constraint-Aware Diffusion Guidance for Robotics: Real-Time Obstacle Avoidance for Autonomous Racing",
+  "zotero_key": "Y4CP63XZ",
+  "authors": [
+    "Ma, Hao",
+    "Bodmer, Sabrina",
+    "Carron, Andrea",
+    "Zeilinger, Melanie",
+    "Muehlebach, Michael"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

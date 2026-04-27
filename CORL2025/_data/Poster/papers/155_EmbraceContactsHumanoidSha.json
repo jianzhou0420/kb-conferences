@@ -1,0 +1,21 @@
+{
+  "title": "Embrace Contacts: Humanoid Shadowing with Full Body Ground Contacts",
+  "zotero_key": "5T68YSZL",
+  "authors": [
+    "Zhuang, Ziwen",
+    "Zhao, Hang"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

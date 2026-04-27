@@ -1,0 +1,21 @@
+{
+  "title": "Off Policy Lyapunov Stability in Reinforcement Learning",
+  "zotero_key": "YRCFXRCJ",
+  "authors": [
+    "Gill, Sarvan",
+    "Constantiescu, Daniela"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

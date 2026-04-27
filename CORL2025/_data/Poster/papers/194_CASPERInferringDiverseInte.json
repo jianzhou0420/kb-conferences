@@ -1,0 +1,28 @@
+{
+  "title": "CASPER: Inferring Diverse Intents for Assistive Teleoperation with VLMs",
+  "zotero_key": "7JE38HRS",
+  "authors": [
+    "Liu, Huihan",
+    "Shah, Rutav",
+    "Liu, Shuijing",
+    "Pittenger, Jack",
+    "Seo, Mingyo",
+    "Cui, Yuchen",
+    "Bisk, Yonatan",
+    "Mart\u0131n-Mart\u0131n, Roberto",
+    "Zhu, Yuke"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Human-Robot Interaction"
+    ],
+    "models_type": [
+      "VLM model"
+    ],
+    "methods": [
+      "Teleoperation-based Data Collection"
+    ]
+  }
+}

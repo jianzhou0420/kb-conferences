@@ -1,0 +1,12 @@
+{
+  "title": "Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation",
+  "zotero_key": "TJEUBVF5",
+  "authors": ["Higuera, Carolina", "Sharma, Akash", "Fan, Taosha", "Bodduluri, Chaithanya Krishna", "Boots, Byron", "Kaess, Michael", "Lambeta, Mike", "Wu, Tingfan", "Liu, Zixi", "Hogan, Francois Robert", "Mukadam, Mustafa"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["Self-supervised Learning", "Contrastive Learning"]
+  }
+}

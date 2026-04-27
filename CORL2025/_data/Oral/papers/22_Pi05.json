@@ -1,0 +1,12 @@
+{
+  "title": "π0.5: a Vision-Language-Action Model with Open-World Generalization",
+  "zotero_key": "ZH9NBG6T",
+  "authors": ["Black, Kevin", "Brown, Noah", "Darpinian, James", "Dhabalia, Karan", "Driess, Danny", "Esmail, Adnan", "Equi, Michael", "Finn, Chelsea", "Fusai, Niccolo", "Galliker, Manuel Y", "Ghosh, Dibya", "Groom, Lachy", "Hausman, Karol", "Ichter, Brian", "Jakubczak, Szymon", "Jones, Tim", "Ke, Liyiming", "LeBlanc, Devin", "Levine, Sergey", "Li-Bell, Adrian", "Mothukuri, Mohith", "Nair, Suraj", "Pertsch, Karl", "Ren, Allen Z", "Shi, Lucy Xiaoyang", "Smith, Laura", "Springenberg, Jost Tobias", "Stachowicz, Kyle", "Tanner, James", "Vuong, Quan", "Walke, Homer", "Walling, Anna", "Wang, Haohuan", "Yu, Lili", "Zhilinsky, Ury"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["VLA model"],
+    "methods": ["End-to-End Learning", "Zero-shot/Few-shot Transfer", "Language-conditioned Learning"]
+  }
+}

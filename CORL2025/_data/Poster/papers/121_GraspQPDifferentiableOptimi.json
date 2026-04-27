@@ -1,0 +1,23 @@
+{
+  "title": "GraspQP: Differentiable Optimization of Force Closure for Dexterous Grasping",
+  "zotero_key": "SIFTKQUZ",
+  "authors": [
+    "Zurbrugg, Rene",
+    "Cramariuc, Andrei",
+    "Hutter, Marco"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

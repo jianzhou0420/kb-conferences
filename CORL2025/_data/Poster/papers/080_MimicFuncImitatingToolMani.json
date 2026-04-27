@@ -1,0 +1,27 @@
+{
+  "title": "MimicFunc: Imitating Tool Manipulation from a Single Human Video via Functional Correspondence",
+  "zotero_key": "PDR3VNDV",
+  "authors": [
+    "Tang, Chao",
+    "Xiao, Anxing",
+    "Deng, Yuhong",
+    "Hu, Tianrun",
+    "Dong, Wenlong",
+    "Zhang, Hanbo",
+    "Hsu, David",
+    "Zhang, Hong"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

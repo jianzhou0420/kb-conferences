@@ -1,0 +1,23 @@
+{
+  "title": "RICL: Adding In-Context Adaptability to Pre-Trained VLA Models",
+  "zotero_key": "9HH3NJUR",
+  "authors": [
+    "Sridhar, Kaustubh",
+    "Dutta, Souradeep",
+    "Jayaraman, Dinesh",
+    "Lee, Insup"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "VLA model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

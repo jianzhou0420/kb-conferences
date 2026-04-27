@@ -1,0 +1,25 @@
+{
+  "title": "Robust Dexterous Grasping of General Objects",
+  "zotero_key": "5YNWGPAU",
+  "authors": [
+    "Zhang, Hui",
+    "Wu, Zijian",
+    "Huang, Linyi",
+    "Christen, Sammy",
+    "Song, Jie"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

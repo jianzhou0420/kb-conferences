@@ -1,0 +1,12 @@
+{
+  "title": "Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance",
+  "zotero_key": "Q5R8SZGH",
+  "authors": ["Sunil, Neha", "Tippur, Megha", "Saumell, Arnau", "Adelson, Edward", "Rodriguez, Alberto"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["Imitation Learning", "Learning from Demonstration"]
+  }
+}

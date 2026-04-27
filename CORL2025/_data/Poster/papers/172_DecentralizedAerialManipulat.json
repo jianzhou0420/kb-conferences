@@ -1,0 +1,25 @@
+{
+  "title": "Decentralized Aerial Manipulation of a Cable-Suspended Load using Multi-Agent RL",
+  "zotero_key": "IEEDM87I",
+  "authors": [
+    "Zeng, Jack",
+    "Gimenez, Andreu Matoses",
+    "Vinitsky, Eugene",
+    "Alonso-Mora, Javier",
+    "Sun, Sihao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Multi-agent Embodied AI",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

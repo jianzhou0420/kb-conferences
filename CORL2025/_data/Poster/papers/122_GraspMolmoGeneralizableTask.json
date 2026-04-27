@@ -1,0 +1,29 @@
+{
+  "title": "GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data",
+  "zotero_key": "KYPG6FYH",
+  "authors": [
+    "Deshpande, Abhay",
+    "Deng, Yuquan",
+    "Ray, Arijit",
+    "Salvador, Jordi",
+    "Han, Winson",
+    "Duan, Jiafei",
+    "Zhu, Yuke",
+    "Krishna, Ranjay",
+    "Hendrix, Rose"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Dexterous Hand Manipulation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

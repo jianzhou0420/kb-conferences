@@ -1,0 +1,32 @@
+{
+  "title": "LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing",
+  "zotero_key": "2N3IXWTS",
+  "authors": [
+    "Lin, Changyi",
+    "Song, Yuxin Ray",
+    "Huo, Boda",
+    "Yu, Mingyang",
+    "Wang, Yikai",
+    "Liu, Shiqi",
+    "Yang, Yuxiang",
+    "Yu, Wenhao",
+    "Zhang, Tingnan",
+    "Tan, Jie",
+    "Luo, Yiyue",
+    "Zhao, Ding"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion",
+      "Dexterous Hand Manipulation"
+    ],
+    "models_type": [
+      "Multi-modal Foundation Models"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

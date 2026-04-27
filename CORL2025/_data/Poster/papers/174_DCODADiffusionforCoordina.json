@@ -1,0 +1,23 @@
+{
+  "title": "D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation",
+  "zotero_key": "GDYVRP6S",
+  "authors": [
+    "Liu, I-Chun Arthur",
+    "Chen, Jason",
+    "Sukhatme, Gaurav S",
+    "Seita, Daniel"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

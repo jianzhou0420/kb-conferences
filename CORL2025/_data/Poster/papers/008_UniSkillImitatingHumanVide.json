@@ -1,0 +1,25 @@
+{
+  "title": "UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations",
+  "zotero_key": "V3AALVUN",
+  "authors": [
+    "Kim, Hanjung",
+    "Kang, Jaehyun",
+    "Kang, Hyolim",
+    "Cho, Meedeum",
+    "Kim, Seon Joo",
+    "Lee, Youngwoon"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

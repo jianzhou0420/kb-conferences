@@ -1,0 +1,26 @@
+{
+  "title": "Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling",
+  "zotero_key": "D49RQYYU",
+  "authors": [
+    "Qiu, Xiaowen",
+    "Yang, Jincheng",
+    "Wang, Yian",
+    "Chen, Zhehuan",
+    "Wang, Yufei",
+    "Wang, Tsun-Hsuan",
+    "Xian, Zhou"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

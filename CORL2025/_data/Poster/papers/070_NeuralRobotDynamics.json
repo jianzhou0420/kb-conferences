@@ -1,0 +1,20 @@
+{
+  "title": "Neural Robot Dynamics",
+  "zotero_key": "4EQTXSUW",
+  "authors": [
+    "Anonymous"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

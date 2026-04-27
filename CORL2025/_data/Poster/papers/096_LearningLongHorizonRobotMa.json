@@ -1,0 +1,26 @@
+{
+  "title": "Learning Long-Horizon Robot Manipulation Skills via Privileged Action",
+  "zotero_key": "GNGNUXMJ",
+  "authors": [
+    "Mao, Xiaofeng",
+    "Xu, Yucheng",
+    "Sun, Zhaole",
+    "Miller, Elle",
+    "Layeghi, Daniel",
+    "Mistry, Michael"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

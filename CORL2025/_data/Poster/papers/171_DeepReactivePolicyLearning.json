@@ -1,0 +1,25 @@
+{
+  "title": "Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments",
+  "zotero_key": "XMEBX95S",
+  "authors": [
+    "Yang, Jiahui",
+    "Liu, Jason Jingzhou",
+    "Li, Yulong",
+    "Khaky, Youssef",
+    "Shaw, Kenneth",
+    "Pathak, Deepak"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

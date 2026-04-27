@@ -1,0 +1,27 @@
+{
+  "title": "AnyPlace: Learning Generalizable Object Placement for Robot Manipulation",
+  "zotero_key": "CEW2JZ9V",
+  "authors": [
+    "Zhao, Yuchi",
+    "Bogdanovic, Miroslav",
+    "Luo, Chengyuan",
+    "Tohme, Steven",
+    "Darvish, Kourosh",
+    "Aspuru-Guzik, Alan",
+    "Shkurti, Florian",
+    "Garg, Animesh"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

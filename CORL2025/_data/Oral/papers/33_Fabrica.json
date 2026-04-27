@@ -1,0 +1,12 @@
+{
+  "title": "Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning",
+  "zotero_key": "PCBTP3ED",
+  "authors": ["Tian, Yunsheng", "Jacob, Joshua", "Huang, Yijiang", "Zhao, Jialiang", "Gu, Edward", "Ma, Pingchuan", "Zhang, Annan", "Javid, Farhad", "Romero, Branden", "Chitta, Sachin", "Sueda, Shinjiro", "Li, Hui", "Matusik, Wojciech"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation"],
+    "models_type": ["small model"],
+    "methods": ["Task and Motion Planning (TAMP)", "Hierarchical Learning"]
+  }
+}

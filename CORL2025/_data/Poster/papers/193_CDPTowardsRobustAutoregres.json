@@ -1,0 +1,25 @@
+{
+  "title": "CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion",
+  "zotero_key": "43AJIJLB",
+  "authors": [
+    "Ma, Jiahua",
+    "Qin, Yiran",
+    "Li, Yixiong",
+    "Liao, Xuanqi",
+    "Guo, Yulan",
+    "Zhang, Ruimao"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy"
+    ]
+  }
+}

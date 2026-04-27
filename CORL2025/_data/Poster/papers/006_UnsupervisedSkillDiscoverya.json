@@ -1,0 +1,23 @@
+{
+  "title": "Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion",
+  "zotero_key": "GQ4UCZFN",
+  "authors": [
+    "Rho, Seungeun",
+    "Garg, Kartik",
+    "Byrd, Morgan",
+    "Ha, Sehoon"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Locomotion"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

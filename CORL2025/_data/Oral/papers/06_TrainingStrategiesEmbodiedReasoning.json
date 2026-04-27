@@ -1,0 +1,12 @@
+{
+  "title": "Training Strategies for Efficient Embodied Reasoning",
+  "zotero_key": "IPBU7J8K",
+  "authors": ["Chen, William", "Belkhale, Suneel", "Mirchandani, Suvir", "Mees, Oier", "Driess, Danny", "Pertsch, Karl", "Levine, Sergey"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Long-horizon Planning", "Manipulation"],
+    "models_type": ["VLA model", "VLM model"],
+    "methods": ["End-to-End Learning", "Language-conditioned Learning"]
+  }
+}

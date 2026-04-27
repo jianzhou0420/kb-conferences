@@ -1,0 +1,28 @@
+{
+  "title": "HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation",
+  "zotero_key": "ZI994FE9",
+  "authors": [
+    "Seneviratne, Gershom",
+    "An, Jianyu",
+    "Ellahy, Sahire",
+    "Weerakoon, Kasun",
+    "Elnoor, Mohamed Bashir",
+    "Kannan, Jonathan Deepak",
+    "Sunil, Amogha Thalihalla",
+    "Manocha, Dinesh"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Navigation",
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

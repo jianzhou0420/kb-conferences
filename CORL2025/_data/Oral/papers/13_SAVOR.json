@@ -1,0 +1,12 @@
+{
+  "title": "SAVOR: Skill Affordance Learning from Visuo-Haptic Perception for Robot-Assisted Bite Acquisition",
+  "zotero_key": "7D5SJ2QY",
+  "authors": ["Wu, Zhanxin", "Ai, Bo", "Silver, Tom", "Bhattacharjee, Tapomayukh"],
+  "conference": "CORL2025",
+  "presentation": "Oral",
+  "classification": {
+    "field": ["Manipulation", "Human-Robot Interaction"],
+    "models_type": ["Multi-modal Foundation Models"],
+    "methods": ["Imitation Learning", "Learning from Demonstration"]
+  }
+}

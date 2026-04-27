@@ -1,0 +1,25 @@
+{
+  "title": "CaRL: Learning Scalable Planning Policies with Simple Rewards",
+  "zotero_key": "367X4K6D",
+  "authors": [
+    "Jaeger, Bernhard",
+    "Dauner, Daniel",
+    "Bei\u00dfwenger, Jens",
+    "Gerstenecker, Simon",
+    "Chitta, Kashyap",
+    "Geiger, Andreas"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ]
+  }
+}

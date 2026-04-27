@@ -1,0 +1,25 @@
+{
+  "title": "ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning",
+  "zotero_key": "I4D5BRZG",
+  "authors": [
+    "Zhang, Yunchu",
+    "Mittal, Shubham",
+    "Zhang, Zhengyu",
+    "Ke, Liyiming",
+    "Srinivasa, Siddhartha",
+    "Gupta, Abhishek"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}

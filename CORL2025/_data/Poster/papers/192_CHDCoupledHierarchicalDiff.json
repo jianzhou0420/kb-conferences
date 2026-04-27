@@ -1,0 +1,24 @@
+{
+  "title": "CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks",
+  "zotero_key": "9GN8VIUU",
+  "authors": [
+    "Hao, Ce",
+    "Xiao, Anxing",
+    "Xue, Zhiwei",
+    "Soh, Harold"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning"
+    ],
+    "models_type": [
+      "Diffusion Models"
+    ],
+    "methods": [
+      "Diffusion Policy",
+      "Hierarchical Learning"
+    ]
+  }
+}

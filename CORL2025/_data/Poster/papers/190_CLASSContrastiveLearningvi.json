@@ -1,0 +1,23 @@
+{
+  "title": "CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation",
+  "zotero_key": "FR4693DT",
+  "authors": [
+    "Lee, Sung-Wook",
+    "Kang, Xuhui",
+    "Yang, Brandon",
+    "Kuo, Yen-Ling"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Manipulation"
+    ],
+    "models_type": [
+      "small model"
+    ],
+    "methods": [
+      "Self-supervised Learning"
+    ]
+  }
+}

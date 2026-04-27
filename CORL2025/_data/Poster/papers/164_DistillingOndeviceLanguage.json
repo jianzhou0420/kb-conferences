@@ -1,0 +1,26 @@
+{
+  "title": "Distilling On-device Language Models for Robot Planning with Minimal Human Intervention",
+  "zotero_key": "M793DAS3",
+  "authors": [
+    "Ravichandran, Zachary",
+    "Hounie, Ignacio",
+    "Cladera, Fernando",
+    "Ribeiro, Alejandro",
+    "Pappas, George J",
+    "Kumar, Vijay"
+  ],
+  "conference": "CORL2025",
+  "presentation": "Poster",
+  "classification": {
+    "field": [
+      "Long-horizon Planning",
+      "Manipulation"
+    ],
+    "models_type": [
+      "LLM model"
+    ],
+    "methods": [
+      "End-to-End Learning"
+    ]
+  }
+}
